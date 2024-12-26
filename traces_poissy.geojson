@@ -12,8 +12,12 @@
             },
             "properties": {
                 "name": "Chemin entre points d'eau",
-                "description": "Un tracé reliant plusieurs points d'eau à Poissy."
+                "description": "Tracé reliant plusieurs points d'eau à Poissy.",
+                "stroke": "#FF0000",        // Couleur du tracé
+                "stroke-width": 4,          // Épaisseur du tracé
+                "stroke-opacity": 0.8       // Transparence
             }
         }
     ]
 }
+
