@@ -1,23 +1,23 @@
 {
     "type": "FeatureCollection",
     "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [2.0386896990759, 48.926293382345],
-                    [2.0213488825144, 48.927043562679]
-                ]
-            },
-            "properties": {
-                "name": "Chemin entre points d'eau",
-                "description": "Tracé reliant plusieurs points d'eau à Poissy.",
-                "stroke": "#FF0000",        // Couleur du tracé
-                "stroke-width": 4,          // Épaisseur du tracé
-                "stroke-opacity": 0.8       // Transparence
-            }
+      {
+        "type": "Feature",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            [
+              2.012936434212804,
+              48.91874447648652
+            ],
+            [
+              2.0425300318138966,
+              48.93099898049883
+            ]
+          ],
+          "type": "LineString"
         }
+      }
     ]
-}
+  }
 
