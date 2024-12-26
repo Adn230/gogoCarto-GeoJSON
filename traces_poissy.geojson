@@ -1,43 +1,22 @@
 {
     "type": "FeatureCollection",
     "features": [
-      {
-        "type": "Feature",
-        "properties": {
-          "stroke": "#eb1414",
-          "stroke-width": 2,
-          "stroke-opacity": 1,
-          "fill": "#8a4db3",
-          "fill-opacity": 0.5
-        },
-        "geometry": {
-          "coordinates": [
-            [
-              [
-                2.03853431517436,
-                48.93126243323681
-              ],
-              [
-                2.018578763843294,
-                48.924389906709166
-              ],
-              [
-                2.034144716519876,
-                48.9175778087467
-              ],
-              [
-                2.0526682002044936,
-                48.928951242676675
-              ],
-              [
-                2.03853431517436,
-                48.93126243323681
-              ]
-            ]
-          ],
-          "type": "Polygon"
-        },
-        "id": 0
-      }
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [2.0386896990759, 48.926293382345],  
+                    [2.0213488825144, 48.927043562679]   
+                ]
+            },
+            "properties": {
+                "name": "Chemin A-B",
+                "description": "Tracé entre le point A et le point B.",
+                "stroke": "#FF0000",
+                "stroke-width": 4,
+                "stroke-opacity": 0.8
+            }
+        }
     ]
-  }
+}
