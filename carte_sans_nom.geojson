@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [],
+        "type": "LineString"
+      },
+      "properties": {},
+      "id": "E5Nzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.367787,
+          43.300103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Point A"
+      },
+      "id": "U2Mzg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.371789,
+          43.296254
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Point B"
+      },
+      "id": "gyODI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            5.371789,
+            43.296261
+          ],
+          [
+            5.371424,
+            43.29819
+          ],
+          [
+            5.371295,
+            43.298354
+          ],
+          [
+            5.370995,
+            43.298432
+          ],
+          [
+            5.37151,
+            43.299283
+          ],
+          [
+            5.371338,
+            43.299439
+          ],
+          [
+            5.370877,
+            43.299424
+          ],
+          [
+            5.370845,
+            43.299268
+          ],
+          [
+            5.36945,
+            43.299291
+          ],
+          [
+            5.369418,
+            43.299252
+          ],
+          [
+            5.368216,
+            43.299338
+          ],
+          [
+            5.368302,
+            43.300025
+          ],
+          [
+            5.367755,
+            43.300103
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "name": "Tracet entre A et B"
+      },
+      "id": "Y2MjY"
+    }
+  ]
+}
