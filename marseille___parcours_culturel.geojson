@@ -1,0 +1,1784 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.320912599563599,
+          43.36430089578201
+        ]
+      },
+      "properties": {
+        "name": "Agence de voyages imaginaires",
+        "description": "## Le Pôle nord\nRéhabilité par la compagnie l'Agence de Voyages Imaginaires, le bâtiment du Pole Nord est une ancienne fabrique qui a abrité une succession d'entreprises depuis le début du XXème siècle, notamment l'« Inter-sub », entreprise de sous-marins qui accueillait l'équipe du commandant Cousteau.\nBruno Krief de la compagnie des Loups Masqués présente l'agence de voyages imaginaires:\n{{{http://ancrages.org/wp-content/uploads/2015/12/06-presentation_pole_nord.mp3|45}}}\nLe Pôle Nord est aujourd'hui un lieu de résidence artistique dynamique.\n{{http://ancrages.org/wp-content/uploads/2015/12/DSC_0158.jpg}}\n{{http://ancrages.org/wp-content/uploads/2015/12/DSC_0166.jpg}}\n[[http://www.voyagesimaginaires.fr/|Visiter le site de l'agence de voyages imaginaires]]\n{{http://ancrages.org/wp-content/uploads/2015/12/DSC_0173.jpg}}\n"
+      },
+      "id": "Y3MTY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.331794321537018,
+          43.35974753792909
+        ]
+      },
+      "properties": {
+        "name": "Ancien cinéma Le Palace/Casino",
+        "description": "{{{https://www.youtube.com/embed/c9_Od0sGG0M}}}\nUne vidéo de l'association Paroles et Images Engagées"
+      },
+      "id": "AxMTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.330506861209869,
+          43.36134661473771
+        ]
+      },
+      "properties": {
+        "name": "Ancienne tometière de Saint-Henri"
+      },
+      "id": "c3ODM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.330362021923065,
+          43.36092539859388
+        ]
+      },
+      "properties": {
+        "name": "Anciennes harmonies de Saint-Henri",
+        "description": "L’harmonie de l’Estaque gare a été fondée en 1820 par l’abbé Chaillan, de la paroisse de Saint Henri, qui aurait fondé la chorale des enfants d’Orphée en 1821 et aurait donné naissance à l'harmonie Sainte Cécile. Ce ne serait que plus tard, vers le milieu du XIXème siècle que naquit officiellement ce qui deviendra l'harmonie de l'Estaque Gare.\n**Récit de Severin Montarello**:\n{{{http://ancrages.org/wp-content/uploads/2015/12/Harmonie-sainte-cécile.mp3|45}}}\n{{http://ancrages.org/wp-content/uploads/2015/12/FB-Association-Musicale-Ste-Cecile-a.jpg}}"
+      },
+      "id": "k0NjY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.32886266708374,
+          43.36191018176373
+        ]
+      },
+      "properties": {
+        "name": "Arrivée: Association Ancrages",
+        "description": "## La nouvelle Monjarde, patrimoine d'habitat social\nAvant  l’arrivée de la voie ferrée, qui va couper la propriété de Monjarde en deux, le quartier ne faisait qu’un: la « campagne descendait » du haut du lieu-dit jusqu’en bas, l’actuel Saint-Henri. Ici, Habitat Marseille Provence gère un petit patrimoine immobilier de 70 logements HLM. \nCet ensemble d’habitat social, bâti en 1994 a permis de reloger un certain nombre de famille qui venaient de « Chieusse pasteur », de « Campagne Fenouil » et de différents bidonvilles qui composaient les alentours de Saint-Henri : « Rabelais », « Campagne Gavot », « Grand Camp », le ponts et chaussés maritime … !\n\n[[http://ancrages.org/wp-content/uploads/2015/10/IMG_0412_-carte-bidonvilles-1976-modif1.jpg|{{http://ancrages.org/wp-content/uploads/2015/10/IMG_0412_-carte-bidonvilles-1976-modif1.jpg}}]]\n[[http://ancrages.org/wp-content/uploads/2015/10/IMG_0412_-carte-bidonvilles-1976-modif1.jpg|Carte des bidonvilles en 1976]]\n\n[[http://ancrages.org/wp-content/uploads/2015/10/IMG_3309-modif.jpg|{{http://ancrages.org/wp-content/uploads/2015/10/IMG_3309-modif.jpg}}]]\n\n[[http://ancrages.org/wp-content/uploads/2015/10/IMG_3310-modif.jpg|{{http://ancrages.org/wp-content/uploads/2015/10/IMG_3310-modif.jpg}}]]"
+      },
+      "id": "IzMzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.329313278198242,
+          43.36546891837136
+        ]
+      },
+      "properties": {
+        "name": "Balleti italien",
+        "description": "L'impasse de la Bardaque a longtemps accueilli un balleti italien. Les balletis font parties des espaces de fêtes des classes populaires qui, au XXème siècle, accèdent  aux loisirs et aux congés payés, jusqu'alors l'apanage de la bourgeoisie."
+      },
+      "id": "kyOTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.32086968421936,
+              43.36009465818354
+            ],
+            [
+              5.32238245010376,
+              43.3598684452094
+            ],
+            [
+              5.322242975234985,
+              43.35876857010905
+            ],
+            [
+              5.321094989776611,
+              43.35769207730054
+            ],
+            [
+              5.320923328399658,
+              43.358105515203306
+            ],
+            [
+              5.320537090301514,
+              43.35809771451424
+            ],
+            [
+              5.32086968421936,
+              43.36009465818354
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Bidonville \"Fenouil\"",
+        "description": "Campement de gitans à Campagne-Fenouil [[http://ancrages.org/wp-content/uploads/2015/12/AD13_72Fi32_32_0001.jpg|{{http://ancrages.org/wp-content/uploads/2015/12/AD13_72Fi32_32_0001.jpg}}]]\n© Jacques Windenberger, 10/02/1992"
+      },
+      "id": "U0NjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.321449041366576,
+          43.35902208918759
+        ]
+      },
+      "properties": {
+        "name": "Bidonville \"Fenouil\"",
+        "description": "Campement de gitans à Campagne-Fenouil [[http://ancrages.org/wp-content/uploads/2015/12/AD13_72Fi32_32_0001.jpg|{{http://ancrages.org/wp-content/uploads/2015/12/AD13_72Fi32_32_0001.jpg}}]]\n© Jacques Windenberger, 10/02/1992"
+      },
+      "id": "cwMTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.340557098388672,
+              43.35996205068031
+            ],
+            [
+              5.339655876159668,
+              43.36064068602548
+            ],
+            [
+              5.339505672454834,
+              43.36050027933546
+            ],
+            [
+              5.339811444282532,
+              43.36012585990689
+            ],
+            [
+              5.340026021003723,
+              43.36014146076253
+            ],
+            [
+              5.340197682380676,
+              43.36009855839981
+            ],
+            [
+              5.340299606323242,
+              43.360036154909004
+            ],
+            [
+              5.340369343757629,
+              43.359977651578085
+            ],
+            [
+              5.340412259101868,
+              43.3599074475065
+            ],
+            [
+              5.340557098388672,
+              43.35996205068031
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Bidonville \"Grand Camp\""
+      },
+      "id": "I1MTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3398919105529785,
+          43.36028576848718
+        ]
+      },
+      "properties": {
+        "name": "Bidonville \"Grand Camp\""
+      },
+      "id": "UwNzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.342917442321777,
+              43.361147707478644
+            ],
+            [
+              5.34260630607605,
+              43.361888731211515
+            ],
+            [
+              5.343775749206543,
+              43.3620759357751
+            ],
+            [
+              5.3443443775177,
+              43.361600123044255
+            ],
+            [
+              5.345170497894287,
+              43.36142071727535
+            ],
+            [
+              5.3443443775177,
+              43.36074209065508
+            ],
+            [
+              5.344001054763794,
+              43.360921498430734
+            ],
+            [
+              5.3437864780426025,
+              43.36071088924862
+            ],
+            [
+              5.342917442321777,
+              43.361147707478644
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Bidonville \"La Lorette\"",
+        "description": "Le bidonville de La Lorette était habité par 40 familles de Kabyles, anciens ouvriers des tuileries de St André. [[http://ancrages.org/wp-content/uploads/2015/12/AD13_72Fi28_61_0001-e1449826671523.jpg|{{http://ancrages.org/wp-content/uploads/2015/12/AD13_72Fi28_61_0001-e1449826671523.jpg}}]]\n©Jacques Windenberger, 16/02/1991\nun groupe de Kabyle, anciens ouvriers des Tuileries.\n[[http://ancrages.org/wp-content/uploads/2015/06/AD13_72Fi28_94_0001-e1433429927925.jpg|{{http://ancrages.org/wp-content/uploads/2015/06/AD13_72Fi28_94_0001-e1433429927925.jpg}}]]\n© Jacques Windenberger, 15/04/1992\n\n"
+      },
+      "id": "UxMzg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.343754291534424,
+          43.361428517537206
+        ]
+      },
+      "properties": {
+        "name": "Bidonville \"La Lorette\"",
+        "description": "Le bidonville de La Lorette était habité par 40 familles de Kabyles, anciens ouvriers des tuileries de St André. [[http://ancrages.org/wp-content/uploads/2015/12/AD13_72Fi28_61_0001-e1449826671523.jpg|{{http://ancrages.org/wp-content/uploads/2015/12/AD13_72Fi28_61_0001-e1449826671523.jpg}}]]\n©Jacques Windenberger, 16/02/1991\nun groupe de Kabyle, anciens ouvriers des Tuileries.\n[[http://ancrages.org/wp-content/uploads/2015/06/AD13_72Fi28_94_0001-e1433429927925.jpg|{{http://ancrages.org/wp-content/uploads/2015/06/AD13_72Fi28_94_0001-e1433429927925.jpg}}]]\n© Jacques Windenberger, 15/04/1992"
+      },
+      "id": "AzNTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.337510108947754,
+              43.357419050726
+            ],
+            [
+              5.337735414505005,
+              43.35667797240247
+            ],
+            [
+              5.338497161865234,
+              43.35671697675042
+            ],
+            [
+              5.338046550750732,
+              43.35587447725721
+            ],
+            [
+              5.337799787521362,
+              43.35638153853886
+            ],
+            [
+              5.33734917640686,
+              43.35624112199277
+            ],
+            [
+              5.336898565292358,
+              43.357192827776444
+            ],
+            [
+              5.337510108947754,
+              43.357419050726
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Bidonville \"Rabelais\""
+      },
+      "id": "g3NzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.337467193603516,
+          43.35664676890609
+        ]
+      },
+      "properties": {
+        "name": "Bidonville \"Rabelais\""
+      },
+      "id": "EwMjc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.331598520278931,
+          43.36037547311599
+        ]
+      },
+      "properties": {
+        "name": "Boulevard Mouren (actuel boulevard d'Annam)",
+        "description": "[[http://ancrages.org/wp-content/uploads/2015/10/boulevard-mouren-actuel-annam.png|{{http://ancrages.org/wp-content/uploads/2015/10/boulevard-mouren-actuel-annam.png}}]]"
+      },
+      "id": "UwMzM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.319709628820419,
+          43.364334045314166
+        ]
+      },
+      "properties": {
+        "name": "Campagne Marie-Jeanne",
+        "description": "Les traces des anciennes « campagnes » sont nombreuses dans le XVIème arrondissement, comme en témoigne la bâtisse de la « campagne Marie Jeanne ». Ces propriétés agricoles, aussi lieux de villégiature de la bourgeoisie marseillaise où s'érigeait les bastides, vont être chamboulées par l'industrialisation rapide au Nord de Marseille.  \n{{http://ancrages.org/wp-content/uploads/2015/12/campagnemariejeanne1.jpg}}\n{{http://ancrages.org/wp-content/uploads/2015/12/campagnemariejeanne2.jpg}}"
+      },
+      "id": "kyMjI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.321701169013977,
+          43.36500873185572
+        ]
+      },
+      "properties": {
+        "name": "Château Bovis",
+        "description": "Château Bovis est un ancien hameau de pêcheurs et de fabricants de tuiles dominant la rade de Marseille. Des logements à coursières construits en 1880 par l’industriel Bovis et classés à l’inventaire général du patrimoine culturel.\n{{http://ancrages.org/wp-content/uploads/2015/12/chateau-bovis.jpg}}"
+      },
+      "id": "g2NzI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.333372801542282,
+          43.3613212638488
+        ]
+      },
+      "properties": {
+        "name": "Cimetière de Saint-Henri",
+        "description": "Le cimetière contient les caveaux des grands Tuiliers de Marseille : Les Roux frères, Pierre Sacoman, les Bonnet. \nUn monument aux morts des première et seconde guerres mondiales s'y trouve, dont aucune référence aux anciens combattants de l'Armée d'Afrique n'y figure. Combattants qui ont fait la libération de la Provence, notamment sur les collines que nous traversons par cette balade.\n{{http://ancrages.org/wp-content/uploads/2015/12/DSC_0232.jpg}}\n{{http://ancrages.org/wp-content/uploads/2015/12/DSC_0107.jpg}}"
+      },
+      "id": "gzMTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.330281555652618,
+          43.360699188717085
+        ]
+      },
+      "properties": {
+        "name": "Cinéma l'Alhambra",
+        "description": "L’Alhambra est l’un des derniers cinémas de quartier. Saint Henri, l’Estaque et Saint André, connurent une dizaine de cinémas de quartier, notamment l’ancien cinéma Le Rio, aujourd’hui réhabilité, qui  accueille l’ensemble de musique Télémaque.\n{{http://ancrages.org/wp-content/uploads/2015/12/DSC_0103.jpg}}\n[[http://www.alhambracine.com/|Cinéma municipal l'Alhambra]]\n{{{https://www.youtube.com/embed/vtWrKHRSM10}}}",
+        "_umap_options": {
+          "0": "{",
+          "1": "\"",
+          "2": "i",
+          "3": "c",
+          "4": "o",
+          "5": "n",
+          "6": "C",
+          "7": "l",
+          "8": "a",
+          "9": "s",
+          "10": "s",
+          "11": "\"",
+          "12": ":",
+          "13": "\"",
+          "14": "D",
+          "15": "e",
+          "16": "f",
+          "17": "a",
+          "18": "u",
+          "19": "l",
+          "20": "t",
+          "21": "\"",
+          "22": "}"
+        }
+      },
+      "id": "EzODA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.328699052333832,
+          43.363704201105875
+        ]
+      },
+      "properties": {
+        "name": "Copropriété de la Monjarde",
+        "description": "[[http://ancrages.org/wp-content/uploads/2015/12/pano-2-1-copie.jpg|{{http://ancrages.org/wp-content/uploads/2015/12/pano-2-1-copie.jpg}}]]\nEn 1998 s’est constituée, à partir d’une ancienne usine de traitement du caoutchouc (élastiques, semelles), la copropriété de la Monjarde. Celle-ci était composée de deux bâtiments à peu près de même surface, l’un du XVIIIème siècle et l’autre des années 1970.\nLa « campagne Monjarde »  était également l’espace de villégiature de la bourgeoisie marseillaise. Cette propriété est précisément située à la campagne « Monjarde les favents » du nom d’un ruisseau qui y passe."
+      },
+      "id": "k4NDM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.32135,
+          43.363554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Départ gare de l'Estaque",
+        "description": "Nœud ferroviaire au cœur de l'essor industriel du Bassin de Séon, la gare de l'Estaque est créée en 1851. Au delà de sa vocation industrielle et commerciale initiale, la gare est très vite équipée d'un bâtiment voyageur, offrant ainsi une plus grande mobilité aux Estaquéens.\n[[http://ancrages.org/wp-content/uploads/2015/10/8-Gare-Estaque-1893.jpg|{{http://ancrages.org/wp-content/uploads/2015/10/8-Gare-Estaque-1893.jpg}}]][[http://ancrages.org/wp-content/uploads/2015/10/8-Gare-Estaque-1893.jpg|La gare de l'Estaque en 1893]]\n\nDès son origine, la gare est inscrite dans la construction de la ligne PLM (Paris-Lyon-Méditerrannée) qui apparaît à la fin du XIXème siècle. Elle est aussi une halte importante de la ligne de la Côte Bleue en direction de Miramas, qui voit le jour au début du XXème siècle et demeure encore comme la « ligne des vacances » dans les mémoires ouvrières du quartier.\n{{http://ancrages.org/wp-content/uploads/2015/12/Affiche-Cie-Paquet.jpg}}\n\nLa gare est aujourd'hui classée comme monument historique notamment pour sa spécificité architecturale alliant des bâtiments classiques, tel que le bâtiment voyageur, et des structures art déco, visibles sur le poteaux rivetés des quais, datant des années 20.\n\n{{http://ancrages.org/wp-content/uploads/2015/12/DSC_0112.jpg}}\n{{http://ancrages.org/wp-content/uploads/2015/12/DSC_0157.jpg}}\nLa gare de l'Estaque en 2015",
+        "_umap_options": {
+          "color": "Tan",
+          "iconClass": "Drop",
+          "iconUrl": "1"
+        }
+      },
+      "id": "UyNTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.320038199424744,
+          43.364111748105
+        ]
+      },
+      "properties": {
+        "name": "Les Montarello, une famille italienne à l'Estaque",
+        "description": "{{{http://ancrages.org/wp-content/uploads/2015/12/04-histoire_famille_montarello.mp3|45}}}\n{{http://ancrages.org/wp-content/uploads/2015/12/Famille-immigré-italien-paroles-dargile.jpg}}\nTraces de l'habitat ouvrier\n{{http://ancrages.org/wp-content/uploads/2015/12/20151113_103421.jpg}}\n"
+      },
+      "id": "U4OTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.331137180328369,
+          43.357840291212256
+        ]
+      },
+      "properties": {
+        "name": "Les tuileries de St Henri et St André",
+        "description": "[[http://ancrages.org/wp-content/uploads/2015/10/Image2.png|{{http://ancrages.org/wp-content/uploads/2015/10/Image2.png}}]]\n[[http://ancrages.org/wp-content/uploads/2015/10/carte-des-tuileries.jpg|{{http://ancrages.org/wp-content/uploads/2015/10/carte-des-tuileries.jpg}}]]\n"
+      },
+      "id": "YzMDg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.319276452064514,
+          43.363797800658865
+        ]
+      },
+      "properties": {
+        "name": "Point de vue - Traverse Bovis",
+        "description": "Ce pont ferroviaire offre une vue imprenable sur le Bassin de Séon, composé des trois noyaux villageois de Saint -André, Saint Henry et l'Estaque. Évoquer le « Bassin de Séon » c'est rappeler le patrimoine tuilier qui façonne l'identité de ces quartiers, mais aussi l'implantation historique d'autres types d'industries telle que la Société coloniale des Chaux et Ciments ou encore les industries de produits chimiques Khulmann et Perroya dans le quartier des Riaux, au pied du massif de la Nerthe.\n\n[[https://www.flickr.com/photos/ancrages-association/18670246269/in/dateposted-public/|{{https://c2.staticflickr.com/4/3833/18670246269_b094441474_b.jpg}}]]\n{{http://ancrages.org/wp-content/uploads/2015/12/20151113_103211.jpg}}\n{{{http://ancrages.org/wp-content/uploads/2015/12/02-gares_PLM_transports_matériaux.mp3|45}}}"
+      },
+      "id": "g1NTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.325901508331299,
+          43.36464993994697
+        ]
+      },
+      "properties": {
+        "name": "TCSI contenair, ancienne tuilerie Pierre Sacoman",
+        "description": "Au cœur du « Vallon de Bizet », l'actuelle entreprise de stockage de contener TCSI Marseille Bovis, est installée sur l'ancienne propriété de la tuilerie Pierre Sacoman. Fondée en 1856, l'industrie Pierre Sacoman qui intégrera la SGTM (Société Générale des Tuileries de Marseille), guichet unique d'exportation des tuiles à l'international au début du siècle.\n{{{http://ancrages.org/wp-content/uploads/2015/12/SGTM-tuileries.mp3|45}}} \n[[http://ancrages.org/wp-content/uploads/2015/12/Affoche-SGTM-vue-générale-tuileries-e1449676180955.jpg|{{http://ancrages.org/wp-content/uploads/2015/12/Affoche-SGTM-vue-générale-tuileries-e1449676180955.jpg}}]]"
+      },
+      "id": "AzMTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.33161997795105,
+          43.35879197191451
+        ]
+      },
+      "properties": {
+        "name": "Terrain d'accueil de Saint Henri"
+      },
+      "id": "I0ODI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.333765745162964,
+              43.35797680370537
+            ],
+            [
+              5.332810878753662,
+              43.35913909763578
+            ],
+            [
+              5.3326016664505005,
+              43.35911179568473
+            ],
+            [
+              5.332333445549011,
+              43.35886997786757
+            ],
+            [
+              5.332140326499939,
+              43.35898698660912
+            ],
+            [
+              5.332322716712951,
+              43.3591507984682
+            ],
+            [
+              5.330917239189148,
+              43.359833343120584
+            ],
+            [
+              5.330423712730408,
+              43.359357512802056
+            ],
+            [
+              5.330316424369812,
+              43.35943551802804
+            ],
+            [
+              5.329710245132446,
+              43.358897279927454
+            ],
+            [
+              5.330675840377808,
+              43.358316133429184
+            ],
+            [
+              5.331534147262573,
+              43.3580704120946
+            ],
+            [
+              5.331743359565735,
+              43.35803140861665
+            ],
+            [
+              5.33187210559845,
+              43.358078212787184
+            ],
+            [
+              5.331957936286926,
+              43.358121116578445
+            ],
+            [
+              5.331968665122986,
+              43.35819912339397
+            ],
+            [
+              5.331968665122986,
+              43.35826932944219
+            ],
+            [
+              5.332537293434143,
+              43.35753606226552
+            ],
+            [
+              5.333765745162964,
+              43.35797680370537
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Terrain d'accueil de Saint Henri"
+      },
+      "id": "MzNDY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.32134711742401,
+            43.3635287015548
+          ],
+          [
+            5.321196913719177,
+            43.363530651552594
+          ],
+          [
+            5.320896506309508,
+            43.36362425137336
+          ],
+          [
+            5.320537090301514,
+            43.36369835112903
+          ],
+          [
+            5.3197163343429565,
+            43.36372565101621
+          ],
+          [
+            5.319507122039795,
+            43.36367105122959
+          ],
+          [
+            5.319415926933288,
+            43.36367105122959
+          ],
+          [
+            5.3193676471710205,
+            43.36369347614789
+          ],
+          [
+            5.319323390722275,
+            43.36372467602045
+          ],
+          [
+            5.319299250841141,
+            43.36375587587696
+          ],
+          [
+            5.319285839796066,
+            43.36378707571742
+          ],
+          [
+            5.319287180900574,
+            43.36385825029343
+          ],
+          [
+            5.3193099796772,
+            43.36407664847119
+          ],
+          [
+            5.3203654289245605,
+            43.36405714866586
+          ],
+          [
+            5.3204914927482605,
+            43.36406299860812
+          ],
+          [
+            5.320978313684463,
+            43.36420047208878
+          ],
+          [
+            5.321145951747894,
+            43.36417804735788
+          ],
+          [
+            5.321159362792969,
+            43.36417999733481
+          ],
+          [
+            5.321854054927826,
+            43.36404934874197
+          ],
+          [
+            5.322275161743164,
+            43.364025948964276
+          ],
+          [
+            5.3239864110946655,
+            43.36394794964018
+          ],
+          [
+            5.325096845626831,
+            43.36393234976331
+          ],
+          [
+            5.325745940208434,
+            43.36394599965577
+          ],
+          [
+            5.3260838985443115,
+            43.36408444839159
+          ],
+          [
+            5.326185822486877,
+            43.36412344797842
+          ],
+          [
+            5.326282382011414,
+            43.364103948188124
+          ],
+          [
+            5.326480865478516,
+            43.36422094683586
+          ],
+          [
+            5.32658815383911,
+            43.36433794525792
+          ],
+          [
+            5.32661497592926,
+            43.36445884339035
+          ],
+          [
+            5.32661497592926,
+            43.36464214009929
+          ],
+          [
+            5.326690077781676,
+            43.364778637288744
+          ],
+          [
+            5.327146053314209,
+            43.36513352854393
+          ],
+          [
+            5.327339172363281,
+            43.36530902345237
+          ],
+          [
+            5.327575206756591,
+            43.36545331888563
+          ],
+          [
+            5.327867567539215,
+            43.365474768177506
+          ],
+          [
+            5.328460335731506,
+            43.365472818242175
+          ],
+          [
+            5.329087972640991,
+            43.36546111862901
+          ],
+          [
+            5.329353511333466,
+            43.36536752164237
+          ],
+          [
+            5.329592227935791,
+            43.365195926791756
+          ],
+          [
+            5.3303539752960205,
+            43.36483713599021
+          ],
+          [
+            5.330539047718048,
+            43.36478253720393
+          ],
+          [
+            5.330740213394164,
+            43.36476693754169
+          ],
+          [
+            5.331198871135712,
+            43.36478838707625
+          ],
+          [
+            5.331424176692963,
+            43.364318445536576
+          ],
+          [
+            5.331696420907974,
+            43.36385045034398
+          ],
+          [
+            5.331186801195145,
+            43.363873850189364
+          ],
+          [
+            5.331095606088638,
+            43.36386020028064
+          ],
+          [
+            5.331028550863265,
+            43.36382705048957
+          ],
+          [
+            5.330950766801834,
+            43.36369055115902
+          ],
+          [
+            5.330890417098999,
+            43.36365057629692
+          ],
+          [
+            5.3308045864105225,
+            43.36363497634359
+          ],
+          [
+            5.328704416751861,
+            43.363704201105875
+          ],
+          [
+            5.3308045864105225,
+            43.363634001346384
+          ],
+          [
+            5.330889075994492,
+            43.36364960129995
+          ],
+          [
+            5.3309521079063416,
+            43.36369055115902
+          ],
+          [
+            5.331028550863265,
+            43.363824125507136
+          ],
+          [
+            5.331096947193146,
+            43.36386117527424
+          ],
+          [
+            5.331190824508667,
+            43.36387580017606
+          ],
+          [
+            5.331697762012482,
+            43.36384850035647
+          ],
+          [
+            5.331819802522659,
+            43.363634001346384
+          ],
+          [
+            5.3319767117500305,
+            43.36343217658527
+          ],
+          [
+            5.331965982913971,
+            43.36299634981073
+          ],
+          [
+            5.332030355930328,
+            43.362938824342585
+          ],
+          [
+            5.332125574350357,
+            43.36292127418893
+          ],
+          [
+            5.332395136356354,
+            43.362918349162804
+          ],
+          [
+            5.332836359739303,
+            43.36226216474178
+          ],
+          [
+            5.332896709442139,
+            43.36213248704008
+          ],
+          [
+            5.332918167114257,
+            43.36199013375518
+          ],
+          [
+            5.332911461591721,
+            43.36184095495434
+          ],
+          [
+            5.3328752517700195,
+            43.361693725843544
+          ],
+          [
+            5.332723706960678,
+            43.36111845635613
+          ],
+          [
+            5.333372801542282,
+            43.36131541364216
+          ],
+          [
+            5.332721024751663,
+            43.361117481318466
+          ],
+          [
+            5.332730412483215,
+            43.36088152174404
+          ],
+          [
+            5.3314805030822745,
+            43.36098390101093
+          ],
+          [
+            5.330624878406525,
+            43.361253011402916
+          ],
+          [
+            5.330407619476318,
+            43.36091369810369
+          ],
+          [
+            5.330284237861633,
+            43.36068261296019
+          ],
+          [
+            5.3304411470890045,
+            43.36097317557204
+          ],
+          [
+            5.33062219619751,
+            43.361256911544736
+          ],
+          [
+            5.328892171382904,
+            43.36182827961447
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tracé de la balade",
+        "description": "La balade commence à la gare de l'Estaque, traverse la voie de chemin de fer par la traverse Bovis, puis monte sur le chemin de Bizet, redescend par le chemin Charmasson, traverse à nouveau la voie de chemin de fer pour se diriger vers le village de Saint Henri, passe par le cimetière et la place Raphel pour se terminer devant les locaux d'Ancrages.",
+        "_umap_options": {
+          "0": "{",
+          "1": "\"",
+          "2": "c",
+          "3": "o",
+          "4": "l",
+          "5": "o",
+          "6": "r",
+          "7": "\"",
+          "8": ":",
+          "9": "\"",
+          "10": "R",
+          "11": "e",
+          "12": "d",
+          "13": "\"",
+          "14": ",",
+          "15": "\"",
+          "16": "o",
+          "17": "p",
+          "18": "a",
+          "19": "c",
+          "20": "i",
+          "21": "t",
+          "22": "y",
+          "23": "\"",
+          "24": ":",
+          "25": "\"",
+          "26": "1",
+          "27": "\"",
+          "28": ",",
+          "29": "\"",
+          "30": "w",
+          "31": "e",
+          "32": "i",
+          "33": "g",
+          "34": "h",
+          "35": "t",
+          "36": "\"",
+          "37": ":",
+          "38": "\"",
+          "39": "3",
+          "40": "\"",
+          "41": ",",
+          "42": "\"",
+          "43": "d",
+          "44": "a",
+          "45": "s",
+          "46": "h",
+          "47": "A",
+          "48": "r",
+          "49": "r",
+          "50": "a",
+          "51": "y",
+          "52": "\"",
+          "53": ":",
+          "54": "\"",
+          "55": "1",
+          "56": "\"",
+          "57": "}"
+        }
+      },
+      "id": "M5Mzk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.317500829696655,
+              43.3614129170125
+            ],
+            [
+              5.318176746368408,
+              43.36124911126082
+            ],
+            [
+              5.317779779434204,
+              43.36038327351222
+            ],
+            [
+              5.31712532043457,
+              43.36051588009485
+            ],
+            [
+              5.317500829696655,
+              43.3614129170125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tuilerie Amendée Pierre"
+      },
+      "id": "M5ODI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.332016944885254,
+              43.35822252541905
+            ],
+            [
+              5.332982540130615,
+              43.3586515609463
+            ],
+            [
+              5.333636999130248,
+              43.35794950123133
+            ],
+            [
+              5.33261775970459,
+              43.357426851502325
+            ],
+            [
+              5.332016944885254,
+              43.35822252541905
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tuilerie Arnaud"
+      },
+      "id": "A1MTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.320279598236083,
+              43.35789489624636
+            ],
+            [
+              5.321921110153198,
+              43.35801970756836
+            ],
+            [
+              5.321921110153198,
+              43.35760626908093
+            ],
+            [
+              5.320279598236083,
+              43.35751265997567
+            ],
+            [
+              5.320279598236083,
+              43.35789489624636
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tuilerie Fenouil Mer"
+      },
+      "id": "QyMjc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.337413549423218,
+              43.361311513504084
+            ],
+            [
+              5.338078737258911,
+              43.36167812538703
+            ],
+            [
+              5.338679552078247,
+              43.36099170132895
+            ],
+            [
+              5.337917804718018,
+              43.36053148085021
+            ],
+            [
+              5.337413549423218,
+              43.361311513504084
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tuilerie Grand Camp"
+      },
+      "id": "AzOTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.351693630218506,
+              43.35534400861224
+            ],
+            [
+              5.348110198974609,
+              43.35780908831356
+            ],
+            [
+              5.350856781005859,
+              43.35807431244102
+            ],
+            [
+              5.352036952972412,
+              43.35726303498897
+            ],
+            [
+              5.351693630218506,
+              43.35534400861224
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tuilerie Guichard Carvin"
+      },
+      "id": "YxNDQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.33661961555481,
+              43.35922100341528
+            ],
+            [
+              5.337724685668945,
+              43.359291208281114
+            ],
+            [
+              5.337724685668945,
+              43.35769987804175
+            ],
+            [
+              5.336533784866333,
+              43.35811331589139
+            ],
+            [
+              5.33661961555481,
+              43.35922100341528
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tuilerie Henri Michel"
+      },
+      "id": "Q0MDE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.342981815338135,
+              43.36121791011514
+            ],
+            [
+              5.344065427780151,
+              43.361444118057896
+            ],
+            [
+              5.3443443775177,
+              43.36084349511519
+            ],
+            [
+              5.3437113761901855,
+              43.36053148085021
+            ],
+            [
+              5.342981815338135,
+              43.36121791011514
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tuilerie Henri Michel"
+      },
+      "id": "EzMzg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.32262921333313,
+              43.363144550765476
+            ],
+            [
+              5.32262921333313,
+              43.3625361445384
+            ],
+            [
+              5.325472354888916,
+              43.362029134688385
+            ],
+            [
+              5.32609462738037,
+              43.36166252492649
+            ],
+            [
+              5.326834917068481,
+              43.36282474825294
+            ],
+            [
+              5.324463844299316,
+              43.363152350805684
+            ],
+            [
+              5.32262921333313,
+              43.363144550765476
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tuilerie La Plata"
+      },
+      "id": "M1NDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.327285528182983,
+              43.36274674738441
+            ],
+            [
+              5.32837986946106,
+              43.362559544890736
+            ],
+            [
+              5.328422784805298,
+              43.36199793394381
+            ],
+            [
+              5.327296257019043,
+              43.36193553240658
+            ],
+            [
+              5.327285528182983,
+              43.36274674738441
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tuilerie La Sacoman"
+      },
+      "id": "E4Mzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.348410606384277,
+              43.35487594419222
+            ],
+            [
+              5.349955558776855,
+              43.35481353533012
+            ],
+            [
+              5.349955558776855,
+              43.35574966152264
+            ],
+            [
+              5.348367691040039,
+              43.355812069422
+            ],
+            [
+              5.348410606384277,
+              43.35487594419222
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tuilerie La Sacoman"
+      },
+      "id": "g1MzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.327017307281494,
+              43.36064068602548
+            ],
+            [
+              5.32737135887146,
+              43.36095269972885
+            ],
+            [
+              5.326550602912903,
+              43.36115160762726
+            ],
+            [
+              5.3264862298965445,
+              43.36105020368209
+            ],
+            [
+              5.326931476593018,
+              43.36096050005088
+            ],
+            [
+              5.326765179634094,
+              43.36077329204546
+            ],
+            [
+              5.327017307281494,
+              43.36064068602548
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tuilerie La Tomatière"
+      },
+      "id": "UyNjg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.334237813949585,
+              43.36021946498063
+            ],
+            [
+              5.333293676376343,
+              43.35994644977851
+            ],
+            [
+              5.333433151245116,
+              43.35922100341528
+            ],
+            [
+              5.333894491195679,
+              43.35908839400259
+            ],
+            [
+              5.334752798080444,
+              43.35937701411795
+            ],
+            [
+              5.334237813949585,
+              43.36021946498063
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tuilerie Lançon & Roux-Martin"
+      },
+      "id": "kzNjk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.33910870552063,
+              43.35667017152987
+            ],
+            [
+              5.338507890701293,
+              43.35628012662149
+            ],
+            [
+              5.339055061340332,
+              43.35564044754428
+            ],
+            [
+              5.339645147323608,
+              43.35582767138681
+            ],
+            [
+              5.33910870552063,
+              43.35620211733895
+            ],
+            [
+              5.339334011077881,
+              43.35638933944856
+            ],
+            [
+              5.33910870552063,
+              43.35667017152987
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tuilerie Lourette"
+      },
+      "id": "c1MDY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.34259557723999,
+              43.36191993201224
+            ],
+            [
+              5.343743562698364,
+              43.362091536129334
+            ],
+            [
+              5.343475341796875,
+              43.36296514956359
+            ],
+            [
+              5.34234881401062,
+              43.36274674738441
+            ],
+            [
+              5.34259557723999,
+              43.36191993201224
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tuilerie Mallen"
+      },
+      "id": "gzNDg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.340557098388672,
+              43.35227812104021
+            ],
+            [
+              5.339934825897217,
+              43.351654002815046
+            ],
+            [
+              5.34109354019165,
+              43.35091285408653
+            ],
+            [
+              5.34234881401062,
+              43.35169301039215
+            ],
+            [
+              5.341737270355225,
+              43.35235613536708
+            ],
+            [
+              5.340557098388672,
+              43.35227812104021
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tuilerie Martin"
+      },
+      "id": "gyODA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.322393178939819,
+              43.36503213125429
+            ],
+            [
+              5.322468280792236,
+              43.364166347495
+            ],
+            [
+              5.324732065200806,
+              43.36405714866586
+            ],
+            [
+              5.324892997741699,
+              43.36514912811191
+            ],
+            [
+              5.322393178939819,
+              43.36503213125429
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tuilerie Pierre Sacoman"
+      },
+      "id": "IyMjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.327274799346924,
+              43.35718502697005
+            ],
+            [
+              5.32835841178894,
+              43.357372246047014
+            ],
+            [
+              5.328315496444701,
+              43.35615531172132
+            ],
+            [
+              5.327671766281128,
+              43.35606170037768
+            ],
+            [
+              5.327274799346924,
+              43.35718502697005
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tuilerie Regati"
+      },
+      "id": "cxODE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.341157913208008,
+              43.357231831793435
+            ],
+            [
+              5.341962575912475,
+              43.35690419727151
+            ],
+            [
+              5.341522693634033,
+              43.35640494126496
+            ],
+            [
+              5.34084677696228,
+              43.356849591345856
+            ],
+            [
+              5.341157913208008,
+              43.357231831793435
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tuilerie Rey"
+      },
+      "id": "QxMjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.334173440933227,
+              43.35715382373439
+            ],
+            [
+              5.3349995613098145,
+              43.357419050726
+            ],
+            [
+              5.335385799407958,
+              43.35687299389143
+            ],
+            [
+              5.3344738483428955,
+              43.35650635297374
+            ],
+            [
+              5.334173440933227,
+              43.35715382373439
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tuilerie Roux Frères"
+      },
+      "id": "Q4MTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.331630706787109,
+              43.36461874055029
+            ],
+            [
+              5.333186388015746,
+              43.364696739011926
+            ],
+            [
+              5.333733558654785,
+              43.3636359513408
+            ],
+            [
+              5.332167148590088,
+              43.363542351538094
+            ],
+            [
+              5.331630706787109,
+              43.36461874055029
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tuilerie Vallon"
+      },
+      "id": "QyOTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.327489376068115,
+          43.36500873185572
+        ]
+      },
+      "properties": {
+        "name": "Villa Miramar de Jules Cantini",
+        "description": "Seules les traces du pigeonnier nous rappellent ici la présence de l'ancienne Villa Miramar de Jules Cantini, figure marseillaise, sculpteur, marbrier et mécène, aussi à l'origine de la fontaine du Prado. \n{{http://ancrages.org/wp-content/uploads/2015/12/DSC_0065.jpg}}\n{{http://ancrages.org/wp-content/uploads/2015/12/Peinture-Cézanne-vue-villa-Miramar-e1449676475423.jpg}}\nVue sur la vue de baie de Marseille avec le village de Saint Henri, Paul Cézanne, 1883, huile sur toile, [[http://www.philamuseum.org/collections/permanent/59207.html?mulR=2070785153|Philadelphia Museum of Art]]"
+      },
+      "id": "E1NzY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.33137321472168,
+          43.36454854184903
+        ]
+      },
+      "properties": {
+        "name": "Vue sur le creux d'argile",
+        "description": "De ce point de vue, on peut observer à l'emplacement de l'actuel Grand Littoral l'existence du château des Tours et la campagne du marquis de Foresta : bombardé  pendant la guerre, il  s’est effondré dans le « creux » sur lequel il était construit.\n{{http://ancrages.org/wp-content/uploads/2015/12/DSC_0219.jpg}}\n{{http://ancrages.org/wp-content/uploads/2015/12/Carte-postale-chateau-foresta.jpg}}\nChâteau de Foresta"
+      },
+      "id": "I4Nzc"
+    }
+  ]
+}
