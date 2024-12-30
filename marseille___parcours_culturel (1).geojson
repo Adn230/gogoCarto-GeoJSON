@@ -1,0 +1,314 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.375547,
+            43.297932
+          ],
+          [
+            5.37546,
+            43.296274
+          ],
+          [
+            5.37546,
+            43.296274
+          ],
+          [
+            5.376462,
+            43.295957
+          ],
+          [
+            5.378105,
+            43.296518
+          ],
+          [
+            5.378346,
+            43.296844
+          ],
+          [
+            5.380796,
+            43.297382
+          ],
+          [
+            5.382113,
+            43.297789
+          ],
+          [
+            5.384567,
+            43.299057
+          ],
+          [
+            5.384661,
+            43.298766
+          ],
+          [
+            5.386104,
+            43.299026
+          ]
+        ]
+      },
+      "properties": {
+        "PARCOURS_ID": 1
+      },
+      "id": "A2MDc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.386104,
+          43.299026
+        ]
+      },
+      "properties": {
+        "PARCOURS_ID": 1,
+        "PARCOURS_NOM": " Du musée d'Histoire aux Réformés",
+        "ETAPE_ID": 1.11,
+        "ETAPE_NOM": "Eglise des Réformés - Statue Jeanne d'Arc",
+        "ADRESSE": "2 Cours Franklin Roosevelt 13001 Marseille",
+        "LATITUDE": 43.29902568644247,
+        "LONGITUDE": 5.38610379907751,
+        "DESCRIPTION": "L'église Saint-Vincent-de-Paul, dite des Réformés, doit son nom courant à l'emplacement d'une ancienne chapelle des Augustins réformés.  Cette église est bâtie suivant les plans de Reybaud qui adopte un style néogothique, très à la mode à cette époque en France et à l'étranger.  La première pierre est posée en 1855 par monseigneur de Mazenod. En 1862, l'architecte se retire et c'est l'Abbé Pougnet qui prend la suite en modifiant les plans initiaux. Il appelle à l'aide les paroissiens en 1885 qui réunirent les trois millions de francs nécessaires à la construction. L'église est consacrée en 1886.  Les deux flèches de l'église s'élèvent à soixante mètres. Elle est dotée de portes en bois ornées de panneaux de bronze et les superbes vitraux par Didron.  En 1941 le clergé marseillais passe commande au sculpteur Botinelly d'un monument dédié à Jeanne d'Arc. La France est en grande partie occupée par les armées allemandes mais Marseille est en zone dite libre. Botinelly propose un projet assez complexe puisque l’iconographie qui synthétise l’ensemble du cycle johannique comprend une statue Jeanne écoutant ses voix et quatre bas-reliefs : Jeanne d’Arc et Charles VII, Sacre de Charles VII, Levée du Siège d’Orléans, Martyre de Jeanne d’Arc. Le message est clair : la sainte est de nouveau convoquée pour bouter l’ennemi allemand hors des frontières.  La statue est inaugurée en 1943 mais la situation a bien changée : le pays désormais vit tout entier sous le joug de l’occupant nazi. Outre les membres du clergé, les édiles et notables, de nombreuses délégations militantes ou partisanes y participent brandissant une soixantaine de fanions.",
+        "description": "L'église Saint-Vincent-de-Paul, dite des Réformés, doit son nom courant à l'emplacement d'une ancienne chapelle des Augustins réformés.  Cette église est bâtie suivant les plans de Reybaud qui adopte un style néogothique, très à la mode à cette époque en France et à l'étranger.  La première pierre est posée en 1855 par monseigneur de Mazenod. En 1862, l'architecte se retire et c'est l'Abbé Pougnet qui prend la suite en modifiant les plans initiaux. Il appelle à l'aide les paroissiens en 1885 qui réunirent les trois millions de francs nécessaires à la construction. L'église est consacrée en 1886.  Les deux flèches de l'église s'élèvent à soixante mètres. Elle est dotée de portes en bois ornées de panneaux de bronze et les superbes vitraux par Didron.  En 1941 le clergé marseillais passe commande au sculpteur Botinelly d'un monument dédié à Jeanne d'Arc. La France est en grande partie occupée par les armées allemandes mais Marseille est en zone dite libre. Botinelly propose un projet assez complexe puisque l’iconographie qui synthétise l’ensemble du cycle johannique comprend une statue Jeanne écoutant ses voix et quatre bas-reliefs : Jeanne d’Arc et Charles VII, Sacre de Charles VII, Levée du Siège d’Orléans, Martyre de Jeanne d’Arc. Le message est clair : la sainte est de nouveau convoquée pour bouter l’ennemi allemand hors des frontières.  La statue est inaugurée en 1943 mais la situation a bien changée : le pays désormais vit tout entier sous le joug de l’occupant nazi. Outre les membres du clergé, les édiles et notables, de nombreuses délégations militantes ou partisanes y participent brandissant une soixantaine de fanions.",
+        "name": "Eglise des Réformés - Statue Jeanne d'Arc"
+      },
+      "id": "g0NzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.380796,
+          43.297382
+        ]
+      },
+      "properties": {
+        "PARCOURS_ID": 1,
+        "PARCOURS_NOM": " Du musée d'Histoire aux Réformés",
+        "ETAPE_ID": 1.7,
+        "ETAPE_NOM": "Grand Hôtel Noailles",
+        "ADRESSE": "62 La Canebière 13001 Marseille",
+        "LATITUDE": 43.297382133785945,
+        "LONGITUDE": 5.380796388816225,
+        "DESCRIPTION": "L'hôtel se situait au 22 rue Noailles, qui deviendra le 62 la Canebière.  A l'origine, il s'agit d'un hôtel particulier édifié en 1679 par le constructeur de galères Chabert. Il est loué au chevalier de Noailles, lieutenant général des galères. En 1865 est créé l’Hôtel Noailles par le négociant Régis et édifié par l’architecte Bérengier.  C’est un très beau bâtiment, beaucoup plus sobre dans son architecture que le Louvre et Paix. La façade est rythmée par l’alternance de frontons triangulaires et curvilignes, dans un style haussmannien.  Ce luxueux hôtel était l'un des plus prestigieux de la ville, avec de belles prestations, telle la salle à manger privative de style provençal, de nombreuses sculptures, des cheminées et de vastes chambres. Jusqu’en 1979, beaucoup de célébrités politiques ou du spectacle \"descendaient au Noailles\" : Gandhi, Wagner, Trenet... L'hôtel proposait plus de trois cents chambres et salons et, bien entendu, un restaurant réputé.  Tous les hôtels de la rue Noailles étaient d’ailleurs si réputés qu’une rubrique quotidienne leur était consacrée dans le journal. Aujourd’hui transformé en commissariat, le Noailles reste dans les mémoires de tous les Marseillais.",
+        "description": "L'hôtel se situait au 22 rue Noailles, qui deviendra le 62 la Canebière.  A l'origine, il s'agit d'un hôtel particulier édifié en 1679 par le constructeur de galères Chabert. Il est loué au chevalier de Noailles, lieutenant général des galères. En 1865 est créé l’Hôtel Noailles par le négociant Régis et édifié par l’architecte Bérengier.  C’est un très beau bâtiment, beaucoup plus sobre dans son architecture que le Louvre et Paix. La façade est rythmée par l’alternance de frontons triangulaires et curvilignes, dans un style haussmannien.  Ce luxueux hôtel était l'un des plus prestigieux de la ville, avec de belles prestations, telle la salle à manger privative de style provençal, de nombreuses sculptures, des cheminées et de vastes chambres. Jusqu’en 1979, beaucoup de célébrités politiques ou du spectacle \"descendaient au Noailles\" : Gandhi, Wagner, Trenet... L'hôtel proposait plus de trois cents chambres et salons et, bien entendu, un restaurant réputé.  Tous les hôtels de la rue Noailles étaient d’ailleurs si réputés qu’une rubrique quotidienne leur était consacrée dans le journal. Aujourd’hui transformé en commissariat, le Noailles reste dans les mémoires de tous les Marseillais.",
+        "name": "Grand Hôtel Noailles"
+      },
+      "id": "kzNTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.378346,
+          43.296844
+        ]
+      },
+      "properties": {
+        "PARCOURS_ID": 1,
+        "PARCOURS_NOM": " Du musée d'Histoire aux Réformés",
+        "ETAPE_ID": 1.6,
+        "ETAPE_NOM": "Hôtel Louvre et Paix (Cariatides)",
+        "ADRESSE": "49-53 La Canebière 13001 Marseille",
+        "LATITUDE": 43.29684407614649,
+        "LONGITUDE": 5.378346441644243,
+        "DESCRIPTION": "Situé au n°53, il possède l'une de ses plus magnifiques façades, héritage du Second Empire.  Inauguré en 1863, l'hôtel édifié par Pot présente une entrée monumentale encadrée de quatre opulentes cariatides sculptées par l'aixois Ferrat. Chacune tient dans ses mains un animal représentant un continent : le sphinx pour l'Amérique, l'éléphant pour l'Asie, le dromadaire pour l'Afrique et le poisson ailé pour l'Europe. Les étages portent les blasons des nations européennes, celui de l'Autriche-Hongrie est détruit pendant la guerre de 1914-1918.  C'est à l'époque un grand hôtel luxueux, dans une ville riche où tout tourne autour du commerce et des transports maritimes. Hôtel «première classe», il est construit sur six étages, possède deux cent cinquante chambres, vingt salons et deux salles de restaurants. Il accueille, en autre, Mark Twain en 1867, Camille Flammarion ou l'empereur du Brésil Pedro II.  On y reçoit une clientèle aisée, avide de raffinements et de nouveautés. C'est grâce à cet engouement que le 28 février 1896, dans les prestigieux salons de l'hôtel, est projeté le film Arrivée d'un train à la Ciotat des frères Lumière.  Le palace fonctionne jusqu'en 1941 : il est ensuite occupé par la Marine Nationale française puis par les services allemands de la Marine. Après la guerre, la Marine française s'y réinstalle à nouveau pour le quitter en 1977.  Après trois ans d’abandon, le bâtiment est vendu. En 1984, le magasin C&A y ouvre ses portes : les architectes chargés de la restauration et de la transformation de l'édifice ont conservé la façade, et à l'intérieur, l'escalier et deux salons magnifiques sont classés monuments historiques.",
+        "description": "Situé au n°53, il possède l'une de ses plus magnifiques façades, héritage du Second Empire.  Inauguré en 1863, l'hôtel édifié par Pot présente une entrée monumentale encadrée de quatre opulentes cariatides sculptées par l'aixois Ferrat. Chacune tient dans ses mains un animal représentant un continent : le sphinx pour l'Amérique, l'éléphant pour l'Asie, le dromadaire pour l'Afrique et le poisson ailé pour l'Europe. Les étages portent les blasons des nations européennes, celui de l'Autriche-Hongrie est détruit pendant la guerre de 1914-1918.  C'est à l'époque un grand hôtel luxueux, dans une ville riche où tout tourne autour du commerce et des transports maritimes. Hôtel «première classe», il est construit sur six étages, possède deux cent cinquante chambres, vingt salons et deux salles de restaurants. Il accueille, en autre, Mark Twain en 1867, Camille Flammarion ou l'empereur du Brésil Pedro II.  On y reçoit une clientèle aisée, avide de raffinements et de nouveautés. C'est grâce à cet engouement que le 28 février 1896, dans les prestigieux salons de l'hôtel, est projeté le film Arrivée d'un train à la Ciotat des frères Lumière.  Le palace fonctionne jusqu'en 1941 : il est ensuite occupé par la Marine Nationale française puis par les services allemands de la Marine. Après la guerre, la Marine française s'y réinstalle à nouveau pour le quitter en 1977.  Après trois ans d’abandon, le bâtiment est vendu. En 1984, le magasin C&A y ouvre ses portes : les architectes chargés de la restauration et de la transformation de l'édifice ont conservé la façade, et à l'intérieur, l'escalier et deux salons magnifiques sont classés monuments historiques.",
+        "name": "Hôtel Louvre et Paix (Cariatides)"
+      },
+      "id": "MwOTY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.384661,
+          43.298766
+        ]
+      },
+      "properties": {
+        "PARCOURS_ID": 1,
+        "PARCOURS_NOM": " Du musée d'Histoire aux Réformés",
+        "ETAPE_ID": 1.1,
+        "ETAPE_NOM": "La Byzantine - L'Odéon",
+        "ADRESSE": "162 La Canebière 13001 Marseille",
+        "LATITUDE": 43.29876636547943,
+        "LONGITUDE": 5.3846609060617725,
+        "DESCRIPTION": "La Byzantine  A portée de regard, au n°65 des Allées Gambetta, se trouve un immeuble très particulier appelé \"la Byzantine\".  En 1860, un commerçant natif d'Odessa, Christodulo, membre influent de la communauté grecque de Marseille, demande à l'architecte Martin de lui construire une construction de style néo-byzantin. L'ensemble apparaît comme une synthèse entre tradition de l'art byzantin et la modernité architecturale de l'époque : une polychromie des assises de pierres, des arcs de plein cintre du rez-de-chaussée aux tympans décorés...   Le théâtre de l'Odéon  Le regard se porte également vers le théâtre de l'Odéon. Construit à partir de 1928, il avait une double vocation : théâtrale et cinématographique.  Jusque dans les années 50, revues, opérettes et music-hall alternèrent dans ce théâtre, pour céder la place au cinéma. Morcelée par la suite, selon la mode, en plusieurs petites salles, dont une plus importante de neuf cent places, ce nouvel Odéon est revenu à sa destination originelle, l'opérette. Rénové complètement pour 2013, l'Odéon propose une programmation toujours suivie par le public.",
+        "description": "La Byzantine  A portée de regard, au n°65 des Allées Gambetta, se trouve un immeuble très particulier appelé \"la Byzantine\".  En 1860, un commerçant natif d'Odessa, Christodulo, membre influent de la communauté grecque de Marseille, demande à l'architecte Martin de lui construire une construction de style néo-byzantin. L'ensemble apparaît comme une synthèse entre tradition de l'art byzantin et la modernité architecturale de l'époque : une polychromie des assises de pierres, des arcs de plein cintre du rez-de-chaussée aux tympans décorés...   Le théâtre de l'Odéon  Le regard se porte également vers le théâtre de l'Odéon. Construit à partir de 1928, il avait une double vocation : théâtrale et cinématographique.  Jusque dans les années 50, revues, opérettes et music-hall alternèrent dans ce théâtre, pour céder la place au cinéma. Morcelée par la suite, selon la mode, en plusieurs petites salles, dont une plus importante de neuf cent places, ce nouvel Odéon est revenu à sa destination originelle, l'opérette. Rénové complètement pour 2013, l'Odéon propose une programmation toujours suivie par le public.",
+        "name": "La Byzantine - L'Odéon"
+      },
+      "id": "MzMDc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.376462,
+          43.295957
+        ]
+      },
+      "properties": {
+        "PARCOURS_ID": 1,
+        "PARCOURS_NOM": " Du musée d'Histoire aux Réformés",
+        "ETAPE_ID": 1.4,
+        "ETAPE_NOM": "La Canebière : Façades remarquables XVIIIe",
+        "ADRESSE": "La Canebière 13001 Marseille",
+        "LATITUDE": 43.29595673542393,
+        "LONGITUDE": 5.376462420899728,
+        "DESCRIPTION": "Depuis le XIXe siècle, la Canebière est une artère commerciale de renommée mondiale. Elle tire probablement son nom du provençal \"canabe\" signifiant\" chanvre\" peut être en raison de l'installation de plusieurs échoppes de cordiers.  Dès le Xe siècle, le lieu prend le nom de \"plan Fourmiguier\". En 1296, le comte de Provence, Charles II obtient de la ville une concession afin d'y installer des chantiers navals. Au XVIIe siècle, le roi Louis XIV ordonne l'extension de la ville : les constructeurs déménagent sur la rive sud-est du port, les cordiers s'installent sur la rue Corderie. En 1666, les remparts sont détruits et la commercialisation des terrains des nouveaux quartiers commence. La première mention du nom de \"Canebière\" apparaît en 1672.  En 1857, elle est élargie et fait désormais trente mètres de large. Hôtels de luxe, boutiques, cafés et restaurants longent l'avenue et accroissent sa popularité. Dès lors, La Canebière devient l'un des lieux incontournables de la vie sociale marseillaise.  En 1850 ouvre le Café Turc, dont la salle principale de style mauresque donnait sur le n°4. Il était réputé pour son horloge qui indiquait les heures turque, chinoise, arabe et européenne. S'ouvrent de luxueux établissements comme le Café de l'Univers avec ses dorures et ses miroirs, le Café de France décoré par le peintre Magaud, le Café Glacier avec ses 500 tasses à la minute et ses 120 becs de gaz, le Café Allemand, ainsi que le Café Riche à l'emplacement de l'actuel Monoprix qui était considéré comme le plus somptueux de tous.  On prêtera une attention aux façades du XVIIIe siècle des n° 32 à 36 la Canebière et du XIXème siècle aux n° 46 à 50 la Canebière.",
+        "description": "Depuis le XIXe siècle, la Canebière est une artère commerciale de renommée mondiale. Elle tire probablement son nom du provençal \"canabe\" signifiant\" chanvre\" peut être en raison de l'installation de plusieurs échoppes de cordiers.  Dès le Xe siècle, le lieu prend le nom de \"plan Fourmiguier\". En 1296, le comte de Provence, Charles II obtient de la ville une concession afin d'y installer des chantiers navals. Au XVIIe siècle, le roi Louis XIV ordonne l'extension de la ville : les constructeurs déménagent sur la rive sud-est du port, les cordiers s'installent sur la rue Corderie. En 1666, les remparts sont détruits et la commercialisation des terrains des nouveaux quartiers commence. La première mention du nom de \"Canebière\" apparaît en 1672.  En 1857, elle est élargie et fait désormais trente mètres de large. Hôtels de luxe, boutiques, cafés et restaurants longent l'avenue et accroissent sa popularité. Dès lors, La Canebière devient l'un des lieux incontournables de la vie sociale marseillaise.  En 1850 ouvre le Café Turc, dont la salle principale de style mauresque donnait sur le n°4. Il était réputé pour son horloge qui indiquait les heures turque, chinoise, arabe et européenne. S'ouvrent de luxueux établissements comme le Café de l'Univers avec ses dorures et ses miroirs, le Café de France décoré par le peintre Magaud, le Café Glacier avec ses 500 tasses à la minute et ses 120 becs de gaz, le Café Allemand, ainsi que le Café Riche à l'emplacement de l'actuel Monoprix qui était considéré comme le plus somptueux de tous.  On prêtera une attention aux façades du XVIIIe siècle des n° 32 à 36 la Canebière et du XIXème siècle aux n° 46 à 50 la Canebière.",
+        "name": "La Canebière : Façades remarquables XVIIIe"
+      },
+      "id": "AzMTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.378105,
+          43.296518
+        ]
+      },
+      "properties": {
+        "PARCOURS_ID": 1,
+        "PARCOURS_NOM": " Du musée d'Histoire aux Réformés",
+        "ETAPE_ID": 1.5,
+        "ETAPE_NOM": "La Maison de Figaro (maison Chevignot)",
+        "ADRESSE": "42 La Canebière, 13001 Marseille",
+        "LATITUDE": 43.296517785867785,
+        "LONGITUDE": 5.378105353052033,
+        "DESCRIPTION": "La maison Chevignot constitue l'un des rares exemples des maisons monumentales construites sur le cours Saint-Louis entre 1673 et 1677. Cette maison est édifiée par l'architecte Pierre Pavillon en 1675 et s'inscrit dans le cadre des travaux entrepris pour la réalisation d'une nouvelle avenue appelée simplement à l'époque le Cours, correspondant aux actuels cours Belsunce et cours Saint-Louis.  A l'origine, ce bel hôtel particulier avec de majestueux pilastres à chapiteaux corinthiens entre chaque travée de fenêtres faisait partie d'un ensemble plus vaste : sur la façade donnant sur le Cours Saint-Louis, il y avait treize travées dont seulement cinq subsistent actuellement. La façade donnant sur la Canebière a été refaite à l'identique mais en ciment. La guirlande de fleurs et de fruits date de cette époque.  En 1867, un commerce appelé le «Grand Bazar de Figaro» s'installe d'où l'appellation «Maison de Figaro». En 1941 le propriétaire M. Hermann, qui est d'origine juive, est déporté et son bien réquisitionné par le gouvernement de Vichy. L'immeuble est alors occupé par le Parti populaire français et en 1944, la Résistance y dépose une bombe. À la Libération, l'immeuble devient propriété de l'Assistance publique qui le loue à un marchand d'articles de confection pour femmes.",
+        "description": "La maison Chevignot constitue l'un des rares exemples des maisons monumentales construites sur le cours Saint-Louis entre 1673 et 1677. Cette maison est édifiée par l'architecte Pierre Pavillon en 1675 et s'inscrit dans le cadre des travaux entrepris pour la réalisation d'une nouvelle avenue appelée simplement à l'époque le Cours, correspondant aux actuels cours Belsunce et cours Saint-Louis.  A l'origine, ce bel hôtel particulier avec de majestueux pilastres à chapiteaux corinthiens entre chaque travée de fenêtres faisait partie d'un ensemble plus vaste : sur la façade donnant sur le Cours Saint-Louis, il y avait treize travées dont seulement cinq subsistent actuellement. La façade donnant sur la Canebière a été refaite à l'identique mais en ciment. La guirlande de fleurs et de fruits date de cette époque.  En 1867, un commerce appelé le «Grand Bazar de Figaro» s'installe d'où l'appellation «Maison de Figaro». En 1941 le propriétaire M. Hermann, qui est d'origine juive, est déporté et son bien réquisitionné par le gouvernement de Vichy. L'immeuble est alors occupé par le Parti populaire français et en 1944, la Résistance y dépose une bombe. À la Libération, l'immeuble devient propriété de l'Assistance publique qui le loue à un marchand d'articles de confection pour femmes.",
+        "name": "La Maison de Figaro (maison Chevignot)"
+      },
+      "id": "c2NzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.384567,
+          43.299057
+        ]
+      },
+      "properties": {
+        "PARCOURS_ID": 1,
+        "PARCOURS_NOM": " Du musée d'Histoire aux Réformés",
+        "ETAPE_ID": 1.9,
+        "ETAPE_NOM": "Monument aux mobiles",
+        "ADRESSE": "71 Allée Léon Gambetta 13001 Marseille",
+        "LATITUDE": 43.29905666515763,
+        "LONGITUDE": 5.3845674493208895,
+        "DESCRIPTION": "Monument aux Mobiles  Après la guerre de 1870, un comité des anciens combattants lance une souscription pour l'édification du monument commémorant le sacrifice de plus d'un millier \"d'enfants des Bouches-du-Rhône\" enrôlés lors de la guerre contre la Prusse.  Ce groupe monumental est composé de deux registres en pierre et au sommet d'une allégorie du \" glaive nu de La France\" en bronze. Autour de la base se déploie un cortège de dix-sept soldats illustrant par leur costumes et leurs attitudes les différents corps d'armée. A la base de la composition quatre cartouches représentent les villes de Marseille, Aix, Arles et Tarascon. Le piédestal est ponctué de diverses inscriptions dont la signature \"Jean Turcan\".  Les allées de Meilhan  L’agrandissement de 1666 prévoyait la création d’une promenade publique au-delà des remparts. Les travaux ne sont achevés qu’en 1775 grâce à l’intendant de Provence, Sénac de Meilhan. Ces allées deviennent alors réputées pour leurs guinguettes où les jeunes gens viennent s’amuser et danser.  Le style des immeubles est très différent de celui de la Canebière ou de la rue Noailles, et datent pour la plupart de la fin du XVIIIe siècle. On retrouve d’ailleurs le type du \"trois fenêtres marseillais\".  C’est sur cette partie de La Canebière que se tient la foire aux santons. Elle est l’une des traditions les plus vivantes et les plus populaires de Marseille.",
+        "description": "Monument aux Mobiles  Après la guerre de 1870, un comité des anciens combattants lance une souscription pour l'édification du monument commémorant le sacrifice de plus d'un millier \"d'enfants des Bouches-du-Rhône\" enrôlés lors de la guerre contre la Prusse.  Ce groupe monumental est composé de deux registres en pierre et au sommet d'une allégorie du \" glaive nu de La France\" en bronze. Autour de la base se déploie un cortège de dix-sept soldats illustrant par leur costumes et leurs attitudes les différents corps d'armée. A la base de la composition quatre cartouches représentent les villes de Marseille, Aix, Arles et Tarascon. Le piédestal est ponctué de diverses inscriptions dont la signature \"Jean Turcan\".  Les allées de Meilhan  L’agrandissement de 1666 prévoyait la création d’une promenade publique au-delà des remparts. Les travaux ne sont achevés qu’en 1775 grâce à l’intendant de Provence, Sénac de Meilhan. Ces allées deviennent alors réputées pour leurs guinguettes où les jeunes gens viennent s’amuser et danser.  Le style des immeubles est très différent de celui de la Canebière ou de la rue Noailles, et datent pour la plupart de la fin du XVIIIe siècle. On retrouve d’ailleurs le type du \"trois fenêtres marseillais\".  C’est sur cette partie de La Canebière que se tient la foire aux santons. Elle est l’une des traditions les plus vivantes et les plus populaires de Marseille.",
+        "name": "Monument aux mobiles"
+      },
+      "id": "Y3NDU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.375547,
+          43.297932
+        ]
+      },
+      "properties": {
+        "PARCOURS_ID": 1,
+        "PARCOURS_NOM": " Du musée d'Histoire aux Réformés",
+        "ETAPE_ID": 1.1,
+        "ETAPE_NOM": "Musée d'Histoire de Marseille",
+        "ADRESSE": "2 Rue Henri Barbusse 13001 Marseille",
+        "LATITUDE": 43.29793153086359,
+        "LONGITUDE": 5.375547270241957,
+        "DESCRIPTION": "En 1967, lors de travaux d’aménagement du quartier de la Bourse, les fouilles ont mis au jour l’ancien port de Marseille : nécropole et remparts d’époque grecque, quai, bassin d’eau douce, voie dallée d’époque romaine. Mais le musée créé alors était trop à l’étroit pour pouvoir montrer l’étendue de ses richesses. Entièrement rénové, le musée d’Histoire de Marseille devient l’un des plus grands musées d’Histoire en France et en Europe.  Le nouveau parcours muséographique s’appuie sur deux idées fortes : Marseille est la plus ancienne ville de France et c’est une ville portuaire ouverte sur la mer Méditerranée. L'histoire de la ville est découverte à travers treize séquences, des premières occupations préhistoriques aux développements urbains contemporains.  Grâce aux recherches des scientifiques et à la documentation des pièces de la collection, le parcours du musée raconte également les hommes et les femmes, inconnus ou célèbres, qui ont participé à l’histoire de Marseille : les informations ne sont pas expliquées mais vécues et racontées. Chaque étape de la visite est enrichie de nombreux films et multimédia interactifs qui donnent vie aux objets et contextualisent la présentation des collections.  Plus de 2600 ans d'histoire à parcourir, y compris pour le jeune public : les modules « les Escales de l’Histoire » sont spécialement conçus pour les enfants. Ces derniers peuvent alors s’initier, manipuler, expérimenter…",
+        "description": "En 1967, lors de travaux d’aménagement du quartier de la Bourse, les fouilles ont mis au jour l’ancien port de Marseille : nécropole et remparts d’époque grecque, quai, bassin d’eau douce, voie dallée d’époque romaine. Mais le musée créé alors était trop à l’étroit pour pouvoir montrer l’étendue de ses richesses. Entièrement rénové, le musée d’Histoire de Marseille devient l’un des plus grands musées d’Histoire en France et en Europe.  Le nouveau parcours muséographique s’appuie sur deux idées fortes : Marseille est la plus ancienne ville de France et c’est une ville portuaire ouverte sur la mer Méditerranée. L'histoire de la ville est découverte à travers treize séquences, des premières occupations préhistoriques aux développements urbains contemporains.  Grâce aux recherches des scientifiques et à la documentation des pièces de la collection, le parcours du musée raconte également les hommes et les femmes, inconnus ou célèbres, qui ont participé à l’histoire de Marseille : les informations ne sont pas expliquées mais vécues et racontées. Chaque étape de la visite est enrichie de nombreux films et multimédia interactifs qui donnent vie aux objets et contextualisent la présentation des collections.  Plus de 2600 ans d'histoire à parcourir, y compris pour le jeune public : les modules « les Escales de l’Histoire » sont spécialement conçus pour les enfants. Ces derniers peuvent alors s’initier, manipuler, expérimenter…",
+        "name": "Musée d'Histoire de Marseille"
+      },
+      "id": "AwMjU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37546,
+          43.296274
+        ]
+      },
+      "properties": {
+        "PARCOURS_ID": 1,
+        "PARCOURS_NOM": " Du musée d'Histoire aux Réformés",
+        "ETAPE_ID": 1.2,
+        "ETAPE_NOM": "Palais de la Bourse",
+        "ADRESSE": "9 La Canebière 13001 Marseille ",
+        "LATITUDE": 43.296273651999996,
+        "LONGITUDE": 5.375460068393823,
+        "DESCRIPTION": "Le palais de la Bourse est le siège de la Chambre de commerce et d'industrie de Marseille-Provence. Marseille est la première ville de France à se doter d'une bourse de commerce à la fin du XVIe siècle.  En 1834 la Chambre de commerce décide la construction d’une nouvelle Bourse plus vaste et plus conforme au rayonnement du commerce marseillais. Il faut attendre 1849 pour que l'architecte Pascal Coste soit chargé d'établir le projet de construction du Palais de la Bourse. En 1852 le Prince-Président Louis Napoléon Bonaparte pose la première pierre, même si les travaux ne débutent que deux ans plus tard. En 1860, Napoléon III inaugure le Palais de la Bourse.  Le bâtiment se présente sous la forme d'un rectangle. Sur la façade principale se trouve un avant-corps central percé de cinq portes monumentales surmontées de dix colonnes d'ordre corinthien. Au-dessus un attique aux petits pilastres cannelés est orné de huit cartouches circulaires sur lesquels sont inscrits les noms d’explorateurs connus. Au centre se trouve l'horloge construite par Henry Lepaute. Au sommet une sculpture montre les armes de la ville flanquée de figures à demi-allongées représentant l’Océan et la Méditerranée.  De chaque côté de l’avant-corps sont sculptés les deux navigateurs phocéens Euthymènes et Pythéas. Ces sculptures dominent les allégories de la navigation et du commerce par Eugène Guillaume.  On voit également une calandre de locomotive qui évoque le voyage, le commerce et les marchandises transportées par wagons, hommage à la nouvelle gare Saint-Charles.",
+        "name": "Palais de la Bourse",
+        "description": "Le palais de la Bourse est le siège de la Chambre de commerce et d'industrie de Marseille-Provence. Marseille est la première ville de France à se doter d'une bourse de commerce à la fin du XVIe siècle.  En 1834 la Chambre de commerce décide la construction d’une nouvelle Bourse plus vaste et plus conforme au rayonnement du commerce marseillais. Il faut attendre 1849 pour que l'architecte Pascal Coste soit chargé d'établir le projet de construction du Palais de la Bourse. En 1852 le Prince-Président Louis Napoléon Bonaparte pose la première pierre, même si les travaux ne débutent que deux ans plus tard. En 1860, Napoléon III inaugure le Palais de la Bourse.  Le bâtiment se présente sous la forme d'un rectangle. Sur la façade principale se trouve un avant-corps central percé de cinq portes monumentales surmontées de dix colonnes d'ordre corinthien. Au-dessus un attique aux petits pilastres cannelés est orné de huit cartouches circulaires sur lesquels sont inscrits les noms d’explorateurs connus. Au centre se trouve l'horloge construite par Henry Lepaute. Au sommet une sculpture montre les armes de la ville flanquée de figures à demi-allongées représentant l’Océan et la Méditerranée.  De chaque côté de l’avant-corps sont sculptés les deux navigateurs phocéens Euthymènes et Pythéas. Ces sculptures dominent les allégories de la navigation et du commerce par Eugène Guillaume.  On voit également une calandre de locomotive qui évoque le voyage, le commerce et les marchandises transportées par wagons, hommage à la nouvelle gare Saint-Charles."
+      },
+      "id": "gxMzM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37546,
+          43.296274
+        ]
+      },
+      "properties": {
+        "PARCOURS_ID": 1,
+        "PARCOURS_NOM": " Du musée d'Histoire aux Réformés",
+        "ETAPE_ID": 1.3,
+        "ETAPE_NOM": "Palais de la Bourse (intérieur)",
+        "ADRESSE": "9 La Canebière 13001 Marseille ",
+        "LATITUDE": 43.296273651999996,
+        "LONGITUDE": 5.375460068393823,
+        "DESCRIPTION": "Le grand hall d'exposition est richement pavé de marbre noir et blanc entouré de dix-huit arcades. Dans les deux tympans de chaque arcade sont inscrits les noms de pays ou de régions ayant des relations commerciales avec Marseille. Sur la partie nord, le nom de la Prusse a été enlevé au burin lors d'une émeute populaire après l'annonce de la défaite de Sedan en septembre 1870. De même la statue de Napoléon III a été détruite et remplacée par un baromètre.  Les voussures du plafond du palais sont composées de dix panneaux en relief figurant : au Nord la justice consulaire au Sud la chambre de commerce recevant les plans de la bourse à l'Est les capitulations de la France avec le Levant, la chambre de commerce saluant les consuls et les expéditions scientifiques, la conquête de l'Algérie, la France recevant les trophées conquis en Crimée et en Italie à l’Ouest la fondation de Marseille, Marseille devenant chrétienne, le départ pour la croisade, et la réunion de la Provence à la France.",
+        "description": "Le grand hall d'exposition est richement pavé de marbre noir et blanc entouré de dix-huit arcades. Dans les deux tympans de chaque arcade sont inscrits les noms de pays ou de régions ayant des relations commerciales avec Marseille. Sur la partie nord, le nom de la Prusse a été enlevé au burin lors d'une émeute populaire après l'annonce de la défaite de Sedan en septembre 1870. De même la statue de Napoléon III a été détruite et remplacée par un baromètre.  Les voussures du plafond du palais sont composées de dix panneaux en relief figurant : au Nord la justice consulaire au Sud la chambre de commerce recevant les plans de la bourse à l'Est les capitulations de la France avec le Levant, la chambre de commerce saluant les consuls et les expéditions scientifiques, la conquête de l'Algérie, la France recevant les trophées conquis en Crimée et en Italie à l’Ouest la fondation de Marseille, Marseille devenant chrétienne, le départ pour la croisade, et la réunion de la Provence à la France.",
+        "name": "Palais de la Bourse (intérieur)"
+      },
+      "id": "kyMDM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.382113,
+          43.297789
+        ]
+      },
+      "properties": {
+        "PARCOURS_ID": 1,
+        "PARCOURS_NOM": " Du musée d'Histoire aux Réformés",
+        "ETAPE_ID": 1.8,
+        "ETAPE_NOM": "Théâtre du Gymnase",
+        "ADRESSE": "4 Rue du Théatre Français 13001 Marseille",
+        "LATITUDE": 43.2977893045683,
+        "LONGITUDE": 5.382112963661513,
+        "DESCRIPTION": "Il a été construit sur l'initiative d'un comédien, Giraud-Destinval. Ouvert en 1804, il s'agit d'un théâtre à l'italienne : orchestre en U entouré de balcons et de loges, une scène inclinée, une décoration fastueuse avec sièges en velours, dorures et plafonds peints. Le théâtre Français de Marseille est né.  Tout au long du XIXe siècle, la programmation reste classique : vaudevilles et mélodrames. À partir du Second Empire, on y joue également des opérettes. Au XXe siècle, la programmation se fait plus audacieuse accueillant aussi bien des pièces de théâtre que des chanteurs.  Au début des années 1970, des déboires financiers aboutissent à la fermeture de ce théâtre jusqu'à son rachat par la municipalité en 1983.  Mais il faut entièrement le rénover avant de l'ouvrir au public et cela nécessite un appel au mécénat. Dans les années 1940, Marseille devient le refuge d'artistes, écrivains fuyant le régime nazi et en partance pour les Etats Unis et l'Amérique du Sud. Un couple se trouve dans ce flot de personnes et assiste à la représentation de la Dame aux Camélias. Partant pour les Etats Unis, il conçoit un enfant nommé Armand, tel l'amoureux de la dame aux Camélias. Il s'agit d' Armand Hammer, qui quarante ans plus tard, devenu milliardaire, finance une grande partie de la rénovation du théâtre.  En 1985, le théâtre du Gymnase renaît de ses cendres et accueille sur ses planches une programmation de qualité sans cesse renouvelée.  A noter : l'enseigne du théâtre à l'entrée de la rue la statue la Vierge dite \"de la médaille miraculeuse\" à l'angle de la Canebière et de la rue Curiol.",
+        "description": "Il a été construit sur l'initiative d'un comédien, Giraud-Destinval. Ouvert en 1804, il s'agit d'un théâtre à l'italienne : orchestre en U entouré de balcons et de loges, une scène inclinée, une décoration fastueuse avec sièges en velours, dorures et plafonds peints. Le théâtre Français de Marseille est né.  Tout au long du XIXe siècle, la programmation reste classique : vaudevilles et mélodrames. À partir du Second Empire, on y joue également des opérettes. Au XXe siècle, la programmation se fait plus audacieuse accueillant aussi bien des pièces de théâtre que des chanteurs.  Au début des années 1970, des déboires financiers aboutissent à la fermeture de ce théâtre jusqu'à son rachat par la municipalité en 1983.  Mais il faut entièrement le rénover avant de l'ouvrir au public et cela nécessite un appel au mécénat. Dans les années 1940, Marseille devient le refuge d'artistes, écrivains fuyant le régime nazi et en partance pour les Etats Unis et l'Amérique du Sud. Un couple se trouve dans ce flot de personnes et assiste à la représentation de la Dame aux Camélias. Partant pour les Etats Unis, il conçoit un enfant nommé Armand, tel l'amoureux de la dame aux Camélias. Il s'agit d' Armand Hammer, qui quarante ans plus tard, devenu milliardaire, finance une grande partie de la rénovation du théâtre.  En 1985, le théâtre du Gymnase renaît de ses cendres et accueille sur ses planches une programmation de qualité sans cesse renouvelée.  A noter : l'enseigne du théâtre à l'entrée de la rue la statue la Vierge dite \"de la médaille miraculeuse\" à l'angle de la Canebière et de la rue Curiol.",
+        "name": "Théâtre du Gymnase"
+      },
+      "id": "cxMTc"
+    }
+  ]
+}
