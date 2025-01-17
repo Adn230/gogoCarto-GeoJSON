@@ -1,0 +1,5556 @@
+{
+  "type": "FeatureCollection",
+  "name": "Elementaires_2024",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::2154"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 0.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "BOMPARD",
+        "ETAB_CODE_": "0130688C",
+        "ADR_VOIE": "131 BOULEVARD BOMPARD",
+        "ADR_CODEPO": 13007,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.360789,
+        "ETAB_LAT": 43.279663
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.360789,
+          43.279663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 1.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "PAIX",
+        "ETAB_CODE_": "0130599F",
+        "ADR_VOIE": "56 RUE DE LA PAIX MARCEL PAUL",
+        "ADR_CODEPO": 13006,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.373067,
+        "ETAB_LAT": 43.291054
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.373067,
+          43.291054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 2.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "PARETTE MAZENODE",
+        "ETAB_CODE_": "0130601H",
+        "ADR_VOIE": "427 BOULEVARD MIREILLE LAUZE",
+        "ADR_CODEPO": 13011,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.430392,
+        "ETAB_LAT": 43.287304
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.430392,
+          43.287304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 3.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ROSIERE FIGONE",
+        "ETAB_CODE_": "0130620D",
+        "ADR_VOIE": "AVENUE DE LA FIGONE",
+        "ADR_CODEPO": 13012,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.438592,
+        "ETAB_LAT": 43.306015
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.438592,
+          43.306015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 4.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CANET AMBROSINI",
+        "ETAB_CODE_": "0130541T",
+        "ADR_VOIE": "BOULEVARD DE LA MAISON BLANCHE",
+        "ADR_CODEPO": 13014,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3755064,
+        "ETAB_LAT": 43.329967
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3755064,
+          43.329967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 5.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MAURICE KORSEC",
+        "ETAB_CODE_": "0133655C",
+        "ADR_VOIE": "2 RUE MAURICE KORSEC",
+        "ADR_CODEPO": 13001,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3796062,
+        "ETAB_LAT": 43.300766
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3796062,
+          43.300766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 6.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CONVALESCENTS KORSEC",
+        "ETAB_CODE_": "0130555H",
+        "ADR_VOIE": "13 RUE DES CONVALESCENTS",
+        "ADR_CODEPO": 13001,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3795056,
+        "ETAB_LAT": 43.300304
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3795056,
+          43.300304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 7.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "BONNEVEINE ZENATTI",
+        "ETAB_CODE_": "0132758C",
+        "ADR_VOIE": "109 AVENUE ANDRE ZENATTI",
+        "ADR_CODEPO": 13008,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.390829,
+        "ETAB_LAT": 43.246418
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.390829,
+          43.246418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 8.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MAJOR",
+        "ETAB_CODE_": "0130741K",
+        "ADR_VOIE": "41 RUE DE L'EVECHE",
+        "ADR_CODEPO": 13002,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.366403,
+        "ETAB_LAT": 43.300785
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.366403,
+          43.300785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 9.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CANET LAROUSSE",
+        "ETAB_CODE_": "0130542U",
+        "ADR_VOIE": "BOULEVARD LAROUSSE",
+        "ADR_CODEPO": 13014,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.381005,
+        "ETAB_LAT": 43.32935
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.381005,
+          43.32935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 10.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "VISTE BOUSQUET",
+        "ETAB_CODE_": "0130670H",
+        "ADR_VOIE": "38 AVENUE DE LA VISTE",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3594694,
+        "ETAB_LAT": 43.356945
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3594694,
+          43.356945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 11.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "BARASSE",
+        "ETAB_CODE_": "0130521W",
+        "ADR_VOIE": "25 BOULEVARD LUCIEN MARGAILLAN",
+        "ADR_CODEPO": 13011,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4820023,
+        "ETAB_LAT": 43.28367
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4820023,
+          43.28367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 12.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CITE MICHELIS II OU I",
+        "ETAB_CODE_": "0130706X",
+        "ADR_VOIE": "33 AVENUE DU PONTET",
+        "ADR_CODEPO": 13011,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4489117,
+        "ETAB_LAT": 43.284256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4489117,
+          43.284256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 13.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "OLYMPE DE GOUGES",
+        "ETAB_CODE_": "0130528D",
+        "ADR_VOIE": "74 RUE BEAU",
+        "ADR_CODEPO": 13012,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4112754,
+        "ETAB_LAT": 43.30121
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4112754,
+          43.30121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 14.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "FEUILLERAIE",
+        "ETAB_CODE_": "0130567W",
+        "ADR_VOIE": "87 BOULEVARD DE ROUX",
+        "ADR_CODEPO": 13004,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.408306,
+        "ETAB_LAT": 43.307434
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.408306,
+          43.307434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 15.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ROUGUIERE",
+        "ETAB_CODE_": "0130622F",
+        "ADR_VOIE": "ALLEE DE LA ROUGUIERE",
+        "ADR_CODEPO": 13011,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.459954,
+        "ETAB_LAT": 43.29525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.459954,
+          43.29525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 16.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ROY D'ESPAGNE",
+        "ETAB_CODE_": "0131209U",
+        "ADR_VOIE": "1 ALLEE EMMANUEL CHABRIER",
+        "ADR_CODEPO": 13008,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.386075,
+        "ETAB_LAT": 43.2397
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.386075,
+          43.2397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 17.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CHATEAU SAINT CYR",
+        "ETAB_CODE_": "0131243F",
+        "ADR_VOIE": "65 CHE DE LA VALBARELLE A ST MARCEL",
+        "ADR_CODEPO": 13010,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.440896,
+        "ETAB_LAT": 43.281616
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.440896,
+          43.281616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 18.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "JEAN FIOLLE",
+        "ETAB_CODE_": "0130558L",
+        "ADR_VOIE": "75 RUE DU DOCTEUR JEAN FIOLLE",
+        "ADR_CODEPO": 13006,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3802204,
+        "ETAB_LAT": 43.283638
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3802204,
+          43.283638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 19.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MARIUS THOMAS",
+        "ETAB_CODE_": "0130743M",
+        "ADR_VOIE": "21 BOULEVARD MARIUS THOMAS",
+        "ADR_CODEPO": 13007,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3616686,
+        "ETAB_LAT": 43.28489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3616686,
+          43.28489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 20.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT LOUIS LE ROVE",
+        "ETAB_CODE_": "0131540D",
+        "ADR_VOIE": "50 CHEMIN DE SAINT LOUIS AU ROVE",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.355271,
+        "ETAB_LAT": 43.349804
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.355271,
+          43.349804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 21.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MAZARGUES VACCARO",
+        "ETAB_CODE_": "0131692U",
+        "ADR_VOIE": "BOULEVARD DU MARECHAL KOENIG",
+        "ADR_CODEPO": 13009,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4102945,
+        "ETAB_LAT": 43.241917
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4102945,
+          43.241917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 22.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT MITRE",
+        "ETAB_CODE_": "0130647H",
+        "ADR_VOIE": "117 CHEMIN DE CHATEAU GOMBERT",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4192567,
+        "ETAB_LAT": 43.3413
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4192567,
+          43.3413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 23.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "BATARELLE",
+        "ETAB_CODE_": "0132601G",
+        "ADR_VOIE": "38 RUE DE LISSANDRE",
+        "ADR_CODEPO": 13014,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.410268,
+        "ETAB_LAT": 43.35664
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.410268,
+          43.35664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 24.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ETIENNE MILAN",
+        "ETAB_CODE_": "0130563S",
+        "ADR_VOIE": "4 RUE ETIENNE MILAN",
+        "ADR_CODEPO": 13008,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3865585,
+        "ETAB_LAT": 43.264744
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3865585,
+          43.264744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 25.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "PARADE",
+        "ETAB_CODE_": "0132603J",
+        "ADR_VOIE": "CHEMIN DE PALAMA",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.439526,
+        "ETAB_LAT": 43.35732
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.439526,
+          43.35732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 26.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "BOTINELLY",
+        "ETAB_CODE_": "0130705W",
+        "ADR_VOIE": "23 BOULEVARD LOUIS BOTINELLY",
+        "ADR_CODEPO": 13004,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.404785,
+        "ETAB_LAT": 43.301678
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.404785,
+          43.301678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 27.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT PIERRE",
+        "ETAB_CODE_": "0130648J",
+        "ADR_VOIE": "22 BOULEVARD LOUIS FRANGIN",
+        "ADR_CODEPO": 13005,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.405943,
+        "ETAB_LAT": 43.29382
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.405943,
+          43.29382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 28.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ESTAQUE PLAGE",
+        "ETAB_CODE_": "0130562R",
+        "ADR_VOIE": "2 RUE DE LA CONVENTION",
+        "ADR_CODEPO": 13016,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3146634,
+        "ETAB_LAT": 43.361973
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3146634,
+          43.361973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 29.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CHARTREUX EUGENE CAS 1",
+        "ETAB_CODE_": "0131529S",
+        "ADR_VOIE": "217 AVENUE DES CHARTREUX",
+        "ADR_CODEPO": 13004,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.400608,
+        "ETAB_LAT": 43.312023
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.400608,
+          43.312023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 30.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CHANTERELLE",
+        "ETAB_CODE_": "0134273Z",
+        "ADR_VOIE": "RUE COMMANDANT MAGES",
+        "ADR_CODEPO": 13001,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3900414,
+        "ETAB_LAT": 43.30384
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3900414,
+          43.30384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 31.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MARCEAU",
+        "ETAB_CODE_": "0134531E",
+        "ADR_VOIE": "RUE MASSENA",
+        "ADR_CODEPO": 13003,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.38447,
+        "ETAB_LAT": 43.30884
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38447,
+          43.30884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 32.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT LOUIS GARE",
+        "ETAB_CODE_": "0130642C",
+        "ADR_VOIE": "16 RUE LE CHATELIER",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.359908,
+        "ETAB_LAT": 43.34764
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.359908,
+          43.34764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 33.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MERLAN CERISAIE",
+        "ETAB_CODE_": "0130590W",
+        "ADR_VOIE": "23 BOULEVARD NOTRE DAME DE SANTA CRUZ",
+        "ADR_CODEPO": 13014,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.405461,
+        "ETAB_LAT": 43.339798
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.405461,
+          43.339798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 34.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CABUCELLE",
+        "ETAB_CODE_": "0130536M",
+        "ADR_VOIE": "52 BOULEVARD VIALA",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3601627,
+        "ETAB_LAT": 43.335186
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3601627,
+          43.335186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 35.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SQUARE MICHELET",
+        "ETAB_CODE_": "0130656T",
+        "ADR_VOIE": "BOULEVARD GASTON RAMON",
+        "ADR_CODEPO": 13009,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.398683,
+        "ETAB_LAT": 43.2672
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.398683,
+          43.2672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 36.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CHANTEPERDRIX",
+        "ETAB_CODE_": "0131642P",
+        "ADR_VOIE": "36 TRAVERSE DE CHANTE PERDRIX",
+        "ADR_CODEPO": 13010,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4312706,
+        "ETAB_LAT": 43.27578
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4312706,
+          43.27578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 37.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "BOIS LUZY",
+        "ETAB_CODE_": "0130687B",
+        "ADR_VOIE": "ALLEE DES PRIMEVERES",
+        "ADR_CODEPO": 13012,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4262805,
+        "ETAB_LAT": 43.3127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4262805,
+          43.3127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 38.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "OLIVIER GILLIBERT",
+        "ETAB_CODE_": "0130570Z",
+        "ADR_VOIE": "46 RUE GILLIBERT",
+        "ADR_CODEPO": 13005,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3933325,
+        "ETAB_LAT": 43.294346
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3933325,
+          43.294346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 39.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CHAVE",
+        "ETAB_CODE_": "0130550C",
+        "ADR_VOIE": "191 BOULEVARD CHAVE",
+        "ADR_CODEPO": 13005,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3983626,
+        "ETAB_LAT": 43.29625
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3983626,
+          43.29625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 40.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ALBERT CHABANON",
+        "ETAB_CODE_": "0130683X",
+        "ADR_VOIE": "23 RUE ALBERT CHABANON",
+        "ADR_CODEPO": 13006,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.382776,
+        "ETAB_LAT": 43.29063
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.382776,
+          43.29063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 41.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MALPASSE LES OLIVIERS",
+        "ETAB_CODE_": "0131856X",
+        "ADR_VOIE": "AVENUE SAINT PAUL",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.40632,
+        "ETAB_LAT": 43.3288
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.40632,
+          43.3288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 42.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "AIR BEL",
+        "ETAB_CODE_": "0132428U",
+        "ADR_VOIE": "ALLEE DES PLATANES",
+        "ADR_CODEPO": 13011,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.42944,
+        "ETAB_LAT": 43.29083
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.42944,
+          43.29083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 43.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "POMME SAINTE MADELEINE",
+        "ETAB_CODE_": "0132485F",
+        "ADR_VOIE": "AVENUE BERNARD LECACHE",
+        "ADR_CODEPO": 13011,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.448165,
+        "ETAB_LAT": 43.29469
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.448165,
+          43.29469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 44.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "FOURRAGERE",
+        "ETAB_CODE_": "0130633T",
+        "ADR_VOIE": "AVENUE DE LA FOURRAGERE",
+        "ADR_CODEPO": 13012,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4280143,
+        "ETAB_LAT": 43.300545
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4280143,
+          43.300545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 45.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CALADE",
+        "ETAB_CODE_": "0130538P",
+        "ADR_VOIE": "6 TRAVERSE MARITIME",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.354277,
+        "ETAB_LAT": 43.338726
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.354277,
+          43.338726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 46.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "EDOUARD VAILLANT",
+        "ETAB_CODE_": "0130559M",
+        "ADR_VOIE": "16 AVENUE EDOUARD VAILLANT",
+        "ADR_CODEPO": 13003,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.377875,
+        "ETAB_LAT": 43.316376
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.377875,
+          43.316376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 47.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CAPELETTE LAUGIER",
+        "ETAB_CODE_": "0130543V",
+        "ADR_VOIE": "2 RUE LAUGIER",
+        "ADR_CODEPO": 13010,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4068046,
+        "ETAB_LAT": 43.281902
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4068046,
+          43.281902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 48.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT SAVOURNIN",
+        "ETAB_CODE_": "0130806F",
+        "ADR_VOIE": "12 RUE BARTHELEMY",
+        "ADR_CODEPO": 13001,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3862486,
+        "ETAB_LAT": 43.2978
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3862486,
+          43.2978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 49.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ROSERAIE",
+        "ETAB_CODE_": "0130619C",
+        "ADR_VOIE": "6 RUE PIERRE MOUREN",
+        "ADR_CODEPO": 13007,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.352214,
+        "ETAB_LAT": 43.28275
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.352214,
+          43.28275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 50.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CANDOLLE",
+        "ETAB_CODE_": "0130540S",
+        "ADR_VOIE": "9 RUE CANDOLLE",
+        "ADR_CODEPO": 13007,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.365846,
+        "ETAB_LAT": 43.28786
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.365846,
+          43.28786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 51.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "AMEDEE AUTRAN",
+        "ETAB_CODE_": "0130665C",
+        "ADR_VOIE": "12 BOULEVARD AMEDEE AUTRAN",
+        "ADR_CODEPO": 13007,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3661532,
+        "ETAB_LAT": 43.282227
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3661532,
+          43.282227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 52.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT BARTHELEMY FLAMANTS",
+        "ETAB_CODE_": "0132429V",
+        "ADR_VOIE": "64 AVENUE ALEXANDRE ANSALDI",
+        "ADR_CODEPO": 13014,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.40347,
+        "ETAB_LAT": 43.33067
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.40347,
+          43.33067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 53.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "GUADELOUPE",
+        "ETAB_CODE_": "0130729X",
+        "ADR_VOIE": "7 RUE DE LA GUADELOUPE",
+        "ADR_CODEPO": 13006,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.374455,
+        "ETAB_LAT": 43.28205
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.374455,
+          43.28205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 54.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CHARTREUX",
+        "ETAB_CODE_": "0130702T",
+        "ADR_VOIE": "117 AVENUE DES CHARTREUX",
+        "ADR_CODEPO": 13004,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.399295,
+        "ETAB_LAT": 43.30723
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.399295,
+          43.30723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 55.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT TRONC CASTEL ROC",
+        "ETAB_CODE_": "0132352L",
+        "ADR_VOIE": "RUE ANDRE AUDOLI",
+        "ADR_CODEPO": 13010,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.430762,
+        "ETAB_LAT": 43.271255
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.430762,
+          43.271255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 56.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "BAUME",
+        "ETAB_CODE_": "0130523Y",
+        "ADR_VOIE": "1 TRAVERSE COLGATE",
+        "ADR_CODEPO": 13009,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.410759,
+        "ETAB_LAT": 43.234413
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.410759,
+          43.234413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 57.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MICHELET FOCH",
+        "ETAB_CODE_": "0134096G",
+        "ADR_VOIE": "21 AVENUE DU MARECHAL FOCH",
+        "ADR_CODEPO": 13004,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3991756,
+        "ETAB_LAT": 43.301224
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3991756,
+          43.301224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 58.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "REVOLUTION VAILLANT",
+        "ETAB_CODE_": "0134240N",
+        "ADR_VOIE": "45 AVENUE EDOUARD VAILLANT",
+        "ADR_CODEPO": 13003,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3798237,
+        "ETAB_LAT": 43.315872
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3798237,
+          43.315872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 59.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ANTOINE DE RUFFI",
+        "ETAB_CODE_": "0134320A",
+        "ADR_VOIE": "2 RUE URBAIN V",
+        "ADR_CODEPO": 13002,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.369204,
+        "ETAB_LAT": 43.315987
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.369204,
+          43.315987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 60.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "FELIX PYAT",
+        "ETAB_CODE_": "0130566V",
+        "ADR_VOIE": "54 RUE FELIX PYAT",
+        "ADR_CODEPO": 13003,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3753543,
+        "ETAB_LAT": 43.315132
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3753543,
+          43.315132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 61.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CABOT",
+        "ETAB_CODE_": "0130693H",
+        "ADR_VOIE": "PLACE LOUIS NAZURY",
+        "ADR_CODEPO": 13009,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4189944,
+        "ETAB_LAT": 43.25789
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4189944,
+          43.25789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 62.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ACCATES LA VALENTINE",
+        "ETAB_CODE_": "0130515P",
+        "ADR_VOIE": "CHEMIN VICINAL DES ACCATES",
+        "ADR_CODEPO": 13011,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.49283,
+        "ETAB_LAT": 43.302914
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.49283,
+          43.302914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 63.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "TREILLE",
+        "ETAB_CODE_": "0130831H",
+        "ADR_VOIE": "169 ROUTE DE LA TREILLE",
+        "ADR_CODEPO": 13011,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.512128,
+        "ETAB_LAT": 43.313248
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.512128,
+          43.313248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 64.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "PARC KALLISTE",
+        "ETAB_CODE_": "0131637J",
+        "ADR_VOIE": "CHEMIN DES BOURRELY",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.365117,
+        "ETAB_LAT": 43.38626
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.365117,
+          43.38626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 65.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ARENC BACHAS EXTERIEUR",
+        "ETAB_CODE_": "0133633D",
+        "ADR_VOIE": "61 TRAVERSE DU BACHAS",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.370532,
+        "ETAB_LAT": 43.320377
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.370532,
+          43.320377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 66.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "GRANDE BASTIDE CAZAULX",
+        "ETAB_CODE_": "0130608R",
+        "ADR_VOIE": "BOULEVARD BOUYALA D'ARNAUD",
+        "ADR_CODEPO": 13012,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.442149,
+        "ETAB_LAT": 43.298088
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.442149,
+          43.298088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 67.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "BERNARD CADENAT",
+        "ETAB_CODE_": "0130527C",
+        "ADR_VOIE": "3 PLACE BERNARD CADENAT",
+        "ADR_CODEPO": 13003,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.388238,
+        "ETAB_LAT": 43.31205
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.388238,
+          43.31205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 68.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CHEVALIER PAUL",
+        "ETAB_CODE_": "0133998A",
+        "ADR_VOIE": "74 RUE DU CHEVALIER PAUL",
+        "ADR_CODEPO": 13002,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.369711,
+        "ETAB_LAT": 43.30928
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.369711,
+          43.30928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 69.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "BEAUMONT BOMBARDIERE",
+        "ETAB_CODE_": "0130524Z",
+        "ADR_VOIE": "213 RUE CHARLES KADDOUZ",
+        "ADR_CODEPO": 13012,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4382825,
+        "ETAB_LAT": 43.318447
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4382825,
+          43.318447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 70.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CASTELLAS LES LIONS",
+        "ETAB_CODE_": "0131285B",
+        "ADR_VOIE": "AVENUE DU CASTELLAS",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.376832,
+        "ETAB_LAT": 43.34983
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.376832,
+          43.34983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 71.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT LOUP CENTRE",
+        "ETAB_CODE_": "0132175U",
+        "ADR_VOIE": "103 BOULEVARD DE SAINT LOUP",
+        "ADR_CODEPO": 13010,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.433461,
+        "ETAB_LAT": 43.284096
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.433461,
+          43.284096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 72.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "FRIEDLAND",
+        "ETAB_CODE_": "0130725T",
+        "ADR_VOIE": "13 RUE DE FRIEDLAND",
+        "ADR_CODEPO": 13006,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.388714,
+        "ETAB_LAT": 43.286476
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.388714,
+          43.286476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 73.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "NATIONAL",
+        "ETAB_CODE_": "0130595B",
+        "ADR_VOIE": "179 BOULEVARD NATIONAL",
+        "ADR_CODEPO": 13003,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3801675,
+        "ETAB_LAT": 43.3087
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3801675,
+          43.3087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 74.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "BUSSERINE",
+        "ETAB_CODE_": "0130534K",
+        "ADR_VOIE": "BOULEVARD CHARLES MATTEI",
+        "ADR_CODEPO": 13014,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.39499,
+        "ETAB_LAT": 43.331398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.39499,
+          43.331398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 75.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CHATEAUBRIAND",
+        "ETAB_CODE_": "0130548A",
+        "ADR_VOIE": "46 RUE CHATEAUBRIAND",
+        "ADR_CODEPO": 13007,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.35889,
+        "ETAB_LAT": 43.286026
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.35889,
+          43.286026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 76.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CAMOINS",
+        "ETAB_CODE_": "0130539R",
+        "ADR_VOIE": "11 MONTEE D'EOURES",
+        "ADR_CODEPO": 13011,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.511921,
+        "ETAB_LAT": 43.30095
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.511921,
+          43.30095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 77.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "GROTTE ROLLAND",
+        "ETAB_CODE_": "0130572B",
+        "ADR_VOIE": "24 BOULEVARD DES SALYENS",
+        "ADR_CODEPO": 13008,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.36603,
+        "ETAB_LAT": 43.2351
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36603,
+          43.2351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 78.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "LA SOUDE",
+        "ETAB_CODE_": "0132574C",
+        "ADR_VOIE": "30 AVENUE DE LA MARTHELINE",
+        "ADR_CODEPO": 13009,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4002285,
+        "ETAB_LAT": 43.244995
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4002285,
+          43.244995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 79.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINTE ANNE",
+        "ETAB_CODE_": "0130651M",
+        "ADR_VOIE": "484 AVENUE DE MAZARGUES",
+        "ADR_CODEPO": 13008,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3930993,
+        "ETAB_LAT": 43.255646
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3930993,
+          43.255646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 80.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "PETIT BOSQUET",
+        "ETAB_CODE_": "0130604L",
+        "ADR_VOIE": "181 AVENUE DE MONTOLIVET",
+        "ADR_CODEPO": 13012,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4112144,
+        "ETAB_LAT": 43.312443
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4112144,
+          43.312443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 81.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "RAYMOND TEISSEIRE",
+        "ETAB_CODE_": "0131552S",
+        "ADR_VOIE": "64 BOULEVARD RABATAU",
+        "ADR_CODEPO": 13008,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3974376,
+        "ETAB_LAT": 43.275394
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3974376,
+          43.275394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 82.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "NEREIDES",
+        "ETAB_CODE_": "0132605L",
+        "ADR_VOIE": "113 RUE DE LA GRANIERE",
+        "ADR_CODEPO": 13011,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.460845,
+        "ETAB_LAT": 43.284298
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.460845,
+          43.284298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 83.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "BONNEVEINE 1",
+        "ETAB_CODE_": "0130532H",
+        "ADR_VOIE": "52 BOULEVARD DU SABLIER",
+        "ADR_CODEPO": 13008,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.381163,
+        "ETAB_LAT": 43.251587
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.381163,
+          43.251587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 84.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT JULIEN I",
+        "ETAB_CODE_": "0130637X",
+        "ADR_VOIE": "11 BOULEVARD BONNIOT",
+        "ADR_CODEPO": 13012,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.449448,
+        "ETAB_LAT": 43.315365
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.449448,
+          43.315365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 85.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT LOUP GABRIEL FAURE",
+        "ETAB_CODE_": "0130644E",
+        "ADR_VOIE": "17 RUE GABRIEL FAURE",
+        "ADR_CODEPO": 13010,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.433404,
+        "ETAB_LAT": 43.28157
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.433404,
+          43.28157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 86.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ROSE FRAIS VALLON NORD",
+        "ETAB_CODE_": "0130773V",
+        "ADR_VOIE": "39 AVENUE DE FRAIS VALLON",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4267015,
+        "ETAB_LAT": 43.325195
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4267015,
+          43.325195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 87.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT JUST CENTRE 2",
+        "ETAB_CODE_": "0130796V",
+        "ADR_VOIE": "16 RUE SAINT GEORGES",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.405728,
+        "ETAB_LAT": 43.319424
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.405728,
+          43.319424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 88.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CITE INTERNATIONALE JACQUES CHIRAC",
+        "ETAB_CODE_": "0134530D",
+        "ADR_VOIE": "RUE URBAIN V",
+        "ADR_CODEPO": 13002,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.368806,
+        "ETAB_LAT": 43.315594
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.368806,
+          43.315594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 89.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CROIX ROUGE VILLAGE",
+        "ETAB_CODE_": "0130556J",
+        "ADR_VOIE": "36 BOULEVARD MARCEL DELPRAT",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.454856,
+        "ETAB_LAT": 43.33372
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.454856,
+          43.33372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 90.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CHATEAU SEC",
+        "ETAB_CODE_": "0131532V",
+        "ADR_VOIE": "51 CHEMIN JOSEPH AIGUIER",
+        "ADR_CODEPO": 13009,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4085793,
+        "ETAB_LAT": 43.25447
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4085793,
+          43.25447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 91.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT MARCEL",
+        "ETAB_CODE_": "0130645F",
+        "ADR_VOIE": "8 RUE DE QUEYLAR",
+        "ADR_CODEPO": 13011,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.464809,
+        "ETAB_LAT": 43.286884
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.464809,
+          43.286884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 92.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CAILLOLS",
+        "ETAB_CODE_": "0130537N",
+        "ADR_VOIE": "32 CHEMIN DES CAMPANULES",
+        "ADR_CODEPO": 13012,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4477005,
+        "ETAB_LAT": 43.300552
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4477005,
+          43.300552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 93.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "PEYSSONNEL I",
+        "ETAB_CODE_": "0131537A",
+        "ADR_VOIE": "22 RUE PEYSSONNEL",
+        "ADR_CODEPO": 13003,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.373117,
+        "ETAB_LAT": 43.30773
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.373117,
+          43.30773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 94.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT ANDRE LA CASTELLANE",
+        "ETAB_CODE_": "0131821J",
+        "ADR_VOIE": "66 CHEMIN DE BERNEX",
+        "ADR_CODEPO": 13016,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3407817,
+        "ETAB_LAT": 43.369106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3407817,
+          43.369106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 95.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT CHARLES 1",
+        "ETAB_CODE_": "0130630P",
+        "ADR_VOIE": "49 RUE LUCIEN ROLMER",
+        "ADR_CODEPO": 13003,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3769646,
+        "ETAB_LAT": 43.30676
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3769646,
+          43.30676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 96.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SOLIDARITE",
+        "ETAB_CODE_": "0132610S",
+        "ADR_VOIE": "48 CHEMIN DE LA BIGOTTE",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.371859,
+        "ETAB_LAT": 43.38827
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.371859,
+          43.38827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 97.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT BARNABE",
+        "ETAB_CODE_": "0130627L",
+        "ADR_VOIE": "27 RUE DU DOCTEUR CAUVIN",
+        "ADR_CODEPO": 13012,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4176745,
+        "ETAB_LAT": 43.302364
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4176745,
+          43.302364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 98.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT ANDRE BARNIER",
+        "ETAB_CODE_": "0132176V",
+        "ADR_VOIE": "274 BOULEVARD HENRI BARNIER",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3417244,
+        "ETAB_LAT": 43.36481
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3417244,
+          43.36481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 99.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT JUST COROT",
+        "ETAB_CODE_": "0130640A",
+        "ADR_VOIE": "TRAVERSE SIGNORET",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4056063,
+        "ETAB_LAT": 43.324303
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4056063,
+          43.324303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 100.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MADRAGUE MONTREDON",
+        "ETAB_CODE_": "0130739H",
+        "ADR_VOIE": "34 BOULEVARD DE LA VERRERIE",
+        "ADR_CODEPO": 13008,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.361473,
+        "ETAB_LAT": 43.231983
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.361473,
+          43.231983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 101.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINTE SOPHIE",
+        "ETAB_CODE_": "0130813N",
+        "ADR_VOIE": "4 RUE SAINTE SOPHIE",
+        "ADR_CODEPO": 13004,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4030604,
+        "ETAB_LAT": 43.30624
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4030604,
+          43.30624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 102.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "EYDOUX",
+        "ETAB_CODE_": "0130565U",
+        "ADR_VOIE": "20 RUE EYDOUX",
+        "ADR_CODEPO": 13006,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.38708,
+        "ETAB_LAT": 43.290424
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38708,
+          43.290424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 103.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "BOIS LEMAITRE",
+        "ETAB_CODE_": "0132185E",
+        "ADR_VOIE": "AVENUE JEAN COMPADIEU",
+        "ADR_CODEPO": 13012,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.433867,
+        "ETAB_LAT": 43.321514
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.433867,
+          43.321514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 104.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT JULIEN 2",
+        "ETAB_CODE_": "0130795U",
+        "ADR_VOIE": "128 RUE DU GROUPE SCOLAIRE",
+        "ADR_CODEPO": 13012,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4466805,
+        "ETAB_LAT": 43.312565
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4466805,
+          43.312565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 105.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "PEYSSONNEL II",
+        "ETAB_CODE_": "0131538B",
+        "ADR_VOIE": "26 RUE PEYSSONNEL",
+        "ADR_CODEPO": 13003,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.37281,
+        "ETAB_LAT": 43.307896
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37281,
+          43.307896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 106.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT CHARLES 2",
+        "ETAB_CODE_": "0130788L",
+        "ADR_VOIE": "36 RUE DU 141 ÈME RIA",
+        "ADR_CODEPO": 13003,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.379946,
+        "ETAB_LAT": 43.306828
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.379946,
+          43.306828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 107.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT JEROME LES LILAS",
+        "ETAB_CODE_": "0131652A",
+        "ADR_VOIE": "2 RUE FERNAND LEGER",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.411414,
+        "ETAB_LAT": 43.33123
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.411414,
+          43.33123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 108.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CANET BARBES",
+        "ETAB_CODE_": "0130698N",
+        "ADR_VOIE": "21 BOULEVARD BARBES",
+        "ADR_CODEPO": 13014,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.374375,
+        "ETAB_LAT": 43.32426
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.374375,
+          43.32426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 109.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "VISITATION",
+        "ETAB_CODE_": "0131271L",
+        "ADR_VOIE": "48 AVENUE DES AYGALADES",
+        "ADR_CODEPO": 13014,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.368012,
+        "ETAB_LAT": 43.33721
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.368012,
+          43.33721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 110.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "OLIVES",
+        "ETAB_CODE_": "0130598E",
+        "ADR_VOIE": "147 AVENUE DES POILUS",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.457785,
+        "ETAB_LAT": 43.322376
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.457785,
+          43.322376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 111.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "POMME HECKEL",
+        "ETAB_CODE_": "0130766M",
+        "ADR_VOIE": "28 AVENUE DU DOCTEUR HECKEL",
+        "ADR_CODEPO": 13011,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.440947,
+        "ETAB_LAT": 43.288937
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.440947,
+          43.288937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 112.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "BASTIDES",
+        "ETAB_CODE_": "0130522X",
+        "ADR_VOIE": "292 AVENUE DE SAINT ANTOINE",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3564053,
+        "ETAB_LAT": 43.375736
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3564053,
+          43.375736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 113.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT GABRIEL",
+        "ETAB_CODE_": "0130631R",
+        "ADR_VOIE": "22 BOULEVARD KRAEMER",
+        "ADR_CODEPO": 13014,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.383353,
+        "ETAB_LAT": 43.321255
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.383353,
+          43.321255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 114.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "AYGALADES OASIS",
+        "ETAB_CODE_": "0131238A",
+        "ADR_VOIE": "BOULEVARD DE LA PADOUANE",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.368613,
+        "ETAB_LAT": 43.3545
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.368613,
+          43.3545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 115.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CAPELETTE CURTEL",
+        "ETAB_CODE_": "0134097H",
+        "ADR_VOIE": "BOULEVARD DROMEL",
+        "ADR_CODEPO": 13009,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.406123,
+        "ETAB_LAT": 43.271236
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.406123,
+          43.271236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 116.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ROUET CHARLES ALLE",
+        "ETAB_CODE_": "0134167J",
+        "ADR_VOIE": "RUE CHARLES ALLE",
+        "ADR_CODEPO": 13008,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.392141,
+        "ETAB_LAT": 43.279747
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.392141,
+          43.279747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 117.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CENTRE ESPERANZA",
+        "ETAB_CODE_": "0130960Y",
+        "ADR_VOIE": "129 AVENUE FERNANDEL",
+        "ADR_CODEPO": 13012,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.456753,
+        "ETAB_LAT": 43.311985
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.456753,
+          43.311985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 118.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ROUCAS BLANC",
+        "ETAB_CODE_": "0130918C",
+        "ADR_VOIE": "44 CHEMIN DU ROUCAS BLANC",
+        "ADR_CODEPO": 13007,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3661647,
+        "ETAB_LAT": 43.28677
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3661647,
+          43.28677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 119.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ROSE CASTORS",
+        "ETAB_CODE_": "0130613W",
+        "ADR_VOIE": "PARC DES VIEUX CYPRES",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4333477,
+        "ETAB_LAT": 43.337677
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4333477,
+          43.337677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 120.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "FRANKLIN ROOSEVELT",
+        "ETAB_CODE_": "0130659W",
+        "ADR_VOIE": "5 RUE DE TIVOLI",
+        "ADR_CODEPO": 13005,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3893156,
+        "ETAB_LAT": 43.298454
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3893156,
+          43.298454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 121.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "EMILE VAYSSIERE 2",
+        "ETAB_CODE_": "0132637W",
+        "ADR_VOIE": "RUE DE LA CRAU",
+        "ADR_CODEPO": 13014,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.397523,
+        "ETAB_LAT": 43.335644
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.397523,
+          43.335644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 122.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ROSE LA GARDE",
+        "ETAB_CODE_": "0132267U",
+        "ADR_VOIE": "RUE AUGUSTIN MERLHOU",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4279704,
+        "ETAB_LAT": 43.332527
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4279704,
+          43.332527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 123.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT JOSEPH LES MICOCOULIERS",
+        "ETAB_CODE_": "0132192M",
+        "ADR_VOIE": "8 BOULEVARD ROLAND DORGELES",
+        "ADR_CODEPO": 13014,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.379955,
+        "ETAB_LAT": 43.347054
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.379955,
+          43.347054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 124.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CLAIR SOLEIL",
+        "ETAB_CODE_": "0130553F",
+        "ADR_VOIE": "BOULEVARD CHARLES MORETTI",
+        "ADR_CODEPO": 13014,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.384888,
+        "ETAB_LAT": 43.32391
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.384888,
+          43.32391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 125.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "TROIS LUCS",
+        "ETAB_CODE_": "0130660X",
+        "ADR_VOIE": "375 AVENUE DES POILUS",
+        "ADR_CODEPO": 13012,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4630675,
+        "ETAB_LAT": 43.314728
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4630675,
+          43.314728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 126.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "BOUGE",
+        "ETAB_CODE_": "0131208T",
+        "ADR_VOIE": "RUE DE MARATHON",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4123125,
+        "ETAB_LAT": 43.32638
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4123125,
+          43.32638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 127.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT ANTOINE PALANQUE",
+        "ETAB_CODE_": "0130626K",
+        "ADR_VOIE": "CHEMIN DE LA MARTINE",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3641114,
+        "ETAB_LAT": 43.37341
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3641114,
+          43.37341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 128.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "GROGNARDE",
+        "ETAB_CODE_": "0131595N",
+        "ADR_VOIE": "BOULEVARD SOULT",
+        "ADR_CODEPO": 13011,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.436244,
+        "ETAB_LAT": 43.29325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.436244,
+          43.29325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 129.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT LOUIS CONSOLAT",
+        "ETAB_CODE_": "0130641B",
+        "ADR_VOIE": "47 RUE DES MUSARDISES",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3534136,
+        "ETAB_LAT": 43.34772
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3534136,
+          43.34772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 130.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "FONT VERT",
+        "ETAB_CODE_": "0131543G",
+        "ADR_VOIE": "CHEMIN DE SAINTE MARTHE",
+        "ADR_CODEPO": 13014,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.390289,
+        "ETAB_LAT": 43.32828
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.390289,
+          43.32828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 131.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "BORELS",
+        "ETAB_CODE_": "0130533J",
+        "ADR_VOIE": "3 BOULEVARD BELLEVUE",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.366763,
+        "ETAB_LAT": 43.362965
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.366763,
+          43.362965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 132.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "BONNEVEINE 2",
+        "ETAB_CODE_": "0133124A",
+        "ADR_VOIE": "52 BOULEVARD DU SABLIER",
+        "ADR_CODEPO": 13008,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3810277,
+        "ETAB_LAT": 43.25119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3810277,
+          43.25119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 133.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "BRICARDE",
+        "ETAB_CODE_": "0132275C",
+        "ADR_VOIE": "125 BOULEVARD HENRI BARNIER",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3476014,
+        "ETAB_LAT": 43.370255
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3476014,
+          43.370255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 134.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ROUET",
+        "ETAB_CODE_": "0130621E",
+        "ADR_VOIE": "10 RUE SAINTE FAMILLE",
+        "ADR_CODEPO": 13008,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.393416,
+        "ETAB_LAT": 43.277973
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.393416,
+          43.277973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 135.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "FRAISSINET",
+        "ETAB_CODE_": "0130568X",
+        "ADR_VOIE": "208 RUE SAINT PIERRE",
+        "ADR_CODEPO": 13005,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3988414,
+        "ETAB_LAT": 43.292336
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3988414,
+          43.292336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 136.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "FLOTTE",
+        "ETAB_CODE_": "0131272M",
+        "ADR_VOIE": "2 AVENUE FERDINAND FLOTTE",
+        "ADR_CODEPO": 13008,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3804736,
+        "ETAB_LAT": 43.275276
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3804736,
+          43.275276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 137.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT JEROME VILLAGE 2",
+        "ETAB_CODE_": "0130792R",
+        "ADR_VOIE": "41 AVENUE DE SAINT JEROME",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.417412,
+        "ETAB_LAT": 43.32992
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.417412,
+          43.32992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 138.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "VINCENT LEBLANC",
+        "ETAB_CODE_": "0130827D",
+        "ADR_VOIE": "32 RUE VINCENT LEBLANC",
+        "ADR_CODEPO": 13002,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.368311,
+        "ETAB_LAT": 43.305515
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.368311,
+          43.305515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 139.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "LAPIN BLANC",
+        "ETAB_CODE_": "0130736E",
+        "ADR_VOIE": "70 AVENUE ANDRE ZENATTI",
+        "ADR_CODEPO": 13008,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.386741,
+        "ETAB_LAT": 43.245903
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.386741,
+          43.245903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 140.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "LAPIN BLANC DES NEIGES",
+        "ETAB_CODE_": "0130577G",
+        "ADR_VOIE": "131 BOULEVARD DU SABLIER",
+        "ADR_CODEPO": 13008,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3818946,
+        "ETAB_LAT": 43.24823
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3818946,
+          43.24823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 141.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ALLEE DES PINS LE CABOT",
+        "ETAB_CODE_": "0130769R",
+        "ADR_VOIE": "51 ALLEE DES PINS-LE CABOT",
+        "ADR_CODEPO": 13009,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4154377,
+        "ETAB_LAT": 43.253277
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4154377,
+          43.253277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 142.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "BOISSON",
+        "ETAB_CODE_": "0130531G",
+        "ADR_VOIE": "127 BOULEVARD BOISSON",
+        "ADR_CODEPO": 13004,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4040866,
+        "ETAB_LAT": 43.29821
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4040866,
+          43.29821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 143.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MAZARGUES",
+        "ETAB_CODE_": "0130747S",
+        "ADR_VOIE": "3 RUE FRANCOIS BLANC",
+        "ADR_CODEPO": 13009,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4014177,
+        "ETAB_LAT": 43.24933
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4014177,
+          43.24933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 144.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ROSE SAINT THEODORE",
+        "ETAB_CODE_": "0130618B",
+        "ADR_VOIE": "5 ALLEE DES CHARDONNERETS",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4339237,
+        "ETAB_LAT": 43.330624
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4339237,
+          43.330624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 145.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ESTAQUE GARE",
+        "ETAB_CODE_": "0130561P",
+        "ADR_VOIE": "33 BOULEVARD FENOUIL",
+        "ADR_CODEPO": 13016,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3204794,
+        "ETAB_LAT": 43.36081
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3204794,
+          43.36081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 146.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ODDO",
+        "ETAB_CODE_": "0130597D",
+        "ADR_VOIE": "1 PLACE EDGAR TARQUIN",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3618417,
+        "ETAB_LAT": 43.328514
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3618417,
+          43.328514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 147.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "VERDURON HAUT",
+        "ETAB_CODE_": "0130669G",
+        "ADR_VOIE": "BOULEVARD MARIUS BREMOND",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3432493,
+        "ETAB_LAT": 43.375088
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3432493,
+          43.375088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 148.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAUVAGERE",
+        "ETAB_CODE_": "0130655S",
+        "ADR_VOIE": "253 BOULEVARD ROMAIN ROLLAND",
+        "ADR_CODEPO": 13010,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.415641,
+        "ETAB_LAT": 43.271652
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415641,
+          43.271652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 149.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINTE MARTHE",
+        "ETAB_CODE_": "0130654R",
+        "ADR_VOIE": "BOULEVARD RICOUX",
+        "ADR_CODEPO": 13014,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.388943,
+        "ETAB_LAT": 43.33823
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.388943,
+          43.33823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 150.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MILLIERE",
+        "ETAB_CODE_": "0130591X",
+        "ADR_VOIE": "82 BOULEVARD ALBERT SAUZE",
+        "ADR_CODEPO": 13011,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.50087,
+        "ETAB_LAT": 43.281685
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.50087,
+          43.281685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 151.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "LES ACCOULES",
+        "ETAB_CODE_": "0130753Y",
+        "ADR_VOIE": "27 MONTEE DES ACCOULES",
+        "ADR_CODEPO": 13002,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3669505,
+        "ETAB_LAT": 43.297554
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3669505,
+          43.297554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 152.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "DAHDAH",
+        "ETAB_CODE_": "0130557K",
+        "ADR_VOIE": "15 BOULEVARD DAHDAH",
+        "ADR_CODEPO": 13004,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3945885,
+        "ETAB_LAT": 43.310802
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3945885,
+          43.310802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 153.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "PLAN D'AOU",
+        "ETAB_CODE_": "0132155X",
+        "ADR_VOIE": "PLACE DES FREGATES",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3548317,
+        "ETAB_LAT": 43.369335
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3548317,
+          43.369335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 154.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "PARC DROMEL",
+        "ETAB_CODE_": "0130600G",
+        "ADR_VOIE": "BOULEVARD DROMEL",
+        "ADR_CODEPO": 13009,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4059625,
+        "ETAB_LAT": 43.27066
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4059625,
+          43.27066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 155.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MAURELLE BOMBARDIERE",
+        "ETAB_CODE_": "0130585R",
+        "ADR_VOIE": "213 RUE CHARLES KADDOUZ",
+        "ADR_CODEPO": 13012,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4389434,
+        "ETAB_LAT": 43.318626
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4389434,
+          43.318626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 156.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ROSE SAUVAGINE",
+        "ETAB_CODE_": "0130617A",
+        "ADR_VOIE": "AVENUE MERLEAU PONTY",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.426629,
+        "ETAB_LAT": 43.335033
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.426629,
+          43.335033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 157.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "EMILE VAYSSIERE 1",
+        "ETAB_CODE_": "0131641N",
+        "ADR_VOIE": "RUE DE LA CRAU",
+        "ADR_CODEPO": 13014,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.397549,
+        "ETAB_LAT": 43.334896
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.397549,
+          43.334896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 158.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CANET JEAN JAURES",
+        "ETAB_CODE_": "0132179Y",
+        "ADR_VOIE": "20 RUE DU MURET",
+        "ADR_CODEPO": 13014,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3812866,
+        "ETAB_LAT": 43.3318
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3812866,
+          43.3318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 159.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MALPASSE",
+        "ETAB_CODE_": "0130583N",
+        "ADR_VOIE": "16 RUE DU DOCTEUR GRENIER",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.415023,
+        "ETAB_LAT": 43.32076
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415023,
+          43.32076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 160.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CROIX ROUGE CAMPAGNE",
+        "ETAB_CODE_": "0132530E",
+        "ADR_VOIE": "14 AVENUE FOURNACLE",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4562893,
+        "ETAB_LAT": 43.33181
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4562893,
+          43.33181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 161.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MAURELETTE",
+        "ETAB_CODE_": "0131224K",
+        "ADR_VOIE": "BOULEVARD SIMON BOLIVAR",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.375883,
+        "ETAB_LAT": 43.344933
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.375883,
+          43.344933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 162.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "PONT DE VIVAUX SACCOMAN",
+        "ETAB_CODE_": "0130609S",
+        "ADR_VOIE": "200 BOULEVARD ROMAIN ROLLAND",
+        "ADR_CODEPO": 13010,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4162316,
+        "ETAB_LAT": 43.275867
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4162316,
+          43.275867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 163.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SINONCELLI",
+        "ETAB_CODE_": "0131229R",
+        "ADR_VOIE": "51 RUE BOISSELOT",
+        "ADR_CODEPO": 13014,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.388797,
+        "ETAB_LAT": 43.318855
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.388797,
+          43.318855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 164.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "HOZIER",
+        "ETAB_CODE_": "0130574D",
+        "ADR_VOIE": "2 RUE D'HOZIER",
+        "ADR_CODEPO": 13002,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.370246,
+        "ETAB_LAT": 43.3045
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.370246,
+          43.3045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 165.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "PRADO PLAGE",
+        "ETAB_CODE_": "0133188V",
+        "ADR_VOIE": "122 RUE DU COMMANDANT ROLLAND",
+        "ADR_CODEPO": 13008,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.378836,
+        "ETAB_LAT": 43.26944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.378836,
+          43.26944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 166.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "GRANADOS ROY D'ESPAGNE",
+        "ETAB_CODE_": "0132286P",
+        "ADR_VOIE": "ALLEE GRANADOS",
+        "ADR_CODEPO": 13009,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.39196,
+        "ETAB_LAT": 43.237083
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.39196,
+          43.237083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 167.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "POINTE ROUGE",
+        "ETAB_CODE_": "0130606N",
+        "ADR_VOIE": "10 BOULEVARD PIOT",
+        "ADR_CODEPO": 13008,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.371619,
+        "ETAB_LAT": 43.24308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.371619,
+          43.24308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 168.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MONTOLIVET",
+        "ETAB_CODE_": "0132184D",
+        "ADR_VOIE": "117 RUE DE L'AIGUILLETTE",
+        "ADR_CODEPO": 13012,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.427762,
+        "ETAB_LAT": 43.317406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.427762,
+          43.317406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 169.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "GRAND SAINT GINIEZ",
+        "ETAB_CODE_": "0130571A",
+        "ADR_VOIE": "257 AVENUE DE MAZARGUES",
+        "ADR_CODEPO": 13008,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.393617,
+        "ETAB_LAT": 43.26391
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.393617,
+          43.26391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 170.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT JUST CENTRE 1",
+        "ETAB_CODE_": "0130638Y",
+        "ADR_VOIE": "14 RUE SAINT GEORGES",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4063983,
+        "ETAB_LAT": 43.31951
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4063983,
+          43.31951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 171.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "COURS JULIEN",
+        "ETAB_CODE_": "0132638X",
+        "ADR_VOIE": "119 RUE D'AUBAGNE",
+        "ADR_CODEPO": 13006,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3828073,
+        "ETAB_LAT": 43.293182
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3828073,
+          43.293182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 172.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MADRAGUE VILLE",
+        "ETAB_CODE_": "0134231D",
+        "ADR_VOIE": "141 CHEMIN DE LA MADRAGUE VILLE",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3601327,
+        "ETAB_LAT": 43.326977
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3601327,
+          43.326977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 173.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "DENISE TOROS-MARTER",
+        "ETAB_CODE_": "0134444K",
+        "ADR_VOIE": "TRAVERSE REGNY",
+        "ADR_CODEPO": 13009,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.420307,
+        "ETAB_LAT": 43.263626
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.420307,
+          43.263626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 174.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINTE MARGUERITE",
+        "ETAB_CODE_": "0130653P",
+        "ADR_VOIE": "135 BOULEVARD DE SAINTE MARGUERITE",
+        "ADR_CODEPO": 13009,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4082437,
+        "ETAB_LAT": 43.2678
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4082437,
+          43.2678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 175.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CAPELETTE CAP EST",
+        "ETAB_CODE_": "0133896P",
+        "ADR_VOIE": "45 RUE CHARLES CERRATO",
+        "ADR_CODEPO": 13010,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3978233,
+        "ETAB_LAT": 43.28171
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3978233,
+          43.28171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 176.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ROSE VAL PLAN",
+        "ETAB_CODE_": "0131227N",
+        "ADR_VOIE": "77 AVENUE DE LA CROIX ROUGE",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4339666,
+        "ETAB_LAT": 43.33282
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4339666,
+          43.33282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 177.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "PARC BELLEVUE",
+        "ETAB_CODE_": "0130518T",
+        "ADR_VOIE": "143 RUE FELIX PYAT",
+        "ADR_CODEPO": 13003,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3735223,
+        "ETAB_LAT": 43.317623
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3735223,
+          43.317623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 178.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MENPENTI",
+        "ETAB_CODE_": "0130589V",
+        "ADR_VOIE": "161 AVENUE DE TOULON",
+        "ADR_CODEPO": 13010,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.396402,
+        "ETAB_LAT": 43.28407
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.396402,
+          43.28407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 179.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ROUVIERE",
+        "ETAB_CODE_": "0130623G",
+        "ADR_VOIE": "83 BOULEVARD DU REDON",
+        "ADR_CODEPO": 13009,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.423726,
+        "ETAB_LAT": 43.251366
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.423726,
+          43.251366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 180.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MERLAN",
+        "ETAB_CODE_": "0130751W",
+        "ADR_VOIE": "70 AVENUE DU MERLAN",
+        "ADR_CODEPO": 13014,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4083095,
+        "ETAB_LAT": 43.33852
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4083095,
+          43.33852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 181.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "PHARO CATALANS",
+        "ETAB_CODE_": "0130605M",
+        "ADR_VOIE": "RUE DES CATALANS",
+        "ADR_CODEPO": 13007,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.355185,
+        "ETAB_LAT": 43.292507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.355185,
+          43.292507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 182.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "VALLON DES TUVES",
+        "ETAB_CODE_": "0130666D",
+        "ADR_VOIE": "TRAVERSE COURTES",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.368696,
+        "ETAB_LAT": 43.37209
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.368696,
+          43.37209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 183.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT ANDRE CONDORCET",
+        "ETAB_CODE_": "0130783F",
+        "ADR_VOIE": "64 RUE CONDORCET",
+        "ADR_CODEPO": 13016,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.341644,
+        "ETAB_LAT": 43.357735
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.341644,
+          43.357735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 184.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "KLEBER",
+        "ETAB_CODE_": "0130735D",
+        "ADR_VOIE": "26 RUE KLEBER",
+        "ADR_CODEPO": 13003,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3750057,
+        "ETAB_LAT": 43.30762
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3750057,
+          43.30762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 185.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT HENRI RABELAIS 2",
+        "ETAB_CODE_": "0130632S",
+        "ADR_VOIE": "95 RUE RABELAIS",
+        "ADR_CODEPO": 13016,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.333995,
+        "ETAB_LAT": 43.35847
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.333995,
+          43.35847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 186.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "VALMANTE",
+        "ETAB_CODE_": "0130611U",
+        "ADR_VOIE": "83 CHEMIN JEAN ROUBIN",
+        "ADR_CODEPO": 13009,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.421578,
+        "ETAB_LAT": 43.248306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.421578,
+          43.248306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 187.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CITE MICHELIS I OU II",
+        "ETAB_CODE_": "0130551D",
+        "ADR_VOIE": "33 AVENUE DU PONTET",
+        "ADR_CODEPO": 13011,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.44839,
+        "ETAB_LAT": 43.284336
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.44839,
+          43.284336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 188.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CAPELETTE MIREILLE LAUZE",
+        "ETAB_CODE_": "0130700R",
+        "ADR_VOIE": "131 BOULEVARD MIREILLE LAUZE",
+        "ADR_CODEPO": 13010,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.412064,
+        "ETAB_LAT": 43.28369
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.412064,
+          43.28369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 189.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CHATEAU GOMBERT ATHENA",
+        "ETAB_CODE_": "0133821H",
+        "ADR_VOIE": "13 RUE ROBERT DE ROUX",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.444857,
+        "ETAB_LAT": 43.33766
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.444857,
+          43.33766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 190.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT JEROME VILLAGE 1",
+        "ETAB_CODE_": "0130634U",
+        "ADR_VOIE": "15 AVENUE DE SAINT JEROME",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4176726,
+        "ETAB_LAT": 43.32987
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4176726,
+          43.32987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 191.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT LOUIS CAMPAGNE LEVEQUE",
+        "ETAB_CODE_": "0130643D",
+        "ADR_VOIE": "CAMPAGNE LEVEQUE",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3579316,
+        "ETAB_LAT": 43.3424
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3579316,
+          43.3424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 192.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "VALENTINE",
+        "ETAB_CODE_": "0130663A",
+        "ADR_VOIE": "AVENUE DE LA TIRANE",
+        "ADR_CODEPO": 13011,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4859633,
+        "ETAB_LAT": 43.29366
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4859633,
+          43.29366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 193.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "PAULINE",
+        "ETAB_CODE_": "0130603K",
+        "ADR_VOIE": "343 BOULEVARD ROMAIN ROLLAND",
+        "ADR_CODEPO": 13009,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4100738,
+        "ETAB_LAT": 43.27144
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4100738,
+          43.27144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 194.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CHARTREUX EUGENE CAS 2",
+        "ETAB_CODE_": "0131530T",
+        "ADR_VOIE": "217 AVENUE DES CHARTREUX",
+        "ADR_CODEPO": 13004,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.400608,
+        "ETAB_LAT": 43.312023
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.400608,
+          43.312023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 195.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT LOUP CASTEL JOLI",
+        "ETAB_CODE_": "0130801A",
+        "ADR_VOIE": "6 AVENUE CASTEL JOLI",
+        "ADR_CODEPO": 13010,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4301505,
+        "ETAB_LAT": 43.28002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4301505,
+          43.28002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 196.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "BRETEUIL",
+        "ETAB_CODE_": "0130691F",
+        "ADR_VOIE": "113 RUE BRETEUIL",
+        "ADR_CODEPO": 13006,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.377298,
+        "ETAB_LAT": 43.2873
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.377298,
+          43.2873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 197.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINTE CECILE",
+        "ETAB_CODE_": "0130652N",
+        "ADR_VOIE": "146 RUE SAINTE CECILE",
+        "ADR_CODEPO": 13005,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.399071,
+        "ETAB_LAT": 43.28876
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.399071,
+          43.28876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 198.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "REVOLUTION",
+        "ETAB_CODE_": "0131640M",
+        "ADR_VOIE": "38 RUE DU JET D'EAU",
+        "ADR_CODEPO": 13003,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.382577,
+        "ETAB_LAT": 43.314754
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.382577,
+          43.314754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 199.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "AHMED LITIM",
+        "ETAB_CODE_": "0134095F",
+        "ADR_VOIE": "12 RUE BUGEAUD",
+        "ADR_CODEPO": 13003,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3853,
+        "ETAB_LAT": 43.307175
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3853,
+          43.307175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 200.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "JEAN MERMOZ",
+        "ETAB_CODE_": "0130576F",
+        "ADR_VOIE": "138 RUE JEAN MERMOZ",
+        "ADR_CODEPO": 13008,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.386611,
+        "ETAB_LAT": 43.272343
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.386611,
+          43.272343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 201.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "LOUBIERE",
+        "ETAB_CODE_": "0130580K",
+        "ADR_VOIE": "97 RUE DE LA LOUBIERE",
+        "ADR_CODEPO": 13005,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.391548,
+        "ETAB_LAT": 43.289814
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.391548,
+          43.289814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 202.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "EOURES",
+        "ETAB_CODE_": "0130560N",
+        "ADR_VOIE": "22 BOULEVARD NOTRE DAME",
+        "ADR_CODEPO": 13011,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.5196786,
+        "ETAB_LAT": 43.300327
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5196786,
+          43.300327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 203.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "VALMONT REDON",
+        "ETAB_CODE_": "0130832J",
+        "ADR_VOIE": "431 AVENUE DE LATTRE DE TASSIGNY",
+        "ADR_CODEPO": 13009,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4267516,
+        "ETAB_LAT": 43.244125
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4267516,
+          43.244125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 204.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MAZARGUES BEAUCHENE",
+        "ETAB_CODE_": "0130587T",
+        "ADR_VOIE": "5 AVENUE MARIE BALAJAT",
+        "ADR_CODEPO": 13009,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.405393,
+        "ETAB_LAT": 43.250168
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.405393,
+          43.250168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 205.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ROSE PLACE",
+        "ETAB_CODE_": "0130616Z",
+        "ADR_VOIE": "PLACE DE LA ROSE",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4282284,
+        "ETAB_LAT": 43.328663
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4282284,
+          43.328663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 206.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "COIN JOLI",
+        "ETAB_CODE_": "0130554G",
+        "ADR_VOIE": "12 AVENUE ALFRED NICOLAS",
+        "ADR_CODEPO": 13009,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4030433,
+        "ETAB_LAT": 43.26493
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4030433,
+          43.26493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 207.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CHATEAU GOMBERT",
+        "ETAB_CODE_": "0130549B",
+        "ADR_VOIE": "38 BOULEVARD FERNAND DURBEC",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4379897,
+        "ETAB_LAT": 43.35029
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4379897,
+          43.35029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 208.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "FRANCOIS MOISSON",
+        "ETAB_CODE_": "0130569Y",
+        "ADR_VOIE": "17 RUE FRANCOIS MOISSON",
+        "ADR_CODEPO": 13002,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.369016,
+        "ETAB_LAT": 43.301018
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.369016,
+          43.301018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 209.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT HENRI RAPHEL 1",
+        "ETAB_CODE_": "0130790N",
+        "ADR_VOIE": "PLACE RAPHEL",
+        "ADR_CODEPO": 13016,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.331232,
+        "ETAB_LAT": 43.361443
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.331232,
+          43.361443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 210.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "TROIS PONTS",
+        "ETAB_CODE_": "0130661Y",
+        "ADR_VOIE": "TRAVERSE DE CHANTE PERDRIX",
+        "ADR_CODEPO": 13010,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.436036,
+        "ETAB_LAT": 43.272774
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.436036,
+          43.272774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 211.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAVINE",
+        "ETAB_CODE_": "0132483D",
+        "ADR_VOIE": "99 BOULEVARD DE LA SAVINE",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3684278,
+        "ETAB_LAT": 43.367844
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3684278,
+          43.367844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 212.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MALPASSE LES LAURIERS",
+        "ETAB_CODE_": "0132274B",
+        "ADR_VOIE": "RUE DE MARATHON",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4131813,
+        "ETAB_LAT": 43.32715
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4131813,
+          43.32715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 213.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "N.D LIMITE JEAN PERRIN",
+        "ETAB_CODE_": "0131638K",
+        "ADR_VOIE": "CHEMIN DES BOURRELY",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.36175,
+        "ETAB_LAT": 43.384182
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36175,
+          43.384182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 214.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ABEILLES",
+        "ETAB_CODE_": "0130672K",
+        "ADR_VOIE": "14 RUE FLEGIER",
+        "ADR_CODEPO": 13001,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.385161,
+        "ETAB_LAT": 43.301933
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.385161,
+          43.301933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 215.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT JOSEPH SERVIERES",
+        "ETAB_CODE_": "0130636W",
+        "ADR_VOIE": "PLACE DES COMPAGNONS BATISSEURS",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.374423,
+        "ETAB_LAT": 43.343903
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.374423,
+          43.343903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 216.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINT BARTHELEMY SNCF",
+        "ETAB_CODE_": "0130629N",
+        "ADR_VOIE": "CHEMIN DE SAINTE MARTHE",
+        "ADR_CODEPO": 13014,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.391183,
+        "ETAB_LAT": 43.323578
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.391183,
+          43.323578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 217.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "LEVERRIER",
+        "ETAB_CODE_": "0130578H",
+        "ADR_VOIE": "6 PLACE LEVERRIER",
+        "ADR_CODEPO": 13004,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3935513,
+        "ETAB_LAT": 43.3064
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3935513,
+          43.3064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 218.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ABBE DE L'EPEE",
+        "ETAB_CODE_": "0130514N",
+        "ADR_VOIE": "18 SQUARE SIDI BRAHIM",
+        "ADR_CODEPO": 13005,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.399342,
+        "ETAB_LAT": 43.297207
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.399342,
+          43.297207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 219.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CORDERIE",
+        "ETAB_CODE_": "0130710B",
+        "ADR_VOIE": "33 BOULEVARD DE LA CORDERIE",
+        "ADR_CODEPO": 13007,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.369121,
+        "ETAB_LAT": 43.290062
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.369121,
+          43.290062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 220.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "MARTEGAUX",
+        "ETAB_CODE_": "0130584P",
+        "ADR_VOIE": "AVENUE DES OLIVES",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.440885,
+        "ETAB_LAT": 43.32613
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.440885,
+          43.32613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 221.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CITE AZOULAY",
+        "ETAB_CODE_": "0131535Y",
+        "ADR_VOIE": "21 RUE RAPHAEL",
+        "ADR_CODEPO": 13008,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3923373,
+        "ETAB_LAT": 43.268314
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3923373,
+          43.268314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 222.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "TIMONE",
+        "ETAB_CODE_": "0130658V",
+        "ADR_VOIE": "23 RUE ROGER MATHURIN",
+        "ADR_CODEPO": 13010,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.405112,
+        "ETAB_LAT": 43.28579
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.405112,
+          43.28579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 223.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "VALBARELLE",
+        "ETAB_CODE_": "0130821X",
+        "ADR_VOIE": "RUE GIMON",
+        "ADR_CODEPO": 13011,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.456879,
+        "ETAB_LAT": 43.286922
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.456879,
+          43.286922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 224.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "LODI",
+        "ETAB_CODE_": "0130579J",
+        "ADR_VOIE": "127 RUE DE LODI",
+        "ADR_CODEPO": 13006,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.389908,
+        "ETAB_LAT": 43.286983
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.389908,
+          43.286983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 225.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "N.D LIMITE LES FABRETTES",
+        "ETAB_CODE_": "0131636H",
+        "ADR_VOIE": "8 TRAVERSE DE L ARLESIENNE",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3590407,
+        "ETAB_LAT": 43.382977
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3590407,
+          43.382977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 226.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "CALANQUE DE SORMIOU",
+        "ETAB_CODE_": "0130545X",
+        "ADR_VOIE": "139 CHEMIN DE SORMIOU",
+        "ADR_CODEPO": 13009,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4018993,
+        "ETAB_LAT": 43.229755
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4018993,
+          43.229755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 227.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ROSE FRAIS VALLON SUD",
+        "ETAB_CODE_": "0132183C",
+        "ADR_VOIE": "AVENUE DE FRAIS VALLON",
+        "ADR_CODEPO": 13013,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.42828,
+        "ETAB_LAT": 43.325623
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.42828,
+          43.325623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 228.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "SAINTE MARTHE AUDISIO",
+        "ETAB_CODE_": "0134168K",
+        "ADR_VOIE": "RUE GABRIEL AUDISIO",
+        "ADR_CODEPO": 13014,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3996763,
+        "ETAB_LAT": 43.342533
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3996763,
+          43.342533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 229.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "ANDRE ALLAR",
+        "ETAB_CODE_": "0134225X",
+        "ADR_VOIE": "2 RUE ANDRE ALLAR",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.364344,
+        "ETAB_LAT": 43.324234
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.364344,
+          43.324234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 230.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE ELEMENTAIRE",
+        "ETAB_NOM": "LES FABRIQUES",
+        "ETAB_CODE_": "0134545V",
+        "ADR_VOIE": "2 RUE ANDRE ALLAR",
+        "ADR_CODEPO": 13015,
+        "Ville": "Marseille",
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.366543,
+        "ETAB_LAT": 43.325043
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.366543,
+          43.325043
+        ]
+      }
+    }
+  ]
+}
