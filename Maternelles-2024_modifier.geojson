@@ -1,0 +1,5578 @@
+{
+  "type": "FeatureCollection",
+  "name": "Maternelles-2024",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::2154"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 0.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SOLIDARITE I",
+        "ETAB_CODE_": "0132611T",
+        "ADR_VOIE": "CHEMIN DE LA BIGOTTE",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3718386,
+        "ETAB_LAT": 43.388046
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3718386,
+          43.388046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 1.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINTE MARTHE",
+        "ETAB_CODE_": "0131270K",
+        "ADR_VOIE": "BOULEVARD RICOUX",
+        "ADR_CODEPO": 13014,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3890243,
+        "ETAB_LAT": 43.338406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3890243,
+          43.338406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 2.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MILLIERE",
+        "ETAB_CODE_": "0132629M",
+        "ADR_VOIE": "ALLEE DES GENEVRIERS",
+        "ADR_CODEPO": 13011,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.5034175,
+        "ETAB_LAT": 43.280354
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5034175,
+          43.280354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 3.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BOUGE",
+        "ETAB_CODE_": "0131644S",
+        "ADR_VOIE": "22 RUE DE MARATHON",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4122972,
+        "ETAB_LAT": 43.326187
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4122972,
+          43.326187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 4.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "EYDOUX",
+        "ETAB_CODE_": "0132604K",
+        "ADR_VOIE": "18 RUE EYDOUX",
+        "ADR_CODEPO": 13006,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3868814,
+        "ETAB_LAT": 43.290756
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3868814,
+          43.290756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 5.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "TROIS PONTS",
+        "ETAB_CODE_": "0131857Y",
+        "ADR_VOIE": "32 TRAVERSE DE CHANTE PERDRIX",
+        "ADR_CODEPO": 13010,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4357786,
+        "ETAB_LAT": 43.27286
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4357786,
+          43.27286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 6.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "EDOUARD VAILLANT",
+        "ETAB_CODE_": "0130868Y",
+        "ADR_VOIE": "19 PASSAGE LEO FERRE",
+        "ADR_CODEPO": 13003,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.378306,
+        "ETAB_LAT": 43.315697
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.378306,
+          43.315697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 7.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ROSE SAINT THEODORE",
+        "ETAB_CODE_": "0130916A",
+        "ADR_VOIE": "43 ALLEE DES BERGERONNETTES",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4358416,
+        "ETAB_LAT": 43.331184
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4358416,
+          43.331184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 8.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CAPELETTE MIREILLE LAUZE",
+        "ETAB_CODE_": "0131279V",
+        "ADR_VOIE": "131 BOULEVARD MIREILLE LAUZE",
+        "ADR_CODEPO": 13010,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.412283,
+        "ETAB_LAT": 43.28348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.412283,
+          43.28348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 9.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "RAYMOND TEISSEIRE",
+        "ETAB_CODE_": "0131547L",
+        "ADR_VOIE": "64 BOULEVARD RABATAU",
+        "ADR_CODEPO": 13008,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.397006,
+        "ETAB_LAT": 43.275135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.397006,
+          43.275135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 10.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT HENRI RAPHEL 1",
+        "ETAB_CODE_": "0130931S",
+        "ADR_VOIE": "PLACE RAPHEL",
+        "ADR_CODEPO": 13016,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3305902,
+        "ETAB_LAT": 43.36164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3305902,
+          43.36164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 11.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "DELPHES",
+        "ETAB_CODE_": "0130877H",
+        "ADR_VOIE": "6 AVENUE DE DELPHES",
+        "ADR_CODEPO": 13006,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3869653,
+        "ETAB_LAT": 43.285122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3869653,
+          43.285122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 12.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ABBE DE L'EPEE",
+        "ETAB_CODE_": "0130833K",
+        "ADR_VOIE": "7 SQUARE SIDI BRAHIM",
+        "ADR_CODEPO": 13005,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3984823,
+        "ETAB_LAT": 43.297752
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3984823,
+          43.297752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 13.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "FRANCOIS MOISSON REPUBLIQUE",
+        "ETAB_CODE_": "0133898S",
+        "ADR_VOIE": "26 RUE FRANCOIS MOISSON",
+        "ADR_CODEPO": 13002,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.368702,
+        "ETAB_LAT": 43.30128
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.368702,
+          43.30128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 14.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "LAPIN BLANC DES NEIGES",
+        "ETAB_CODE_": "0130898F",
+        "ADR_VOIE": "21 BOULEVARD DES NEIGES",
+        "ADR_CODEPO": 13008,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.38071,
+        "ETAB_LAT": 43.248177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38071,
+          43.248177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 15.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CHAVE",
+        "ETAB_CODE_": "0130860P",
+        "ADR_VOIE": "193 BOULEVARD CHAVE",
+        "ADR_CODEPO": 13005,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3987756,
+        "ETAB_LAT": 43.29632
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3987756,
+          43.29632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 16.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CHATEAU GOMBERT ATHENA",
+        "ETAB_CODE_": "0133820G",
+        "ADR_VOIE": "RUE ROBERT DE ROUX",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4447002,
+        "ETAB_LAT": 43.337605
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4447002,
+          43.337605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 17.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "FONDACLE",
+        "ETAB_CODE_": "0132356R",
+        "ADR_VOIE": "5 TRAVERSE DES PLATRIERES",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4502473,
+        "ETAB_LAT": 43.320446
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4502473,
+          43.320446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 18.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "DAMES",
+        "ETAB_CODE_": "0130867X",
+        "ADR_VOIE": "6 PLACE DU TERRAS",
+        "ADR_CODEPO": 13002,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.371874,
+        "ETAB_LAT": 43.301704
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.371874,
+          43.301704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 19.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "FLOTTE",
+        "ETAB_CODE_": "0131643R",
+        "ADR_VOIE": "2 AVENUE FERDINAND FLOTTE",
+        "ADR_CODEPO": 13008,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.380118,
+        "ETAB_LAT": 43.27476
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.380118,
+          43.27476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 20.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MICHELET FOCH",
+        "ETAB_CODE_": "0134096G",
+        "ADR_VOIE": "21 AVENUE DU MARECHAL FOCH",
+        "ADR_CODEPO": 13004,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3991756,
+        "ETAB_LAT": 43.301224
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3991756,
+          43.301224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 21.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ROUET CHARLES ALLE",
+        "ETAB_CODE_": "0134167J",
+        "ADR_VOIE": "RUE CHARLES ALLE",
+        "ADR_CODEPO": 13008,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.392141,
+        "ETAB_LAT": 43.279747
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.392141,
+          43.279747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 22.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT TRONC CASTEL ROC",
+        "ETAB_CODE_": "0132352L",
+        "ADR_VOIE": "RUE ANDRE AUDOLI",
+        "ADR_CODEPO": 13010,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.430388,
+        "ETAB_LAT": 43.270943
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.430388,
+          43.270943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 23.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "FELIX PYAT",
+        "ETAB_CODE_": "0130566V",
+        "ADR_VOIE": "54 RUE FELIX PYAT",
+        "ADR_CODEPO": 13003,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3754,
+        "ETAB_LAT": 43.31506
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3754,
+          43.31506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 24.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ROUVIERE",
+        "ETAB_CODE_": "0130623G",
+        "ADR_VOIE": "83 BOULEVARD DU REDON",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.423673,
+        "ETAB_LAT": 43.250763
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.423673,
+          43.250763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 25.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "PARC BERGER",
+        "ETAB_CODE_": "0133018K",
+        "ADR_VOIE": "AVENUE CAMPAGNE BERGER",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4222474,
+        "ETAB_LAT": 43.26031
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4222474,
+          43.26031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 26.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SOLIDARITE II",
+        "ETAB_CODE_": "0132498V",
+        "ADR_VOIE": "54 AVENUE DU VALLON D'OL",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.372637,
+        "ETAB_LAT": 43.388153
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.372637,
+          43.388153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 27.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MALPASSE LES LAURIERS",
+        "ETAB_CODE_": "0132757B",
+        "ADR_VOIE": "9 RUE DE MARATHON",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4130664,
+        "ETAB_LAT": 43.326828
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4130664,
+          43.326828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 28.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ODDO",
+        "ETAB_CODE_": "0130901J",
+        "ADR_VOIE": "18 RUE DE LA BUTINEUSE",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.360504,
+        "ETAB_LAT": 43.32938
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.360504,
+          43.32938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 29.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "EVECHE",
+        "ETAB_CODE_": "0130872C",
+        "ADR_VOIE": "41 RUE DE L'EVECHE",
+        "ADR_CODEPO": 13002,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3661985,
+        "ETAB_LAT": 43.3002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3661985,
+          43.3002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 30.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "DESIREE CLARY",
+        "ETAB_CODE_": "0133819F",
+        "ADR_VOIE": "24 RUE DESIREE CLARY",
+        "ADR_CODEPO": 13002,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.369969,
+        "ETAB_LAT": 43.308815
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.369969,
+          43.308815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 31.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "PARADE",
+        "ETAB_CODE_": "0132625H",
+        "ADR_VOIE": "CHEMIN DE PALAMA",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4398456,
+        "ETAB_LAT": 43.35735
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4398456,
+          43.35735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 32.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "GROGNARDE",
+        "ETAB_CODE_": "0131620R",
+        "ADR_VOIE": "BOULEVARD SOULT",
+        "ADR_CODEPO": 13011,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.435963,
+        "ETAB_LAT": 43.2928
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.435963,
+          43.2928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 33.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CHANTEPERDRIX",
+        "ETAB_CODE_": "0132270X",
+        "ADR_VOIE": "30 TRAVERSE DE CHANTE PERDRIX",
+        "ADR_CODEPO": 13010,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4311414,
+        "ETAB_LAT": 43.276
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4311414,
+          43.276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 34.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "POINTE ROUGE",
+        "ETAB_CODE_": "0130911V",
+        "ADR_VOIE": "6 BOULEVARD DE NICE",
+        "ADR_CODEPO": 13008,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.371972,
+        "ETAB_LAT": 43.242516
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.371972,
+          43.242516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 35.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "PEYSSONNEL",
+        "ETAB_CODE_": "0130923H",
+        "ADR_VOIE": "16 RUE PEYSSONNEL",
+        "ADR_CODEPO": 13003,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.373189,
+        "ETAB_LAT": 43.30733
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.373189,
+          43.30733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 36.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT JEROME SUSINI",
+        "ETAB_CODE_": "0131832W",
+        "ADR_VOIE": "2 TRAVERSE CHARLES SUSINI",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.41973,
+        "ETAB_LAT": 43.334114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41973,
+          43.334114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 37.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ROUGUIERE",
+        "ETAB_CODE_": "0130920E",
+        "ADR_VOIE": "ALLEE DE LA ROUGUIERE",
+        "ADR_CODEPO": 13011,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4597754,
+        "ETAB_LAT": 43.295147
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4597754,
+          43.295147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 38.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CHUTES LAVIE HLM MEDITERRANEE",
+        "ETAB_CODE_": "0130840T",
+        "ADR_VOIE": "1 AVENUE DES CHUTES LAVIE",
+        "ADR_CODEPO": 13004,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3951387,
+        "ETAB_LAT": 43.31201
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3951387,
+          43.31201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 39.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MENPENTI",
+        "ETAB_CODE_": "0130892Z",
+        "ADR_VOIE": "159 AVENUE DE TOULON",
+        "ADR_CODEPO": 13010,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.39608,
+        "ETAB_LAT": 43.284576
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.39608,
+          43.284576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 40.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ALEXANDRE COPELLO",
+        "ETAB_CODE_": "0130835M",
+        "ADR_VOIE": "10 RUE DES CLAIRISTES",
+        "ADR_CODEPO": 13005,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3909345,
+        "ETAB_LAT": 43.293976
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3909345,
+          43.293976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 41.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SINONCELLI",
+        "ETAB_CODE_": "0130949L",
+        "ADR_VOIE": "49 RUE BOISSELOT",
+        "ADR_CODEPO": 13014,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3886333,
+        "ETAB_LAT": 43.31879
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3886333,
+          43.31879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 42.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "PAUL CODACCIONI",
+        "ETAB_CODE_": "0130907R",
+        "ADR_VOIE": "18 RUE PAUL CODACCIONI",
+        "ADR_CODEPO": 13007,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.360461,
+        "ETAB_LAT": 43.28814
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.360461,
+          43.28814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 43.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CHARTREUX EUGENE CAS",
+        "ETAB_CODE_": "0131560A",
+        "ADR_VOIE": "217 AVENUE DES CHARTREUX",
+        "ADR_CODEPO": 13004,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.400132,
+        "ETAB_LAT": 43.312153
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.400132,
+          43.312153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 44.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ROSE SAUVAGINE",
+        "ETAB_CODE_": "0132430W",
+        "ADR_VOIE": "AVENUE MERLEAU PONTY",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4263306,
+        "ETAB_LAT": 43.33525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4263306,
+          43.33525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 45.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "PARC DES CHARTREUX",
+        "ETAB_CODE_": "0131251P",
+        "ADR_VOIE": "61 AVENUE DE SAINT JUST",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4046564,
+        "ETAB_LAT": 43.317684
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4046564,
+          43.317684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 46.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "LUMINY",
+        "ETAB_CODE_": "0132800Y",
+        "ADR_VOIE": "33 AVENUE DE LUMINY",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4380717,
+        "ETAB_LAT": 43.244736
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4380717,
+          43.244736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 47.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "PRADO PLAGE",
+        "ETAB_CODE_": "0133246H",
+        "ADR_VOIE": "122 RUE DU COMMANDANT ROLLAND",
+        "ADR_CODEPO": 13008,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3788075,
+        "ETAB_LAT": 43.269512
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3788075,
+          43.269512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 48.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MONTOLIVET",
+        "ETAB_CODE_": "0132173S",
+        "ADR_VOIE": "29 BOULEVARD DIE",
+        "ADR_CODEPO": 13012,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4277744,
+        "ETAB_LAT": 43.31802
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4277744,
+          43.31802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 49.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "OLIVES",
+        "ETAB_CODE_": "0130902K",
+        "ADR_VOIE": "RUE LAFFERAGE",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4551897,
+        "ETAB_LAT": 43.325542
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4551897,
+          43.325542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 50.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BONNEVEINE ZENATTI",
+        "ETAB_CODE_": "0132755Z",
+        "ADR_VOIE": "109 AVENUE ANDRE ZENATTI",
+        "ADR_CODEPO": 13008,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3913765,
+        "ETAB_LAT": 43.246147
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3913765,
+          43.246147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 51.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT ANTOINE CENTRE",
+        "ETAB_CODE_": "0130925K",
+        "ADR_VOIE": "19 AVENUE DE ROQUEFAVOUR",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3591027,
+        "ETAB_LAT": 43.36961
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3591027,
+          43.36961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 52.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CAPELETTE CURTEL",
+        "ETAB_CODE_": "0134097H",
+        "ADR_VOIE": "BOULEVARD DROMEL",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.406123,
+        "ETAB_LAT": 43.271236
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.406123,
+          43.271236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 53.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINTE MARTHE AUDISIO",
+        "ETAB_CODE_": "0134168K",
+        "ADR_VOIE": "RUE GABRIEL AUDISIO",
+        "ADR_CODEPO": 13014,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3996773,
+        "ETAB_LAT": 43.342556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3996773,
+          43.342556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 54.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ROUCAS BLANC",
+        "ETAB_CODE_": "0130918C",
+        "ADR_VOIE": "44 CHEMIN DU ROUCAS BLANC",
+        "ADR_CODEPO": 13007,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3660164,
+        "ETAB_LAT": 43.286682
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3660164,
+          43.286682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 55.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "VALMONT REDON",
+        "ETAB_CODE_": "0130832J",
+        "ADR_VOIE": "431 AVENUE DE LATTRE DE TASSIGNY",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.426883,
+        "ETAB_LAT": 43.244293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.426883,
+          43.244293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 56.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CHANTERELLE",
+        "ETAB_CODE_": "0134273Z",
+        "ADR_VOIE": "RUE COMMANDANT MAGES",
+        "ADR_CODEPO": 13001,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3900414,
+        "ETAB_LAT": 43.30384
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3900414,
+          43.30384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 57.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CLAIR SOLEIL",
+        "ETAB_CODE_": "0130864U",
+        "ADR_VOIE": "BOULEVARD CHARLES MORETTI",
+        "ADR_CODEPO": 13014,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.386099,
+        "ETAB_LAT": 43.323765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.386099,
+          43.323765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 58.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "VISTE BOUSQUET",
+        "ETAB_CODE_": "0130958W",
+        "ADR_VOIE": "38 AVENUE DE LA VISTE",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3589125,
+        "ETAB_LAT": 43.357098
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3589125,
+          43.357098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 59.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "PARMENTIER",
+        "ETAB_CODE_": "0130890X",
+        "ADR_VOIE": "7 RUE PARMENTIER",
+        "ADR_CODEPO": 13001,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3792596,
+        "ETAB_LAT": 43.29974
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3792596,
+          43.29974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 60.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "PARC BELLEVUE",
+        "ETAB_CODE_": "0130836N",
+        "ADR_VOIE": "143 RUE FELIX PYAT",
+        "ADR_CODEPO": 13003,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3739376,
+        "ETAB_LAT": 43.317406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3739376,
+          43.317406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 61.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT ANTOINE PALANQUE",
+        "ETAB_CODE_": "0130926L",
+        "ADR_VOIE": "CHEMIN DE LA MARTINE",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3638587,
+        "ETAB_LAT": 43.373493
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3638587,
+          43.373493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 62.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SQUARE MICHELET",
+        "ETAB_CODE_": "0130950M",
+        "ADR_VOIE": "BOULEVARD GASTON RAMON",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3985868,
+        "ETAB_LAT": 43.26715
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3985868,
+          43.26715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 63.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT ANDRE BARNIER",
+        "ETAB_CODE_": "0132191L",
+        "ADR_VOIE": "274 BOULEVARD HENRI BARNIER",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.34233,
+        "ETAB_LAT": 43.365177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.34233,
+          43.365177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 64.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT SAVOURNIN",
+        "ETAB_CODE_": "0134059S",
+        "ADR_VOIE": "62 RUE SAINT SAVOURNIN",
+        "ADR_CODEPO": 13001,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.387159,
+        "ETAB_LAT": 43.297478
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.387159,
+          43.297478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 65.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CALANQUE DE SORMIOU",
+        "ETAB_CODE_": "0130857L",
+        "ADR_VOIE": "141 CHEMIN DE SORMIOU",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.40202,
+        "ETAB_LAT": 43.229576
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.40202,
+          43.229576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 66.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "FRAISSINET",
+        "ETAB_CODE_": "0130876G",
+        "ADR_VOIE": "2 ALLEE FRAISSINET (CES)",
+        "ADR_CODEPO": 13005,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3988504,
+        "ETAB_LAT": 43.292107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3988504,
+          43.292107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 67.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ROSERAIE",
+        "ETAB_CODE_": "0131249M",
+        "ADR_VOIE": "11 RUE PIERRE MOUREN",
+        "ADR_CODEPO": 13007,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3522534,
+        "ETAB_LAT": 43.2832
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3522534,
+          43.2832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 68.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "PARC SEVIGNE",
+        "ETAB_CODE_": "0130905N",
+        "ADR_VOIE": "2 RUE AVIATEUR LE BRIX",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4039636,
+        "ETAB_LAT": 43.262894
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4039636,
+          43.262894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 69.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ROSE CASTORS",
+        "ETAB_CODE_": "0131246J",
+        "ADR_VOIE": "87 RUE ALBERT EINSTEIN",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4334126,
+        "ETAB_LAT": 43.33728
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4334126,
+          43.33728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 70.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "TROIS LUCS",
+        "ETAB_CODE_": "0132504B",
+        "ADR_VOIE": "373 AVENUE DES POILUS",
+        "ADR_CODEPO": 13012,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.462602,
+        "ETAB_LAT": 43.31526
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.462602,
+          43.31526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 71.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "PLAN D'AOU",
+        "ETAB_CODE_": "0132177W",
+        "ADR_VOIE": "1 BOULEVARD DU COMMANDANT ROBERT THOLLON",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.354277,
+        "ETAB_LAT": 43.36926
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.354277,
+          43.36926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 72.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT VINCENT DE PAUL",
+        "ETAB_CODE_": "0130944F",
+        "ADR_VOIE": "10 RUE SAINT VINCENT DE PAUL",
+        "ADR_CODEPO": 13004,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3914514,
+        "ETAB_LAT": 43.30046
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3914514,
+          43.30046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 73.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "GRANDE BASTIDE CAZAULX",
+        "ETAB_CODE_": "0130913X",
+        "ADR_VOIE": "ALLEE DE LA GRANDE BASTIDE CAZAULX",
+        "ADR_CODEPO": 13012,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4428463,
+        "ETAB_LAT": 43.29805
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4428463,
+          43.29805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 74.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT BARNABE",
+        "ETAB_CODE_": "0130927M",
+        "ADR_VOIE": "4 RUE FONTAINIEU",
+        "ADR_CODEPO": 13012,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.415024,
+        "ETAB_LAT": 43.304905
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415024,
+          43.304905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 75.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "EOURES",
+        "ETAB_CODE_": "0130560N",
+        "ADR_VOIE": "22 BOULEVARD NOTRE DAME",
+        "ADR_CODEPO": 13011,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.5196996,
+        "ETAB_LAT": 43.299915
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5196996,
+          43.299915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 76.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "DENISE TOROS-MARTER",
+        "ETAB_CODE_": "0134443J",
+        "ADR_VOIE": "TRAVERSE REGNY",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.420307,
+        "ETAB_LAT": 43.263626
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.420307,
+          43.263626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 77.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "REVOLUTION",
+        "ETAB_CODE_": "0130845Y",
+        "ADR_VOIE": "45 AVENUE EDOUARD VAILLANT",
+        "ADR_CODEPO": 13003,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3802123,
+        "ETAB_LAT": 43.315807
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3802123,
+          43.315807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 78.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "PONT DE VIVAUX SACCOMAN",
+        "ETAB_CODE_": "0130915Z",
+        "ADR_VOIE": "206 BOULEVARD ROMAIN ROLLAND",
+        "ADR_CODEPO": 13010,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.415577,
+        "ETAB_LAT": 43.27546
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415577,
+          43.27546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 79.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ROSE LA GARDE",
+        "ETAB_CODE_": "0131267G",
+        "ADR_VOIE": "11 BOULEVARD DU METRO",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.427786,
+        "ETAB_LAT": 43.332287
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.427786,
+          43.332287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 80.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "LA SOUDE",
+        "ETAB_CODE_": "0132575D",
+        "ADR_VOIE": "13 AVENUE DE LA SOUDE",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4001565,
+        "ETAB_LAT": 43.244743
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4001565,
+          43.244743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 81.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT GABRIEL",
+        "ETAB_CODE_": "0130930R",
+        "ADR_VOIE": "80 CHEMIN DE GIBBES",
+        "ADR_CODEPO": 13014,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3815055,
+        "ETAB_LAT": 43.32203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3815055,
+          43.32203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 82.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "POMME HECKEL",
+        "ETAB_CODE_": "0130912W",
+        "ADR_VOIE": "24 AVENUE DU DOCTEUR HECKEL",
+        "ADR_CODEPO": 13011,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.440684,
+        "ETAB_LAT": 43.289127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.440684,
+          43.289127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 83.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BRICARDE",
+        "ETAB_CODE_": "0132328K",
+        "ADR_VOIE": "125 BOULEVARD HENRI BARNIER",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3477364,
+        "ETAB_LAT": 43.36996
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3477364,
+          43.36996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 84.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "VALLON DES TUVES",
+        "ETAB_CODE_": "0132432Y",
+        "ADR_VOIE": "TRAVERSE COURTES",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3690834,
+        "ETAB_LAT": 43.371716
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3690834,
+          43.371716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 85.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CANET LAROUSSE",
+        "ETAB_CODE_": "0130855J",
+        "ADR_VOIE": "47 RUE DES DROITS DE L'ENFANT",
+        "ADR_CODEPO": 13014,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.381504,
+        "ETAB_LAT": 43.32954
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.381504,
+          43.32954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 86.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "LIERRES",
+        "ETAB_CODE_": "0131928A",
+        "ADR_VOIE": "50 AVENUE DU VINGT QUATRE AVRIL 1915",
+        "ADR_CODEPO": 13012,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4301867,
+        "ETAB_LAT": 43.30748
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4301867,
+          43.30748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 87.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MAURELETTE",
+        "ETAB_CODE_": "0131281X",
+        "ADR_VOIE": "BOULEVARD SIMON BOLIVAR",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3762765,
+        "ETAB_LAT": 43.34475
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3762765,
+          43.34475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 88.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "VISITATION",
+        "ETAB_CODE_": "0131653B",
+        "ADR_VOIE": "38 BOULEVARD FREDERIC SAUVAGE",
+        "ADR_CODEPO": 13014,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.368733,
+        "ETAB_LAT": 43.337105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.368733,
+          43.337105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 89.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "EMILE VAYSSIERE 3",
+        "ETAB_CODE_": "0132627K",
+        "ADR_VOIE": "RUE DE LA CRAU",
+        "ADR_CODEPO": 13014,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.39827,
+        "ETAB_LAT": 43.334385
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.39827,
+          43.334385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 90.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "AYGALADES OASIS",
+        "ETAB_CODE_": "0131268H",
+        "ADR_VOIE": "TRAVERSE DE L OASIS",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3683815,
+        "ETAB_LAT": 43.354053
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3683815,
+          43.354053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 91.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ROSE FRAIS VALLON CENTRE",
+        "ETAB_CODE_": "0132200W",
+        "ADR_VOIE": "4 IMPASSE RAVEL",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4310513,
+        "ETAB_LAT": 43.326115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4310513,
+          43.326115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 92.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT LOUP CASTEL JOLI",
+        "ETAB_CODE_": "0130939A",
+        "ADR_VOIE": "23 RUE PIERRE DOIZE",
+        "ADR_CODEPO": 13010,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.429891,
+        "ETAB_LAT": 43.280987
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.429891,
+          43.280987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 93.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "VERDURON HAUT",
+        "ETAB_CODE_": "0130956U",
+        "ADR_VOIE": "2 BOULEVARD DE LA PINEDE",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3440275,
+        "ETAB_LAT": 43.374878
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3440275,
+          43.374878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 94.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "LE CORBUSIER",
+        "ETAB_CODE_": "0130884R",
+        "ADR_VOIE": "280 BOULEVARD MICHELET",
+        "ADR_CODEPO": 13008,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.396272,
+        "ETAB_LAT": 43.260868
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.396272,
+          43.260868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 95.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "PAULINE",
+        "ETAB_CODE_": "0130908S",
+        "ADR_VOIE": "343 BOULEVARD ROMAIN ROLLAND",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4099107,
+        "ETAB_LAT": 43.27147
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4099107,
+          43.27147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 96.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "LOUBIERE",
+        "ETAB_CODE_": "0130580K",
+        "ADR_VOIE": "99 RUE DE LA LOUBIERE",
+        "ADR_CODEPO": 13005,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3919487,
+        "ETAB_LAT": 43.28976
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3919487,
+          43.28976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 97.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "KLEBER",
+        "ETAB_CODE_": "0130881M",
+        "ADR_VOIE": "27 RUE KLEBER",
+        "ADR_CODEPO": 13003,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.374678,
+        "ETAB_LAT": 43.308002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.374678,
+          43.308002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 98.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "VINCENT LEBLANC",
+        "ETAB_CODE_": "0130957V",
+        "ADR_VOIE": "36 RUE VINCENT LEBLANC",
+        "ADR_CODEPO": 13002,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.368197,
+        "ETAB_LAT": 43.305717
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.368197,
+          43.305717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 99.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CAMOINS",
+        "ETAB_CODE_": "0132289T",
+        "ADR_VOIE": "12 MONTEE DES CAMOINS",
+        "ADR_CODEPO": 13011,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.511555,
+        "ETAB_LAT": 43.30119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.511555,
+          43.30119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 100.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MONTREDON",
+        "ETAB_CODE_": "0130895C",
+        "ADR_VOIE": "8 PLACE ENGALIERE",
+        "ADR_CODEPO": 13008,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3658924,
+        "ETAB_LAT": 43.237804
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3658924,
+          43.237804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 101.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINTE SOPHIE",
+        "ETAB_CODE_": "0130947J",
+        "ADR_VOIE": "2 RUE SAINTE SOPHIE",
+        "ADR_CODEPO": 13004,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4029603,
+        "ETAB_LAT": 43.306164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4029603,
+          43.306164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 102.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "LONGCHAMP",
+        "ETAB_CODE_": "0130885S",
+        "ADR_VOIE": "2 IMPASSE DE MONTBARD",
+        "ADR_CODEPO": 13004,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.395545,
+        "ETAB_LAT": 43.30376
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.395545,
+          43.30376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 103.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CANET AMBROSINI",
+        "ETAB_CODE_": "0130854H",
+        "ADR_VOIE": "BOULEVARD DE LA MAISON BLANCHE",
+        "ADR_CODEPO": 13014,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3756657,
+        "ETAB_LAT": 43.329964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3756657,
+          43.329964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 104.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BONNEVEINE",
+        "ETAB_CODE_": "0130851E",
+        "ADR_VOIE": "52 BOULEVARD DU SABLIER",
+        "ADR_CODEPO": 13008,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3810863,
+        "ETAB_LAT": 43.250927
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3810863,
+          43.250927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 105.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CAPELETTE CAP EST",
+        "ETAB_CODE_": "0133896P",
+        "ADR_VOIE": "45 RUE CHARLES CERRATO",
+        "ADR_CODEPO": 13010,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.397962,
+        "ETAB_LAT": 43.281723
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.397962,
+          43.281723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 106.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ROSIERE FIGONE",
+        "ETAB_CODE_": "0130917B",
+        "ADR_VOIE": "AVENUE DE LA FIGONE",
+        "ADR_CODEPO": 13012,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.43854,
+        "ETAB_LAT": 43.305786
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.43854,
+          43.305786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 107.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT CHARLES",
+        "ETAB_CODE_": "0130929P",
+        "ADR_VOIE": "49 RUE LUCIEN ROLMER",
+        "ADR_CODEPO": 13003,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3766227,
+        "ETAB_LAT": 43.306625
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3766227,
+          43.306625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 108.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MERLAN",
+        "ETAB_CODE_": "0130893A",
+        "ADR_VOIE": "66 AVENUE DU MERLAN",
+        "ADR_CODEPO": 13014,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.40853,
+        "ETAB_LAT": 43.338486
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.40853,
+          43.338486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 109.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "N.D LIMITE CHATEAU BURZIO",
+        "ETAB_CODE_": "0130900H",
+        "ADR_VOIE": "CHEMIN DE MIMET",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3597627,
+        "ETAB_LAT": 43.3833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3597627,
+          43.3833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 110.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT BARTHELEMY FLAMANTS",
+        "ETAB_CODE_": "0132434A",
+        "ADR_VOIE": "64 AVENUE ALEXANDRE ANSALDI",
+        "ADR_CODEPO": 13014,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4032893,
+        "ETAB_LAT": 43.330986
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4032893,
+          43.330986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 111.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT MARCEL",
+        "ETAB_CODE_": "0130941C",
+        "ADR_VOIE": "14 RUE COURENCQ",
+        "ADR_CODEPO": 13011,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4629154,
+        "ETAB_LAT": 43.28596
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4629154,
+          43.28596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 112.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "VALMANTE",
+        "ETAB_CODE_": "0131562C",
+        "ADR_VOIE": "81 CHEMIN JEAN ROUBIN",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4205527,
+        "ETAB_LAT": 43.247868
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4205527,
+          43.247868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 113.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "EMILE VAYSSIERE 2",
+        "ETAB_CODE_": "0132476W",
+        "ADR_VOIE": "RUE DE LA CRAU",
+        "ADR_CODEPO": 13014,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.397861,
+        "ETAB_LAT": 43.335484
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.397861,
+          43.335484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 114.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "AIR BEL",
+        "ETAB_CODE_": "0132199V",
+        "ADR_VOIE": "CHEMIN DE LA MATERNELLE",
+        "ADR_CODEPO": 13011,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.430027,
+        "ETAB_LAT": 43.290886
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.430027,
+          43.290886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 115.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "N.D LIMITE JEAN PERRIN",
+        "ETAB_CODE_": "0131277T",
+        "ADR_VOIE": "CHEMIN DES BOURRELY",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3613563,
+        "ETAB_LAT": 43.38409
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3613563,
+          43.38409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 116.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "PARC DROMEL",
+        "ETAB_CODE_": "0130904M",
+        "ADR_VOIE": "1 BOULEVARD DROMEL",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4062867,
+        "ETAB_LAT": 43.270306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4062867,
+          43.270306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 117.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ROY D'ESPAGNE",
+        "ETAB_CODE_": "0130922G",
+        "ADR_VOIE": "1 ALLEE EMMANUEL CHABRIER",
+        "ADR_CODEPO": 13008,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3861794,
+        "ETAB_LAT": 43.23978
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3861794,
+          43.23978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 118.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT PIERRE",
+        "ETAB_CODE_": "0130942D",
+        "ADR_VOIE": "45 RUE PASCAL RUINAT",
+        "ADR_CODEPO": 13005,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4084187,
+        "ETAB_LAT": 43.293964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4084187,
+          43.293964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 119.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "VALBARELLE",
+        "ETAB_CODE_": "0130953R",
+        "ADR_VOIE": "26 AVENUE DE L'ABBE LANFRANCHI",
+        "ADR_CODEPO": 13011,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.454563,
+        "ETAB_LAT": 43.28699
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.454563,
+          43.28699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 120.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MAZARGUES",
+        "ETAB_CODE_": "0130891Y",
+        "ADR_VOIE": "9 RUE FRANCOIS BLANC",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.401057,
+        "ETAB_LAT": 43.24966
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.401057,
+          43.24966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 121.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT JOSEPH SERVIERES",
+        "ETAB_CODE_": "0130933U",
+        "ADR_VOIE": "RUE DU CAPRICORNE",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3740597,
+        "ETAB_LAT": 43.344337
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3740597,
+          43.344337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 122.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CITE SAINT LOUIS",
+        "ETAB_CODE_": "0132272Z",
+        "ADR_VOIE": "111 CHEMIN DE SAINT LOUIS AU ROVE",
+        "ADR_CODEPO": 13016,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3532896,
+        "ETAB_LAT": 43.3516
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3532896,
+          43.3516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 123.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT HENRI RABELAIS 2",
+        "ETAB_CODE_": "0132995K",
+        "ADR_VOIE": "42 CHEMIN DE SAINT HENRI",
+        "ADR_CODEPO": 13016,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.332709,
+        "ETAB_LAT": 43.357944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.332709,
+          43.357944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 124.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT JEROME PLACE",
+        "ETAB_CODE_": "0132198U",
+        "ADR_VOIE": "BOULEVARD AUPHAN",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4194655,
+        "ETAB_LAT": 43.32994
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4194655,
+          43.32994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 125.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "GRANADOS ROY D'ESPAGNE",
+        "ETAB_CODE_": "0132484E",
+        "ADR_VOIE": "ALLEE GRANADOS",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.391707,
+        "ETAB_LAT": 43.237236
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.391707,
+          43.237236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 126.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "PETIT BOSQUET",
+        "ETAB_CODE_": "0130909T",
+        "ADR_VOIE": "17 BOULEVARD TRISTAN CORBIERE",
+        "ADR_CODEPO": 13012,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.415689,
+        "ETAB_LAT": 43.315437
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415689,
+          43.315437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 127.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "HAITI",
+        "ETAB_CODE_": "0132905M",
+        "ADR_VOIE": "83 AVENUE D'HAITI",
+        "ADR_CODEPO": 13012,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4149094,
+        "ETAB_LAT": 43.298397
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4149094,
+          43.298397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 128.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT JUST CENTRE",
+        "ETAB_CODE_": "0130935W",
+        "ADR_VOIE": "12 RUE SAINT GEORGES",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4060464,
+        "ETAB_LAT": 43.319168
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4060464,
+          43.319168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 129.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BAILLE",
+        "ETAB_CODE_": "0130838R",
+        "ADR_VOIE": "250 BOULEVARD BAILLE",
+        "ADR_CODEPO": 13005,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3982735,
+        "ETAB_LAT": 43.28952
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3982735,
+          43.28952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 130.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CANET JEAN JAURES",
+        "ETAB_CODE_": "0132290U",
+        "ADR_VOIE": "RUE DU MURET",
+        "ADR_CODEPO": 13014,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3810306,
+        "ETAB_LAT": 43.331676
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3810306,
+          43.331676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 131.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT ANDRE BOISSEAU",
+        "ETAB_CODE_": "0130924J",
+        "ADR_VOIE": "2 RUE BOISSEAU",
+        "ADR_CODEPO": 13016,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3441076,
+        "ETAB_LAT": 43.35596
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3441076,
+          43.35596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 132.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CABUCELLE",
+        "ETAB_CODE_": "0130853G",
+        "ADR_VOIE": "25 BOULEVARD ARTHUR MICHAUD",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.359032,
+        "ETAB_LAT": 43.332993
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.359032,
+          43.332993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 133.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BORELS",
+        "ETAB_CODE_": "0132375L",
+        "ADR_VOIE": "3 BOULEVARD BELLEVUE",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.366884,
+        "ETAB_LAT": 43.362686
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.366884,
+          43.362686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 134.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "LAPIN BLANC",
+        "ETAB_CODE_": "0133049U",
+        "ADR_VOIE": "70 AVENUE ANDRE ZENATTI",
+        "ADR_CODEPO": 13008,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3860726,
+        "ETAB_LAT": 43.245842
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3860726,
+          43.245842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 135.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "TIMONE",
+        "ETAB_CODE_": "0132431X",
+        "ADR_VOIE": "96 AVENUE DE LA TIMONE",
+        "ADR_CODEPO": 13010,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4050856,
+        "ETAB_LAT": 43.28593
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4050856,
+          43.28593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 136.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CAPELETTE",
+        "ETAB_CODE_": "0130856K",
+        "ADR_VOIE": "13 BOULEVARD DE LA BARNIERE",
+        "ADR_CODEPO": 13010,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.406647,
+        "ETAB_LAT": 43.28164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.406647,
+          43.28164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 137.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT ANDRE LA CASTELLANE",
+        "ETAB_CODE_": "0131830U",
+        "ADR_VOIE": "66 CHEMIN DE BERNEX",
+        "ADR_CODEPO": 13016,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.340201,
+        "ETAB_LAT": 43.368744
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.340201,
+          43.368744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 138.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINTE ANNE",
+        "ETAB_CODE_": "0130945G",
+        "ADR_VOIE": "492 AVENUE DE MAZARGUES",
+        "ADR_CODEPO": 13008,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3935857,
+        "ETAB_LAT": 43.254894
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3935857,
+          43.254894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 139.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "FOURRAGERE",
+        "ETAB_CODE_": "0132350J",
+        "ADR_VOIE": "AVENUE DE LA FOURRAGERE",
+        "ADR_CODEPO": 13012,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.428162,
+        "ETAB_LAT": 43.30034
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.428162,
+          43.30034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 140.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "PARC KALLISTE",
+        "ETAB_CODE_": "0131650Y",
+        "ADR_VOIE": "CHEMIN DES BOURRELY",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3655405,
+        "ETAB_LAT": 43.385685
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3655405,
+          43.385685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 141.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MALPASSE LES OLIVIERS",
+        "ETAB_CODE_": "0132287R",
+        "ADR_VOIE": "AVENUE SAINT PAUL",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4071484,
+        "ETAB_LAT": 43.328552
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4071484,
+          43.328552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 142.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BAUME",
+        "ETAB_CODE_": "0130841U",
+        "ADR_VOIE": "1 TRAVERSE COLGATE",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4098926,
+        "ETAB_LAT": 43.234287
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4098926,
+          43.234287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 143.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ARENC BACHAS EXTERIEUR",
+        "ETAB_CODE_": "0130873D",
+        "ADR_VOIE": "15 BOULEVARD FERDINAND DE LESSEPS",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3705177,
+        "ETAB_LAT": 43.320152
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3705177,
+          43.320152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 144.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "AYGALADES NOUVELLES",
+        "ETAB_CODE_": "0131655D",
+        "ADR_VOIE": "14 BOULEVARD FALQUE",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.366931,
+        "ETAB_LAT": 43.354584
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.366931,
+          43.354584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 145.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CASTELLAS LES LIONS",
+        "ETAB_CODE_": "0131245H",
+        "ADR_VOIE": "CHE DE ST ANTOINE A ST JOSEPH",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.377419,
+        "ETAB_LAT": 43.35026
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.377419,
+          43.35026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 146.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT LOUP CENTRE",
+        "ETAB_CODE_": "0132271Y",
+        "ADR_VOIE": "103 BOULEVARD DE SAINT LOUP",
+        "ADR_CODEPO": 13010,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.433639,
+        "ETAB_LAT": 43.283916
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.433639,
+          43.283916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 147.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "FONT VERT",
+        "ETAB_CODE_": "0131542F",
+        "ADR_VOIE": "218 CHEMIN DE SAINTE MARTHE",
+        "ADR_CODEPO": 13014,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.39022,
+        "ETAB_LAT": 43.328648
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.39022,
+          43.328648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 148.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SIMIANE",
+        "ETAB_CODE_": "0130932T",
+        "ADR_VOIE": "CHE DE ST JOSEPH A STE MARTHE",
+        "ADR_CODEPO": 13014,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3838816,
+        "ETAB_LAT": 43.343784
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3838816,
+          43.343784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 149.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BATARELLE",
+        "ETAB_CODE_": "0132602H",
+        "ADR_VOIE": "38 RUE DE LISSANDRE",
+        "ADR_CODEPO": 13014,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4106684,
+        "ETAB_LAT": 43.35622
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4106684,
+          43.35622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 150.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MARTEGAUX",
+        "ETAB_CODE_": "0133323S",
+        "ADR_VOIE": "AVENUE DES OLIVES",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.440318,
+        "ETAB_LAT": 43.326405
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.440318,
+          43.326405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 151.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MADRAGUE MONTREDON",
+        "ETAB_CODE_": "0130887U",
+        "ADR_VOIE": "32 BOULEVARD DE LA VERRERIE",
+        "ADR_CODEPO": 13008,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.361162,
+        "ETAB_LAT": 43.232395
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.361162,
+          43.232395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 152.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ROUET",
+        "ETAB_CODE_": "0130919D",
+        "ADR_VOIE": "38 RUE ROGER RENZO",
+        "ADR_CODEPO": 13008,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.393813,
+        "ETAB_LAT": 43.27809
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.393813,
+          43.27809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 153.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT JULIEN",
+        "ETAB_CODE_": "0130934V",
+        "ADR_VOIE": "11 BOULEVARD BONNIOT",
+        "ADR_CODEPO": 13012,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4491167,
+        "ETAB_LAT": 43.315434
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4491167,
+          43.315434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 154.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MOULINS",
+        "ETAB_CODE_": "0130896D",
+        "ADR_VOIE": "1 RUE DES MUETTES",
+        "ADR_CODEPO": 13002,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.367805,
+        "ETAB_LAT": 43.298256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.367805,
+          43.298256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 155.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ESTAQUE GARE",
+        "ETAB_CODE_": "0132529D",
+        "ADR_VOIE": "33 BOULEVARD FENOUIL",
+        "ADR_CODEPO": 13016,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3205924,
+        "ETAB_LAT": 43.361176
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3205924,
+          43.361176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 156.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ESTAQUE PLAGE",
+        "ETAB_CODE_": "0130869Z",
+        "ADR_VOIE": "23 BOULEVARD ALBIN BANDINI",
+        "ADR_CODEPO": 13016,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.316526,
+        "ETAB_LAT": 43.361603
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.316526,
+          43.361603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 157.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINTE CATHERINE",
+        "ETAB_CODE_": "0132801Z",
+        "ADR_VOIE": "98 TRAVERSE PRAT",
+        "ADR_CODEPO": 13008,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3732386,
+        "ETAB_LAT": 43.237423
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3732386,
+          43.237423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 158.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "FIOLLE BRETEUIL",
+        "ETAB_CODE_": "0130882N",
+        "ADR_VOIE": "80 RUE DU DOCTEUR JEAN FIOLLE",
+        "ADR_CODEPO": 13006,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3787384,
+        "ETAB_LAT": 43.284176
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3787384,
+          43.284176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 159.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ETIENNE MILAN",
+        "ETAB_CODE_": "0130871B",
+        "ADR_VOIE": "RUE ETIENNE MILAN",
+        "ADR_CODEPO": 13008,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.38696,
+        "ETAB_LAT": 43.264767
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38696,
+          43.264767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 160.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT THYS",
+        "ETAB_CODE_": "0131252R",
+        "ADR_VOIE": "1 RUE SAINT AUGUSTIN",
+        "ADR_CODEPO": 13010,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4392867,
+        "ETAB_LAT": 43.280205
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4392867,
+          43.280205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 161.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CALADE",
+        "ETAB_CODE_": "0131231T",
+        "ADR_VOIE": "15 RUE SEVERINE",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.350333,
+        "ETAB_LAT": 43.340916
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.350333,
+          43.340916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 162.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "POMME SAINTE MADELEINE",
+        "ETAB_CODE_": "0132389B",
+        "ADR_VOIE": "8 AVENUE BERNARD LECACHE",
+        "ADR_CODEPO": 13011,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4476056,
+        "ETAB_LAT": 43.2946
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4476056,
+          43.2946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 163.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ESTAQUE RIAUX",
+        "ETAB_CODE_": "0130870A",
+        "ADR_VOIE": "BOULEVARD FALAISE",
+        "ADR_CODEPO": 13016,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.308173,
+        "ETAB_LAT": 43.363018
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.308173,
+          43.363018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 164.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MAZARGUES BEAUCHENE",
+        "ETAB_CODE_": "0130587T",
+        "ADR_VOIE": "5 AVENUE MARIE BALAJAT",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4056773,
+        "ETAB_LAT": 43.25001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4056773,
+          43.25001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 165.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CROIX ROUGE VILLAGE",
+        "ETAB_CODE_": "0130556J",
+        "ADR_VOIE": "36 BOULEVARD MARCEL DELPRAT",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4547167,
+        "ETAB_LAT": 43.333595
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4547167,
+          43.333595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 166.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ANTOINE DE RUFFI",
+        "ETAB_CODE_": "0134326G",
+        "ADR_VOIE": "2 RUE URBAIN V",
+        "ADR_CODEPO": 13002,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3691173,
+        "ETAB_LAT": 43.315956
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3691173,
+          43.315956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 167.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINTE MARGUERITE",
+        "ETAB_CODE_": "0130946H",
+        "ADR_VOIE": "10 BOULEVARD PAGES",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4060254,
+        "ETAB_LAT": 43.267525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4060254,
+          43.267525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 168.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "PHARO CATALANS",
+        "ETAB_CODE_": "0130605M",
+        "ADR_VOIE": "19 RUE DES CATALANS",
+        "ADR_CODEPO": 13007,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3553834,
+        "ETAB_LAT": 43.292744
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3553834,
+          43.292744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 169.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MARCEAU",
+        "ETAB_CODE_": "0134532F",
+        "ADR_VOIE": "RUE MASSENA",
+        "ADR_CODEPO": 13003,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.38447,
+        "ETAB_LAT": 43.30884
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38447,
+          43.30884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 170.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "NEUVE SAINTE CATHERINE",
+        "ETAB_CODE_": "0130899G",
+        "ADR_VOIE": "17 RUE NEUVE SAINTE CATHERINE",
+        "ADR_CODEPO": 13007,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.369634,
+        "ETAB_LAT": 43.292007
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.369634,
+          43.292007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 171.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BUSSERINE",
+        "ETAB_CODE_": "0130852F",
+        "ADR_VOIE": "BOULEVARD CHARLES MATTEI",
+        "ADR_CODEPO": 13014,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.395252,
+        "ETAB_LAT": 43.33139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.395252,
+          43.33139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 172.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "NEREIDES",
+        "ETAB_CODE_": "0132606M",
+        "ADR_VOIE": "TRAVERSE DES RAYMONDS",
+        "ADR_CODEPO": 13011,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4608526,
+        "ETAB_LAT": 43.284496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4608526,
+          43.284496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 173.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "FIOLLE FALQUE",
+        "ETAB_CODE_": "0133656D",
+        "ADR_VOIE": "69 RUE DU DOCTEUR JEAN FIOLLE",
+        "ADR_CODEPO": 13006,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.379255,
+        "ETAB_LAT": 43.283672
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.379255,
+          43.283672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 174.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CONSOLAT ABEILLES",
+        "ETAB_CODE_": "0130834L",
+        "ADR_VOIE": "160 RUE CONSOLAT",
+        "ADR_CODEPO": 13001,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3934197,
+        "ETAB_LAT": 43.302704
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3934197,
+          43.302704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 175.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BOTINELLY",
+        "ETAB_CODE_": "0130861R",
+        "ADR_VOIE": "21 BOULEVARD LOUIS BOTINELLY",
+        "ADR_CODEPO": 13004,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4047484,
+        "ETAB_LAT": 43.30203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4047484,
+          43.30203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 176.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "FEUILLERAIE",
+        "ETAB_CODE_": "0130875F",
+        "ADR_VOIE": "87 BOULEVARD DE ROUX",
+        "ADR_CODEPO": 13004,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.408606,
+        "ETAB_LAT": 43.307594
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.408606,
+          43.307594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 177.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT LOUIS GARE",
+        "ETAB_CODE_": "0130937Y",
+        "ADR_VOIE": "16 RUE LE CHATELIER",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3599033,
+        "ETAB_LAT": 43.347763
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3599033,
+          43.347763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 178.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MAURELLE JONQUILLES",
+        "ETAB_CODE_": "0132527B",
+        "ADR_VOIE": "170 CHEMIN DES JONQUILLES",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.438353,
+        "ETAB_LAT": 43.320786
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.438353,
+          43.320786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 179.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BUTTE DES CARMES",
+        "ETAB_CODE_": "0133093S",
+        "ADR_VOIE": "RUE DES GRANDS CARMES",
+        "ADR_CODEPO": 13002,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3729134,
+        "ETAB_LAT": 43.301014
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3729134,
+          43.301014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 180.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ROSE FRAIS VALLON NORD",
+        "ETAB_CODE_": "0131247K",
+        "ADR_VOIE": "39 AVENUE DE FRAIS VALLON",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4263253,
+        "ETAB_LAT": 43.325077
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4263253,
+          43.325077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 181.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT JOSEPH LES MICOCOULIERS",
+        "ETAB_CODE_": "0132189J",
+        "ADR_VOIE": "8 BOULEVARD ROLAND DORGELES",
+        "ADR_CODEPO": 13014,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.380016,
+        "ETAB_LAT": 43.346718
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.380016,
+          43.346718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 182.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ALLEE DES PINS LE CABOT",
+        "ETAB_CODE_": "0131831V",
+        "ADR_VOIE": "84 BOULEVARD DU REDON",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.415127,
+        "ETAB_LAT": 43.253395
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415127,
+          43.253395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 183.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BOIS LEMAITRE",
+        "ETAB_CODE_": "0130849C",
+        "ADR_VOIE": "AVENUE JEAN COMPADIEU",
+        "ADR_CODEPO": 13012,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4334917,
+        "ETAB_LAT": 43.321873
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4334917,
+          43.321873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 184.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BELLE DE MAI",
+        "ETAB_CODE_": "0130844X",
+        "ADR_VOIE": "2 RUE DU DOCTEUR LEON PERRIN",
+        "ADR_CODEPO": 13003,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3866897,
+        "ETAB_LAT": 43.31344
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3866897,
+          43.31344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 185.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BALUSTRES",
+        "ETAB_CODE_": "0132335T",
+        "ADR_VOIE": "CHEMIN DE NOTRE DAME DE CONSOLATION",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.421427,
+        "ETAB_LAT": 43.33947
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.421427,
+          43.33947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 186.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT LOUIS LEVEQUE",
+        "ETAB_CODE_": "0130938Z",
+        "ADR_VOIE": "CAMPAGNE LEVEQUE",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.358014,
+        "ETAB_LAT": 43.342518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.358014,
+          43.342518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 187.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CHATEAU GOMBERT",
+        "ETAB_CODE_": "0130859N",
+        "ADR_VOIE": "38 BOULEVARD FERNAND DURBEC",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4386315,
+        "ETAB_LAT": 43.350117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4386315,
+          43.350117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 188.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "PRAIRIES",
+        "ETAB_CODE_": "0132351K",
+        "ADR_VOIE": "CHE DE SAINT MITRE A FOUR DE BUZE",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4176345,
+        "ETAB_LAT": 43.343803
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4176345,
+          43.343803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 189.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CITE AZOULAY",
+        "ETAB_CODE_": "0131534X",
+        "ADR_VOIE": "7 RUE RAPHAEL",
+        "ADR_CODEPO": 13008,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.392668,
+        "ETAB_LAT": 43.268505
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.392668,
+          43.268505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 190.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "PARETTE MAZENODE",
+        "ETAB_CODE_": "0130601H",
+        "ADR_VOIE": "427 BOULEVARD MIREILLE LAUZE",
+        "ADR_CODEPO": 13011,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.430461,
+        "ETAB_LAT": 43.286736
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.430461,
+          43.286736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 191.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MAZARGUES VACCARO",
+        "ETAB_CODE_": "0131646U",
+        "ADR_VOIE": "BOULEVARD DU MARECHAL KOENIG",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.411018,
+        "ETAB_LAT": 43.241802
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.411018,
+          43.241802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 192.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "AMEDEE AUTRAN",
+        "ETAB_CODE_": "0132301F",
+        "ADR_VOIE": "10 BOULEVARD AMEDEE AUTRAN",
+        "ADR_CODEPO": 13007,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3665338,
+        "ETAB_LAT": 43.282223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3665338,
+          43.282223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 193.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAUVAGERE",
+        "ETAB_CODE_": "0130655S",
+        "ADR_VOIE": "253 BOULEVARD ROMAIN ROLLAND",
+        "ADR_CODEPO": 13010,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4153266,
+        "ETAB_LAT": 43.271496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4153266,
+          43.271496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 194.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CHATEAU SAINT JACQUES",
+        "ETAB_CODE_": "0132156Y",
+        "ADR_VOIE": "56 BOULEVARD DE LA VALBARELLE",
+        "ADR_CODEPO": 13011,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4476137,
+        "ETAB_LAT": 43.284855
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4476137,
+          43.284855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 195.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BASTIDE SAINT JEAN",
+        "ETAB_CODE_": "0132747R",
+        "ADR_VOIE": "RUE DE LA BOISERAIE",
+        "ADR_CODEPO": 13012,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.422284,
+        "ETAB_LAT": 43.298294
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.422284,
+          43.298294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 196.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MALPASSE LES FLORALIES",
+        "ETAB_CODE_": "0132906N",
+        "ADR_VOIE": "81 BOULEVARD BARRY",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4119897,
+        "ETAB_LAT": 43.31998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4119897,
+          43.31998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 197.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MARIUS THOMAS",
+        "ETAB_CODE_": "0130743M",
+        "ADR_VOIE": "21 BOULEVARD MARIUS THOMAS",
+        "ADR_CODEPO": 13007,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.362097,
+        "ETAB_LAT": 43.284916
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.362097,
+          43.284916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 198.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "TREILLE",
+        "ETAB_CODE_": "0130831H",
+        "ADR_VOIE": "169 ROUTE DE LA TREILLE",
+        "ADR_CODEPO": 13011,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.512168,
+        "ETAB_LAT": 43.313114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.512168,
+          43.313114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 199.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "FONSCOLOMBE",
+        "ETAB_CODE_": "0133039H",
+        "ADR_VOIE": "7 RUE ANDRE CHAMSON",
+        "ADR_CODEPO": 13003,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.372742,
+        "ETAB_LAT": 43.311813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.372742,
+          43.311813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 200.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CROIX ROUGE CAMPAGNE",
+        "ETAB_CODE_": "0132377N",
+        "ADR_VOIE": "16 AVENUE FOURNACLE",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4566703,
+        "ETAB_LAT": 43.33174
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4566703,
+          43.33174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 201.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MERLAN CERISAIE",
+        "ETAB_CODE_": "0131280W",
+        "ADR_VOIE": "21 BOULEVARD NOTRE DAME DE SANTA CRUZ",
+        "ADR_CODEPO": 13014,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4055157,
+        "ETAB_LAT": 43.33931
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4055157,
+          43.33931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 202.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MONTOLIEU",
+        "ETAB_CODE_": "0133355B",
+        "ADR_VOIE": "RUE MONTOLIEU",
+        "ADR_CODEPO": 13002,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3727465,
+        "ETAB_LAT": 43.303383
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3727465,
+          43.303383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 203.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "HOTEL DES POSTES",
+        "ETAB_CODE_": "0130880L",
+        "ADR_VOIE": "2 PLACE DE L HOTEL DES POSTES",
+        "ADR_CODEPO": 13001,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3744626,
+        "ETAB_LAT": 43.298943
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3744626,
+          43.298943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 204.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ROSE VAL PLAN",
+        "ETAB_CODE_": "0131648W",
+        "ADR_VOIE": "77 AVENUE DE LA CROIX ROUGE",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4336553,
+        "ETAB_LAT": 43.33276
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4336553,
+          43.33276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 205.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "GRANIERE",
+        "ETAB_CODE_": "0132148P",
+        "ADR_VOIE": "CHEMIN DES BAUMILLONS",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3674927,
+        "ETAB_LAT": 43.381226
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3674927,
+          43.381226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 206.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT JUST COROT",
+        "ETAB_CODE_": "0131563D",
+        "ADR_VOIE": "AVENUE COROT",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.405283,
+        "ETAB_LAT": 43.32407
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.405283,
+          43.32407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 207.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT JEROME LES LILAS",
+        "ETAB_CODE_": "0131647V",
+        "ADR_VOIE": "2 RUE FERNAND LEGER",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4110017,
+        "ETAB_LAT": 43.33128
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4110017,
+          43.33128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 208.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ROSE FRAIS VALLON SUD",
+        "ETAB_CODE_": "0131248L",
+        "ADR_VOIE": "AVENUE DE FRAIS VALLON",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.424101,
+        "ETAB_LAT": 43.32403
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.424101,
+          43.32403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 209.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BERGERS",
+        "ETAB_CODE_": "0130846Z",
+        "ADR_VOIE": "11 RUE PERRIN SOLLIERS",
+        "ADR_CODEPO": 13006,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3842483,
+        "ETAB_LAT": 43.291183
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3842483,
+          43.291183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 210.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "OLYMPE DE GOUGES",
+        "ETAB_CODE_": "0130848B",
+        "ADR_VOIE": "74 RUE BEAU",
+        "ADR_CODEPO": 13012,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.41121,
+        "ETAB_LAT": 43.30096
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41121,
+          43.30096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 211.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAVINE",
+        "ETAB_CODE_": "0132421L",
+        "ADR_VOIE": "BOULEVARD DE LA SAVINE",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.368609,
+        "ETAB_LAT": 43.367638
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.368609,
+          43.367638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 212.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT LOUIS LE ROVE",
+        "ETAB_CODE_": "0131539C",
+        "ADR_VOIE": "50 CHEMIN DE SAINT LOUIS AU ROVE",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3554664,
+        "ETAB_LAT": 43.349472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3554664,
+          43.349472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 213.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CHATEAU SAINT CYR",
+        "ETAB_CODE_": "0131243F",
+        "ADR_VOIE": "65 CHE DE LA VALBARELLE A ST MARCEL",
+        "ADR_CODEPO": 13010,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.440407,
+        "ETAB_LAT": 43.281654
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.440407,
+          43.281654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 214.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MAZARGUES GRANDE BASTIDE",
+        "ETAB_CODE_": "0131924W",
+        "ADR_VOIE": "AVENUE DESAUTEL",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4055,
+        "ETAB_LAT": 43.254242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4055,
+          43.254242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 215.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "POMMIER",
+        "ETAB_CODE_": "0130914Y",
+        "ADR_VOIE": "6 RUE POMMIER",
+        "ADR_CODEPO": 13003,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3811245,
+        "ETAB_LAT": 43.309246
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3811245,
+          43.309246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 216.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "JOUVENE VALENTINE",
+        "ETAB_CODE_": "0130954S",
+        "ADR_VOIE": "CHEMIN VICINAL DES ACCATES",
+        "ADR_CODEPO": 13011,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4870963,
+        "ETAB_LAT": 43.298805
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4870963,
+          43.298805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 217.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT LOUIS CONSOLAT",
+        "ETAB_CODE_": "0132344C",
+        "ADR_VOIE": "RUE DES MUSARDISES",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.353115,
+        "ETAB_LAT": 43.347443
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.353115,
+          43.347443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 218.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "VAUBAN",
+        "ETAB_CODE_": "0130955T",
+        "ADR_VOIE": "122 BOULEVARD VAUBAN",
+        "ADR_CODEPO": 13006,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.373193,
+        "ETAB_LAT": 43.282295
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.373193,
+          43.282295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 219.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "JEAN MERMOZ",
+        "ETAB_CODE_": "0130883P",
+        "ADR_VOIE": "128 RUE JEAN MERMOZ",
+        "ADR_CODEPO": 13008,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3866553,
+        "ETAB_LAT": 43.272827
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3866553,
+          43.272827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 220.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "MAURELLE",
+        "ETAB_CODE_": "0130745P",
+        "ADR_VOIE": "22 RUE MARIUS BRIATA",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4398394,
+        "ETAB_LAT": 43.320446
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4398394,
+          43.320446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 221.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BERNABO",
+        "ETAB_CODE_": "0130847A",
+        "ADR_VOIE": "1 TRAVERSE BERNABO",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3567696,
+        "ETAB_LAT": 43.337242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3567696,
+          43.337242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 222.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BEAUMONT BOMBARDIERE",
+        "ETAB_CODE_": "0130842V",
+        "ADR_VOIE": "213 RUE CHARLES KADDOUZ",
+        "ADR_CODEPO": 13012,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.43844,
+        "ETAB_LAT": 43.318314
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.43844,
+          43.318314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 223.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BERNARD CADENAT",
+        "ETAB_CODE_": "0133920R",
+        "ADR_VOIE": "7 RUE JOBIN",
+        "ADR_CODEPO": 13003,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3886023,
+        "ETAB_LAT": 43.311474
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3886023,
+          43.311474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 224.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CHATEAU SEC",
+        "ETAB_CODE_": "0131531U",
+        "ADR_VOIE": "39 CHEMIN JOSEPH AIGUIER",
+        "ADR_CODEPO": 13009,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4082975,
+        "ETAB_LAT": 43.254124
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4082975,
+          43.254124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 225.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CAILLOLS",
+        "ETAB_CODE_": "0131654C",
+        "ADR_VOIE": "32 CHEMIN DES CAMPANULES",
+        "ADR_CODEPO": 13012,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.447765,
+        "ETAB_LAT": 43.30053
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.447765,
+          43.30053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 226.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT BARTHELEMY SNCF",
+        "ETAB_CODE_": "0130928N",
+        "ADR_VOIE": "ALLEE MARCEL SOULAT",
+        "ADR_CODEPO": 13014,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3907313,
+        "ETAB_LAT": 43.32361
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3907313,
+          43.32361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 227.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "STRASBOURG",
+        "ETAB_CODE_": "0130951N",
+        "ADR_VOIE": "26 RUE DU SUD ET DU PERE LOUIS THEROBE",
+        "ADR_CODEPO": 13003,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3781753,
+        "ETAB_LAT": 43.307255
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3781753,
+          43.307255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 228.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "SAINT JEROME VILLAGE",
+        "ETAB_CODE_": "0131250N",
+        "ADR_VOIE": "20 RUE DES POLYTRES",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4168787,
+        "ETAB_LAT": 43.330017
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4168787,
+          43.330017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 229.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BOIS LUZY",
+        "ETAB_CODE_": "0130850D",
+        "ADR_VOIE": "ALLEE DES PRIMEVERES",
+        "ADR_CODEPO": 13012,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.426797,
+        "ETAB_LAT": 43.31238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.426797,
+          43.31238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 230.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CITE MICHELIS",
+        "ETAB_CODE_": "0130863T",
+        "ADR_VOIE": "33 AVENUE DU PONTET",
+        "ADR_CODEPO": 13011,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4485364,
+        "ETAB_LAT": 43.283794
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4485364,
+          43.283794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 231.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "AHMED LITIM",
+        "ETAB_CODE_": "0134095F",
+        "ADR_VOIE": "12 RUE BUGEAUD",
+        "ADR_CODEPO": 13003,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.3856034,
+        "ETAB_LAT": 43.307373
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3856034,
+          43.307373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 232.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "GRAND SAINT GINIEZ",
+        "ETAB_CODE_": "0130879K",
+        "ADR_VOIE": "257 AVENUE DE MAZARGUES",
+        "ADR_CODEPO": 13008,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.39339,
+        "ETAB_LAT": 43.263523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.39339,
+          43.263523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 233.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BUZINE",
+        "ETAB_CODE_": "0133111L",
+        "ADR_VOIE": "TRAVERSE DE LA BUZINE",
+        "ADR_CODEPO": 13011,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.503158,
+        "ETAB_LAT": 43.294086
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.503158,
+          43.294086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 234.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BARASSE",
+        "ETAB_CODE_": "0130839S",
+        "ADR_VOIE": "16 BOULEVARD LUCIEN MARGAILLAN",
+        "ADR_CODEPO": 13011,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4820495,
+        "ETAB_LAT": 43.283466
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4820495,
+          43.283466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 235.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CHARTREUX ALBE",
+        "ETAB_CODE_": "0130858M",
+        "ADR_VOIE": "2 RUE VINCENT FAITA",
+        "ADR_CODEPO": 13004,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.4078255,
+        "ETAB_LAT": 43.313248
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4078255,
+          43.313248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 236.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "CHUTES LAVIE",
+        "ETAB_CODE_": "0130862S",
+        "ADR_VOIE": "63 ALLEE DES PLATANES",
+        "ADR_CODEPO": 13004,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.395108,
+        "ETAB_LAT": 43.315834
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.395108,
+          43.315834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 237.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ROSE PLACE",
+        "ETAB_CODE_": "0130616Z",
+        "ADR_VOIE": "PLACE DE LA ROSE",
+        "ADR_CODEPO": 13013,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.428024,
+        "ETAB_LAT": 43.328606
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.428024,
+          43.328606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 238.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ACCATES LA VALENTINE",
+        "ETAB_CODE_": "0130515P",
+        "ADR_VOIE": "CHEMIN VICINAL DES ACCATES",
+        "ADR_CODEPO": 13011,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.492473,
+        "ETAB_LAT": 43.303234
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.492473,
+          43.303234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 239.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "BOMPARD",
+        "ETAB_CODE_": "0130688C",
+        "ADR_VOIE": "131 BOULEVARD BOMPARD",
+        "ADR_CODEPO": 13007,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.361006,
+        "ETAB_LAT": 43.27953
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.361006,
+          43.27953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 240.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "ANDRE ALLAR",
+        "ETAB_CODE_": "0134225X",
+        "ADR_VOIE": "2 RUE ANDRE ALLAR",
+        "ADR_CODEPO": 13015,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.364344,
+        "ETAB_LAT": 43.324234
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.364344,
+          43.324234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": 241.0,
+        "COLL_NOM": "Ville de Marseille",
+        "COLL_SIRET": 21130055300016.0,
+        "ETAB_TYPE": "ECOLE MATERNELLE",
+        "ETAB_NOM": "PAIX",
+        "ETAB_CODE_": "0130599F",
+        "ADR_VOIE": "56 RUE DE LA PAIX MARCEL PAUL",
+        "ADR_CODEPO": 13006,
+        "ADR_COMMUN": "MARSEILLE",
+        "ETAB_LON": 5.372641,
+        "ETAB_LAT": 43.291004
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.372641,
+          43.291004
+        ]
+      }
+    }
+  ]
+}
